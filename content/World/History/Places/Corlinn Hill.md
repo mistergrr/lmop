@@ -1,0 +1,1 @@
+A large estate located in the hills northeast of [[Neverwinter]]. [[The Cataclysm]] wiped it out.
