@@ -28,12 +28,12 @@ One guards the past, one guards the space.
 The third awaits, in shadows deep,  
 For those who seek the truths they keep.
 >
->To find the path, you must discern,  
+To find the path, you must discern,  
 The order in which their secrets turn.  
 First, the keeper of bygone days,  
 Next, the one who guards the maze.  
 Lastly, the one in silence stays,  
 Whose name will guide you through the haze.
 >
->Align their truths in proper array,  
+Align their truths in proper array,  
 And the entrance to knowledge will be displayed."

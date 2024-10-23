@@ -54,34 +54,48 @@ Session length:
 	- Check out Halfling species traits.
 
 ## Possible Scenes
+- [[Eldon Tosscobble|Eldon]] invited to [[Thieves' Guild]]
 - Buying silvered weapons
-- Clearing of thrills
+- Scenes of a Thriller
 - Travel encounter (hobgoblin patrol)
 
 ## Secrets and Clues
-- 
+- [[Ruby Roo]]'s "root" is a stash of roots AKA weed.
+- Scar Alley has thieves' cants 
+- [[Richtor Helmsley III|Richtor]] has already been marked for theft
 
 ## Locations
-[[Helm's Hold]]
-The Watcher's Wood
-[[Cragmaw Castle]]
+- [[Helm's Hold]]
+- Scar Alley
+- The Watcher's Wood
+- [[Cragmaw Castle]]
 
 ## NPCs
-[[Ruby Roo]]
-Blacksmith — 
+- [[Ruby Roo]]
+- Blacksmith — Edgar
+- [[Shortstop]] the Halfling thief
+- Necromancer
 
 ## Relevant Monsters
+- [[Wolf]]
 - Zombies & zombie ogre
+- Necromancer
 - Hobgoblin patrol
 
 ## Rewards
-- [[Thia Galanodel|Thia]] Scroll of Chong's Cloudburst
 - [[Dorian of Galdor]] Level to 3. Learn **Detect Magic** for free.
-- Ruby Racks — A seemingly ordinary bag filled with enchanted snacks. Once per day, eating one of these snacks restores 1d4 hit points, or grants 1d4 temporary hit points for 1 hour. If more than one snack is consumed in a day, the eater must make a CON saving throw or be charmed for 1 hour, thinking that everyone around them is a monster (hallucinations ensue).
-- RR Collar — This collar grants an animal companion the ability to speak Common. It doesn’t increase their intelligence, but it allows for better communication with the party, making them a more reliable ally. The wearer can make Charisma (Persuasion) checks at advantage when trying to charm or calm down other animals.
-## Starting Scene
+- [[Scroll of Chong's Cloudblast]]
+- [[Ruby Racks]]
+- [[RR Collar]]
+- Potion of healing
+- **Art objects**
+	- Pair of engraved bone dice (25gp)
+	- Gold locket with a painted portrait of a daschund inside (25gp)
 
-# Day 9
+## Starting Scene
+[[Thia Galanodel|Thia]] dreams of [[Reconsecrate the Altar]] steps. (Gael to think of Sacred Words.)
+[[Eldon Tosscobble|Eldon]] is pulled over by a mysterious halfling outside the [[Old Dirty Dwarf]]. He's invited to visit the [[Thieves' Guild]] and also warned that flashing gold coin draws unwanted attention.
+# Day 10
 
 # Summary
 

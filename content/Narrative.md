@@ -14,10 +14,11 @@ Quests in [[Phandalin Town|Phandalin]]
 - [[Quests#^town-wedding|Small Town Wedding]]
 
 ## Arc 3 | Helm's Hold
-[[Triboar Trail Encounters]]
-[[Ruby Roo's Root]]
+- [[Triboar Trail Encounters]]
+- [[Ruby Roo's Root]]
 
 ## Arc 4 | The Spider's Web
+- [[Triboar Trail Encounters]]
 - [[Quests#^rescue-gundren|Rescue Gundren]]
 - [[Reconsecrate the Altar]]
 
