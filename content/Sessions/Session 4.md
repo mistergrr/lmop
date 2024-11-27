@@ -19,7 +19,7 @@ Session length: 3.5 hours
 
 [[Sildar Hallwinter|Sildar]] encourages them to find out what happened to [[Iarno Albrek|Iarno Albrek]] — [[Quests#^find-iarno]].
 
-[[Eldon Tosscobble|Eldon]] and [[Grrurika]] return to the inn to look for potential recruits. They meet an old gnome eating soup, [[Ziggywix Tinkerton]]. They induct him into the party.
+[[Eldina Tosscobble|Eldon]] and [[Grrurika]] return to the inn to look for potential recruits. They meet an old gnome eating soup, [[Ziggywix Tinkerton]]. They induct him into the party.
 
 The rest go to [[Lionshield Coster]] to buy supplies.
 
@@ -30,15 +30,15 @@ On leaving, three [[Redbrands]] pick a fight.
 
 > [[Aric Moonshadow|Aric]] "Commands" a [[Redbrands|Redbrand]] to "swing" his weapon, hitting an ally. The Redbrands take turns swinging at [[Richtor Helmsley III|Richtor]], but can't break his defence.
 
-> [[Thia Galanodel|Thia]] makes a ruffian soil himself and [[Aric Moonshadow|Aric]] blasts him away. [[Richtor Helmsley III|Richtor]] kills another. The last ruffian flees. The two dead ruffians are looted for their cloaks, which are donned by [[Aric Moonshadow|Aric]] and [[Eldon Tosscobble|Eldon]].
+> [[Thia Galanodel|Thia]] makes a ruffian soil himself and [[Aric Moonshadow|Aric]] blasts him away. [[Richtor Helmsley III|Richtor]] kills another. The last ruffian flees. The two dead ruffians are looted for their cloaks, which are donned by [[Aric Moonshadow|Aric]] and [[Eldina Tosscobble|Eldon]].
 
-[[Eldon Tosscobble|Eldon]], [[Grrurika]], and [[Ziggywix Tinkerton|Ziggywix]] arrive. [[Ziggywix Tinkerton|Ziggy]] pisses on the dead ruffians and carves "Scum" onto their bodies. His dick is huge.
+[[Eldina Tosscobble|Eldon]], [[Grrurika]], and [[Ziggywix Tinkerton|Ziggywix]] arrive. [[Ziggywix Tinkerton|Ziggy]] pisses on the dead ruffians and carves "Scum" onto their bodies. His dick is huge.
 
 The party strings up the dead [[Redbrands]] in the town square. **-1 Town #rep**
 
 They buy leather armour for [[Ziggywix Tinkerton|Ziggy]] while [[Richtor Helmsley III|Richtor]] commissions a [[Wolf Head Cloak]] from [[Finnegan Greenbottle]] — 2 days to complete.
 
-[[Eldon Tosscobble|Eldon]] leads the party under [[World/Locations/Phandalin/Tresendar Manor]] via the "Tunnel of Love." He bumps into the Nothic in the cave. The Nothic refers to itself as "[[This One]]" and provides information in exchange for meat, which it dumps into the crevasse.
+[[Eldina Tosscobble|Eldon]] leads the party under [[World/Locations/Phandalin/Tresendar Manor]] via the "Tunnel of Love." He bumps into the Nothic in the cave. The Nothic refers to itself as "[[This One]]" and provides information in exchange for meat, which it dumps into the crevasse.
 - Redbrands use tunnel to smuggle goods and people.
 
 # Summary

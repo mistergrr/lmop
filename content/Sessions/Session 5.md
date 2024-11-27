@@ -42,9 +42,9 @@ Outside, [[Ziggywix Tinkerton|Ziggywix]] is singing a calming song to the skelet
 The party goes to the common room. The captain inside immediately recognises they're not [[Redbrands]] and initiates combat. The five ruffians are drunk.
 
 **Combat**
-> [[Richtor Helmsley III|Richtor]] kills the captain. [[Aric Moonshadow|Aric]] blasts a guard. [[Thia Galanodel|Thia]] freezes a guard while [[Richtor Helmsley III|Richtor]] finishes him. One guard flees while [[Eldon Tosscobble|Eldon]] kills the last one in the room.
+> [[Richtor Helmsley III|Richtor]] kills the captain. [[Aric Moonshadow|Aric]] blasts a guard. [[Thia Galanodel|Thia]] freezes a guard while [[Richtor Helmsley III|Richtor]] finishes him. One guard flees while [[Eldina Tosscobble|Eldon]] kills the last one in the room.
 
-[[Grrurika]] heals [[Eldon Tosscobble|Eldon]] while [[Thia Galanodel|Thia]], [[Korah]], and [[Ziggywix Tinkerton|Ziggywix]] drag bodies into the crevasse.
+[[Grrurika]] heals [[Eldina Tosscobble|Eldon]] while [[Thia Galanodel|Thia]], [[Korah]], and [[Ziggywix Tinkerton|Ziggywix]] drag bodies into the crevasse.
 
 Meanwhile, [[Aric Moonshadow|Aric]] and [[Richtor Helmsley III|Richtor]] run after the fleeing ruffian, only to find themselves in a room with three Bugbears and [[Droop]], who faints. One of the bugbears is [[Klarg]], who has a [[Jewelled Eyepatch]].
 
@@ -64,5 +64,5 @@ Cleared [[World/Locations/Phandalin/Tresendar Manor]] and deposited the bodies i
 [[Grrurika]] 1 Redbrand
 [[Korah]] 1 Redbrand, 2 Bugbears
 [[Richtor Helmsley III]] 4 Redbrands, 1 Bugbear
-[[Eldon Tosscobble|Eldon]] 1 Redbrand
+[[Eldina Tosscobble|Eldon]] 1 Redbrand
 ^kills

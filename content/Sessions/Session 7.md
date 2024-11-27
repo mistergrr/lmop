@@ -17,7 +17,7 @@ Session length: 3 hours
 
 **Character Moments**
 - [[Dorian of Galdor|Dorian]] gains 160xp
-- [[Eldon Tosscobble|Eldon]] How did Eldon become a "Phantom" Rogue? Revenge & death?
+- [[Eldina Tosscobble|Eldon]] How did Eldon become a "Phantom" Rogue? Revenge & death?
 - [[Grrurika]] Kill D&Deesus?
 - [[Richtor Helmsley III|Richtor]] gets his [[Wolf Head Cloak]] tomorrow
 - [[Thia Galanodel|Thia]] "Knock Knock" and "Dancing Lights." Gameplay tips? Subclass in Tasha's "Order of Scribes"
@@ -35,7 +35,7 @@ The party have chosen to squat in the basement. Potential to be evicted if someo
 
 [[Thia Galanodel|Thia]] cleans the blood from town square with "Prestidigitation."
 
-[[Eldon Tosscobble|Eldon]] and [[Grrurika]] go hunting in the small patch of trees near [[World/Locations/Phandalin/Tresendar Manor|Tresendar Manor]]. They find: 4 cups of red berries; 4 white mushrooms; 4 blue eggs; 2 brown eggs. They fail to catch rabbits. **There is no big game in this area.**
+[[Eldina Tosscobble|Eldon]] and [[Grrurika]] go hunting in the small patch of trees near [[World/Locations/Phandalin/Tresendar Manor|Tresendar Manor]]. They find: 4 cups of red berries; 4 white mushrooms; 4 blue eggs; 2 brown eggs. They fail to catch rabbits. **There is no big game in this area.**
 
 [[Thia Galanodel|Thia]] and [[Dorian of Galdor|Dorian]] pick flowers in the same area. They find: white flowers, blue flowers, and green foliage.
 
@@ -43,10 +43,10 @@ The party have chosen to squat in the basement. Potential to be evicted if someo
 
 It'll take too long to carry them one by one so [[Richtor Helmsley III|Richtor]] borrows a wagon from [[Elmar Barthen|Barthen]], who loans it for free since it's for the wedding. 9 kegs donated to wedding.
 
-[[Thia Galanodel|Thia]] and [[Dorian of Galdor|Dorian]] plan a DJ set as the gang regroups in town square. [[Richtor Helmsley III|Richtor]] has heard of a hunting area an hour north of town. He leads everyone there. They find animal tracks that diverge. [[Eldon Tosscobble|Eldon]] and [[Dorian of Galdor|Dorian]] follow one set, the rest follow the other.
+[[Thia Galanodel|Thia]] and [[Dorian of Galdor|Dorian]] plan a DJ set as the gang regroups in town square. [[Richtor Helmsley III|Richtor]] has heard of a hunting area an hour north of town. He leads everyone there. They find animal tracks that diverge. [[Eldina Tosscobble|Eldon]] and [[Dorian of Galdor|Dorian]] follow one set, the rest follow the other.
 
 **Eldon and Dorian**
-They follow the tracks until they sense animals nearby. Snuffling sounds are heard. [[Dorian of Galdor|Dorian]] casts "Sleep" in the direction of the sounds and hears a thud. [[Eldon Tosscobble|Eldon]] steps out from the bushes and starts firing. He catches a group of [[boar|boars]] by surprise, killing one and wounding another with his phantom skill. He fires another shot, but misses.
+They follow the tracks until they sense animals nearby. Snuffling sounds are heard. [[Dorian of Galdor|Dorian]] casts "Sleep" in the direction of the sounds and hears a thud. [[Eldina Tosscobble|Eldon]] steps out from the bushes and starts firing. He catches a group of [[boar|boars]] by surprise, killing one and wounding another with his phantom skill. He fires another shot, but misses.
 
 The injured [[boar]] charges Eldon and knocks him prone. [[Dorian of Galdor|Dorian]] steps out and "Magic Missiles" it.
 
@@ -64,7 +64,7 @@ The [[Giant Elk]] turns its head, hitting [[Thia Galanodel|Thia]] hard.
 Bloodied and with a broken antler, the [[Giant Elk]] tries to disengage an run away. [[Thia Galanodel|Thia]] uses "Dancing Lights" to startle the elk. [[Grrurika]] stretches her hand and casts "Guiding Bolt," killing the injured elk.
 
 **Heading back**
-[[Eldon Tosscobble|Eldon]] and [[Dorian of Galdor|Dorian]] regroup with their four boars and help everyone load the kill onto the wagon that [[Richtor Helmsley III|Richtor]] brought.
+[[Eldina Tosscobble|Eldon]] and [[Dorian of Galdor|Dorian]] regroup with their four boars and help everyone load the kill onto the wagon that [[Richtor Helmsley III|Richtor]] brought.
 
 As they reach [[Phandalin Town]], the sun has long set and dark clouds gather overhead. [[Sister Garaele]] sees them with the carcass of the [[Giant Elk]] and exclaims, "What have you done?" She informs them of the beliefs about Giant Elk and how killing one is a terrible omen. She urges them to take it away, especially with the wedding coming the next day.
 
@@ -80,7 +80,7 @@ After discussions about burning the body in a bonfire, they decide instead to cu
 [[Dorian of Galdor]]:
 **Curse of Unstable Magic**: The death of the God of Rebirth has disrupted the natural flow of magic. Whenever they cast a spell, there’s a 25% chance the spell will have a random, chaotic effect instead of its intended outcome. **Use the wild magic table**
 
-[[Eldon Tosscobble]]
+[[Eldina Tosscobble]]
 **Curse of Lost Shadows**: The rogue’s connection to the ethereal is severed. They lose the ability to fully merge with shadows, making their Stealth checks automatically fail once per day at a critical moment.
 
 [[Grrurika]]
@@ -105,6 +105,6 @@ Brandt and Gaelyn's wedding was a beautiful success and the town appreciates it.
 ^summary
 # Kills
 [[Dorian of Galdor]]: 2 boars
-[[Eldon Tosscobble]]: 2 boars
+[[Eldina Tosscobble]]: 2 boars
 [[Grrurika]]: 1 giant elk
 ^kills

@@ -31,7 +31,7 @@ Once they reach the cave, [[Aric Moonshadow]] executes [[Toe Jam]] with a dagger
 
 Two goblins fire from behind thickets. [[Thia Galanodel|Thia]] burns the thickets down while [[Richtor Helmsley III|Richtor]] and [[Grrurika]] kill the goblins.
 
-A stream runs through the cave. There's a chamber with three wolves chained to a pillar. [[Grrurika]] calms the wolves while [[Eldon Tosscobble|Eldon]] and [[Richtor Helmsley III|Richtor]] climb a chute at the back. At the top, [[Eldon Tosscobble|Eldon]] shines a torch into the opening, revealing a surprised [[Klarg]]. They slide back down the rope before [[Klarg]] can cut it, getting rope burn in the process.
+A stream runs through the cave. There's a chamber with three wolves chained to a pillar. [[Grrurika]] calms the wolves while [[Eldina Tosscobble|Eldon]] and [[Richtor Helmsley III|Richtor]] climb a chute at the back. At the top, [[Eldina Tosscobble|Eldon]] shines a torch into the opening, revealing a surprised [[Klarg]]. They slide back down the rope before [[Klarg]] can cut it, getting rope burn in the process.
 
 Party follows the stream further in, coming across a bridge up above. They try to sneak past but are detected by a goblin guarding the bridge. The goblin shouts a warning before throwing javelins. [[Thia Galanodel|Thia]] casts "Sleep" on goblin.
 

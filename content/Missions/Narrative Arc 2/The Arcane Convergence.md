@@ -32,7 +32,7 @@ The players must adapt the ritual to fit the chosen site, taking into account it
 - **Environmental Challenges**: The site may present natural or magical challenges during the ritual. The players must overcome or mitigate these challenges to ensure the convergence stabilises. Examples include:
     - **Volcanic Eruptions**: In a volcanic site, the ritual might trigger eruptions or lava flows.
     - **Elemental Manifestations**: In an elemental site, powerful elemental creatures might appear, drawn by the disturbance. The rest of the party have to fight off the elementals while [[Dorian of Galdor|Dorian]] conducts the ritual.
-	    - [[Richtor Helmsley III]], [[Grrurika]] [[Thia Galanodel]] [[Eldon Tosscobble]]
+	    - [[Richtor Helmsley III]], [[Grrurika]] [[Thia Galanodel]] [[Eldina Tosscobble]]
     - **Weather Phenomena**: In a stormy location, the ritual could intensify the storm, with lightning strikes or gale-force winds threatening the wizards.
 
 # Outcomes and Elemental Resistance Boon

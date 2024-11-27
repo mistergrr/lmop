@@ -14,7 +14,7 @@ Goblins have defiled a shrine once sacred to [[Oghma]]. They've now dedicated it
 # Loot
 Human-made art objects. (cursed if stolen). INT decreases by 2 every day until cursed item returned. If used, user is attuned and proficiency bonus halved. Requires "Remove Curse" to break attunement.
 - Chalice (150 gp) (+1 HP regained if used)
-- Ceremonial obsidian knife (60 gp) (+1 dagger)
+- [[Ceremonial obsidian knife]] (60 gp) (+1 dagger)
 - Censer (120gp)
 
 # Reward
@@ -22,18 +22,3 @@ Human-made art objects. (cursed if stolen). INT decreases by 2 every day until c
 -OR-
 - Charm of the Sage — 1 use, cast Divination for free.
 - Riddle to open the [[Library of Whispers]]
-
->"Three guardians stand in silent embrace,  
-One guards the past, one guards the space.  
-The third awaits, in shadows deep,  
-For those who seek the truths they keep.
->
-To find the path, you must discern,  
-The order in which their secrets turn.  
-First, the keeper of bygone days,  
-Next, the one who guards the maze.  
-Lastly, the one in silence stays,  
-Whose name will guide you through the haze.
->
-Align their truths in proper array,  
-And the entrance to knowledge will be displayed."

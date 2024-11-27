@@ -52,12 +52,13 @@
 ## Arc 3 | The Spider's Web
 ### Sidequests
 [[Triboar Trail Encounters]]
-- [ ] Ruby Roo's Root ^ruby-roo
+- [ ] [[Ruby Roo's Root]]
 	- Defeat the monsters
 	- **Rewards**
-		- Scroll of Ray of Sickness*
+		- [[Scroll of Chong's Cloudblast]]
 		- Mary Jane
-		- Raggy
+		- [[Ruby Rax]]
+		- [[RR Collar]]
 - [ ] Rescue Gundren ^rescue-gundren
 	- Optional tasks:
 		-  [ ] Find Sildar's gear (+150gp)
@@ -135,9 +136,12 @@
 - Location: 
 - **Rewards**:
 	- Curse removed
-	-  **Ley Line Conduit**: Once per day, the wizard can cast a spell without expending a spell slot, as they can now tap directly into the energy of the ley lines.
+	- **Ley Line Conduit**: Once per day, the wizard can cast a spell up to level 2 without expending a spell slot, as they can now tap directly into the energy of the ley lines.
 	 or
 	- **Elemental Affinity**: The wizard chooses one type of elemental damage (fire, cold, lightning, etc.) and gains resistance to that damage. Additionally, when they cast a spell of that damage type, they add an extra die of damage.
+- Reward for [[Dorian Blackthorn]]
+	- **Controlled Wild Magic:** Once a day, can cast from the Wild Magic Surge table without expending a spell slot.
+	- 
 ## Eldon's Penance
 Eldon must perform an ancient ritual to bind their soul to the shadows once more, restoring their lost ability. [[Ritual of Shadow Binding]].
 - [ ] Find the [[Shadow Codex]] ^eldon-find
