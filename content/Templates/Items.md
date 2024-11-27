@@ -1,5 +1,7 @@
 ---
 Type: 
+Level: 
+Rarity:
 ---
 
 # Description.

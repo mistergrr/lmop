@@ -25,7 +25,7 @@ Restore position and family's name.
 - Warhammer [[Thunderclap]] is a family heirloom.
 - Questions his family's noble status.
 # Connections
-- [[Eldon Tosscobble]]:
+- [[Eldina Tosscobble]]:
 - [[Dorian of Galdor]]
 - [[Grrurika]]
 	- Want to rescue [[Gundren Rockseeker|Gundren]] and help [[Phandalin Town|Phandalin]]

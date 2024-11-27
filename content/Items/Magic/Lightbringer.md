@@ -1,5 +1,6 @@
 ---
-Type: Mace
+Type: Weapon +1
+Rarity: Uncommon
 ---
 +1 mace
 # Description.

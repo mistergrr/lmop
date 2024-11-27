@@ -1,5 +1,7 @@
 ---
 Type: Spell Scroll
+Level: "3"
+Rarity: Uncommon
 ---
 **Casting Time**: 1 hour
 **Range**: Touch

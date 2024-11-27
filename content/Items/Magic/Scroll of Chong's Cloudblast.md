@@ -1,5 +1,7 @@
 ---
 Type: Spell Scroll
+Level: "1"
+Rarity: Common
 ---
 **Casting time**: 1 Action
 **Range**: 60ft

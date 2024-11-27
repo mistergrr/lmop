@@ -24,7 +24,7 @@ Will do just about anything to uncover historical secrets that will add to her r
 # Bonds
 Tome of Spells is entire life's work.
 # Connections
-- [[Eldon Tosscobble]]:
+- [[Eldina Tosscobble]]:
 	- Eldon wants the [[Shadow Codex]] found in [[Library of Whispers]]
 - [[Dorian of Galdor]]
 - [[Grrurika]]

@@ -30,47 +30,48 @@ Background:
 - Uses [[Iarno Albrek|Iarno's]] connections and resources to further his goal of assassinating [[King Belion]]. 
 
 # Erynel's Poems
-**What's in a Name?**
-What's in a name? That which we call a rose
-By any other name would smell as sweet.
-So Son of Galdor would, were he not Galdor called.
-
-Without that title. Love, doff thy name;
-And for thy name, which is no part thee,
-Take all myself.
-
-E — The Forlorn
-
-**Cursed Blessings**
-My only love, sprung from my only hate!
-Though blessed by the moon, yet cursed by fate!
-Prodigious birth of love it is to me
-That I must love a loathed enemy.
-
-E — The Enraged
-
-**Love Springs Forth**
-O, to meet once more! Where the crickets hum soft.
-Cradled in your arms, my soul and dreams held aloft.
-The winter winds through which King's eyes blow
-Are insufficient still, to chill my love's raging flow.
-
-E — The Unshakeable
-
-**My Love's Eternal**
-Coiled like the roots 'neath the Old Great Oak
-We lay entwined, speaking with words unspoke.
-Your eyes shone bright, singing songs so clear,
-"My love's eternal. There's naught to fear."
-
-Alas! The latter rang untrue.
-For out of the shadows stepped a king so cruel.
-"Off with thy head! Let me end my chagrin.
-Finally! I am rid of the last Celadrin."
-
-Sold like stale bread; half a pence per pound.
-To what new lands, new masters I am found?
-Like the stars above, my love's eternal.
-I pray thee not forget, yours forever, your Erynel.
-
-E — The Despondent 
+- [ ] **What's in a Name?**
+	What's in a name? That which we call a rose
+	By any other name would smell as sweet.
+	So Son of Galdor would, were he not Galdor called.
+	
+	Without that title. Love, doff thy name;
+	And for thy name, which is no part thee,
+	Take all myself.
+	
+	E — The Forlorn
+^forlorn
+- [ ] **Cursed Blessings**
+	My only love, sprung from my only hate!
+	Though blessed by the moon, yet cursed by fate!
+	Prodigious birth of love it is to me
+	That I must love a loathed enemy.
+	
+	E — The Enraged
+^enraged
+- [ ] **Love Springs Forth**
+	O, to meet once more! Where the crickets hum soft.
+	Cradled in your arms, my soul and dreams held aloft.
+	The winter winds through which King's eyes blow
+	Are insufficient still, to chill my love's raging flow.
+	
+	E — The Unshakeable
+^unshakeable
+- [ ] **My Love's Eternal**
+	Coiled like the roots 'neath the Old Great Oak
+	We lay entwined, speaking with words unspoke.
+	Your eyes shone bright, singing songs so clear,
+	"My love's eternal. There's naught to fear."
+	
+	Alas! The latter rang untrue.
+	For out of the shadows stepped a king so cruel.
+	"Off with thy head! Let me end my chagrin.
+	Finally! I am rid of the last Celadrin."
+	
+	Sold like stale bread; half a pence per pound.
+	To what new lands, new masters I am found?
+	Like the stars above, my love's eternal.
+	I pray thee not forget, yours forever, your Erynel.
+	
+	E — The Despondent
+^despondent

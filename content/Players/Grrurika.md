@@ -17,7 +17,7 @@ Rescue her cousins.
 # Bonds
 Cousins [[Gundren Rockseeker|Gundren]], [[Tharden Rockseeker|Tharden]], and [[Nundro Rockseeker]].
 # Connections
-- [[Eldon Tosscobble]]:
+- [[Eldina Tosscobble]]:
 	- Enemies at [[Cradle of Life]] has Eldon's ritual components
 - [[Dorian of Galdor]]
 	- Cleansed [[Cradle of Life]] is suitable location for [[The Arcane Convergence]]

@@ -21,7 +21,9 @@ Excommunicated Prince of Galdor
 - Son of [[King Belion]] of [[Galdor]].
 - Lover was sold into slavery by [[King Belion]].
 - Motivated by justice and helping those in need.
-- Was accused of using magic to aid a rebellion in [[]] and was imprisoned. Met [[Eldon Tosscobble]] in prison. They broke out together, pursued by guard and bounty hunters.
+- Was accused of using magic to aid a rebellion in [[]] and was imprisoned. Met [[Eldina Tosscobble]] in prison. They broke out together, pursued by guard and bounty hunters.
+
+- Turned himself blue in a misfortunate spell going wild.
 # Goals
 Find [[Erynel]], although fears they are dead.
 # Flaws
@@ -35,7 +37,7 @@ Too trusting and gullible.
 - Father: King Belion of Galdor
 - Mother: Queen Aeloria
 # Connections
-- [[Eldon Tosscobble]]:
+- [[Eldina Tosscobble]]:
 	- Broke out of prison together
 	- Searching for [[Iarno Albrek|Glasstaff]]
 - [[Grrurika]]

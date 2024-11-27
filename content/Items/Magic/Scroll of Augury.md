@@ -1,5 +1,7 @@
 ---
 Type: Spell Scroll
+Level: "2"
+Rarity: Uncommon
 ---
 # Description. 
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:

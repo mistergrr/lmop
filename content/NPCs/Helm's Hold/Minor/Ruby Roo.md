@@ -8,5 +8,6 @@ Background:
 **Age**: 
 **Voice**: Scooby Doo
 **Description**: 
-Giant red kangaroo
+Giant red kangaroo. Pot head.
 **Quests**:
+![[Ruby Roo's Root]]
