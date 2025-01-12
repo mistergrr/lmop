@@ -10,3 +10,4 @@
 - [[Session 8]]: Helm's Hold
 - [[Session 9]]: Ruby Roo
 - [[Session 10]]: To Cragmaw Castle
+- [[Session 11]]: Cragmaw Castle
