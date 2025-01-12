@@ -1,0 +1,4 @@
+- Epic boss fight
+- **Theme** Death & Hell
+- [[Iarno Albrek|Glasstaff]] tried to take the church before this.
+- The church was near a town where [[Erynel]] was seen.

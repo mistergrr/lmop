@@ -1,0 +1,11 @@
+---
+aliases:
+  - 
+Race: 
+Class: 
+Background:
+---
+**Age**: 
+**Voice**: 
+**Description**: 
+**Quests**:

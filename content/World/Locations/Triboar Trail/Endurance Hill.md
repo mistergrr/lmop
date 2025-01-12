@@ -1,0 +1,1 @@
+Location of [[The Trial of Endurance]]
