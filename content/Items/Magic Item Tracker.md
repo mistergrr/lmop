@@ -3,6 +3,7 @@
 - [x] [[Molotov Cocktail]]
 - [x] [[Scroll of Chong's Cloudblast]]
 - [x] [[Wolf Head Cloak]]
+- [ ] Ball bearings (bag of 1,000) 1gp, 2lbs 
 ## Uncommon (4)
 - [ ] [[Ceremonial Obsidian Knife]]
 - [ ] [[Hew]]

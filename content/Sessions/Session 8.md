@@ -113,6 +113,7 @@ Richtor kills the last blackblade. [[Eldina Tosscobble|Eldon]] can finally use t
 They go back to sleep and [[Eldina Tosscobble|Eldon]] successfully falls asleep, removing any effects of exhaustion. #rest 
 
 # Day 8
+## Helm's Hold
 They rest of the journey passes without event and they arrive outside [[Helm's Hold]] in the evening. Everyone in the party besides [[Grrurika]] are forced to pay an entrance fee and turn in their armour while in the city. [[Dorian of Galdor|Dorian G]] asks if he can see the list of people who have entered the city but is told he needs permission to do so.
 
 [[Grrurika]] has been here before and leads the way. The party stop at [[Heartward]] when they see the ghosts. [[Dorian Blackthorn]] senses that the ghosts aren't on the Material Plane, but the divide is thin and the Planes are overlapped here. They're spooked until [[Grrurika]] explains that that's a nightly occurrence and they have nothing to fear. She leads them to the [[Cathedral of Helm]] and they head down to find [[Satarin|Brother Satarin]]

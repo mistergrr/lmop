@@ -61,11 +61,9 @@ or
 - **The bane of the Dead Hand evolves**. Once per long rest, when the cleric is reduced to 0HP, they automatically cast ***Life Transference*** (XGtE pg. 160) at the highest slot level (without spending the spell slot) to siphon vitality from the nearest *ally* within 30ft. The spell deals half the rolled number as damage (rounded down) and heals yourself for the full amount rolled.
 - The cleric forgoes their domain of life, swapping instead to the **Death Domain** (DMG pg. 96)
 - **Cursed Dominion:** Embracing the death domain grants the cleric additional necromantic powers, but at a cost. Their healing spells and abilities can still be used normally, but each use risks intensifying the curse. For every three instances where they successfully heal without triggering the curse, the chance of triggering **Bane of the Shadowed Hand** increases by 10% for the next healing attempt, resetting only after a long rest.
-- 
+
 - "***Toll of the Dead****" cantrip
 - "***Life Transference****" 3rd level spell
-## If domain changes
-Give [[Thia Galanodel|Thia]] Magic Initiate (Cleric) feat. (PHB pg. 168)
 
 # **Roleplaying Tips:**
 

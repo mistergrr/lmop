@@ -135,13 +135,13 @@
 ## Dorian's Penance
 - [ ] [[The Arcane Convergence]]
 - Location: 
-- **Rewards**:
+- **Reward** for [[Dorian of Galdor]]:
 	- Curse removed
-	- **Ley Line Conduit**: Once per day, the wizard can cast a spell up to level 2 without expending a spell slot, as they can now tap directly into the energy of the ley lines.
+	- **Ley Line Conduit**: Once per day, the wizard can cast from the wild magic table without expending a spell slot, as they can now tap directly into the energy of the ley lines.
 	 or
 	- **Elemental Affinity**: The wizard chooses one type of elemental damage (fire, cold, lightning, etc.) and gains resistance to that damage. Additionally, when they cast a spell of that damage type, they add an extra die of damage.
-- Reward for [[Dorian Blackthorn]]
-	- **Controlled Wild Magic:** Once a day, can cast from the Wild Magic Surge table without expending a spell slot.
+- **Reward** for [[Dorian Blackthorn]]
+	- **Controlled Wild Magic:** Once a day, can reroll on the Wild Magic Surge table. Must use new roll.
 	- 
 ## Eldon's Penance
 Eldon must perform an ancient ritual to bind their soul to the shadows once more, restoring their lost ability. [[Ritual of Shadow Binding]].

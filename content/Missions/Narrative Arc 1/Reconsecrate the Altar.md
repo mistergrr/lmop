@@ -11,6 +11,9 @@ Goblins have defiled a shrine once sacred to [[Oghma]]. They've now dedicated it
 -  **Reciting the Sacred Words:** The adventurers must remember and recite a prayer or chant. A skill check (e.g. Religion) may be required to perform it correctly.
 - **Offering a Sacrifice:** A small offering that reflects the values of wisdom, learning, and the pursuit of truth must be placed in the Purified Chalice and left on the altar. (eg. a rare tome or scroll, a scholar's quill, a map, the adventurers could each write down a personal revelation or piece of wisdom they’ve learned on their journeys and offer it to Oghma, an illuminated manuscript.)
 
+## Complications
+After starting the ritual, a goblin enters the room and sounds the alarm, calling for Lhupo and others. If the ritual is completed before all goblins are eliminated, a wave of radiant energy slays all nearby followers of [[Maglubiyet]].
+
 # Loot
 Human-made art objects. (cursed if stolen). INT decreases by 2 every day until cursed item returned. If used, user is attuned and proficiency bonus halved. Requires "Remove Curse" to break attunement.
 - Chalice (150 gp) (+1 HP regained if used)
