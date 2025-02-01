@@ -1,6 +1,8 @@
 ---
 title: LMOP Online
 ---
+[[Narrative]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Campaign Summary]]
+
+[[Quests]]
