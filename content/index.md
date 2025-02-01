@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: LMOP Online
 ---
 
 This is a blank Quartz installation.
