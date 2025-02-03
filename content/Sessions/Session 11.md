@@ -12,7 +12,7 @@ Session length:
 ---
 ## Previously
 ![[Session 10#^Summary]]
-# Title
+# Reconsecrating the Altar
 ## Players 
 - [[Eldina Tosscobble|Eldina]] gave her bow to [[Gundren Rockseeker|Gundren]]
 - [[Dorian Blackthorn|Dorian B]]
@@ -45,6 +45,7 @@ Session length:
 - Wolves
 - Giant Spiders
 - Evil mage
+
 ## Rewards
 - Clue regarding [[Library of Whispers]] — [[Library of Whispers#^library-riddle]]
 ## Starting Scene
