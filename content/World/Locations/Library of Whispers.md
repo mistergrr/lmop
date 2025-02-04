@@ -9,8 +9,7 @@
 # Clues
 - [x] "Where the rivers meet the stars"
 - [ ] Library Riddle
->
-"Three guardians stand, their secrets tight,  
+>"Three guardians stand, their secrets tight,  
 Each holds a key to hidden sight.  
 One moves with grace, swift and sly,  
 One waits in shadows, slow and shy.  
@@ -31,8 +30,8 @@ And the way to knowledge will surely show."
 - [ ] Map
 
 # Secrets
-[[Iarno Albrek|Glasstaff]] went to the library, searching for the [[Tome of the Angels]]. 
+- [[Shadow Codex]]
+- [[Iarno Albrek|Glasstaff]] went to the library, searching for the [[Tome of the Angels]]. 
+- [[Erynel]] carved a poem near the entrance.
+![[Erynel#^unshakeable]]
 
-[[Erynel]] carved a poem near the entrance.
-
-[[Shadow Codex]]

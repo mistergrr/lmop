@@ -14,10 +14,11 @@ The [[Cradle of Life]], Neverwinter Woods.
 
 ## Enemies
 - 2x [[Shadow Spider]]
-- 2x Needle Blight
-- 5x Twig Blights
+- 2x Needle Blight (replants via **Gulthias Flower** — smell attracts needle blights)
+- 5x Twig Blights (replants via **Gulthias Twig** — curls unnaturally)
 
 - Epic boss fight — 1x [[Undead Giant Elk]] (for [[The Arcane Convergence]])
+
 ## Secrets and Clues
 - The source of the corruption is a [[Gulthias Tree]]
 - **Guiding Light:** As they approach the temple, the cleric notices a dim, flickering light that only they can see, guiding them through the dense, twisted forest. The light grows stronger as they get closer.

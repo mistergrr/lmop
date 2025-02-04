@@ -1,5 +1,5 @@
 ```leaflet
-id: sword-coast-map
+id: faerun-map
 image: [[Sword-Coast-Map.jpg]]
 height: 1080px
 width: 1080px

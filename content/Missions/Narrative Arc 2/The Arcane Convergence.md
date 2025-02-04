@@ -2,7 +2,7 @@
 
 The wizard must perform a focused arcane ritual at a site of powerful magical convergence to stabilise their chaotic magic.
 
-# Finding the Right Location
+## Finding the Right Location
 
 The Arcane Convergence ritual requires a place of strong magical resonance. However, the specifics of the location are up to the players' creativity and exploration. Possible clues and hints could guide them to places like:
 
@@ -10,15 +10,30 @@ The Arcane Convergence ritual requires a place of strong magical resonance. Howe
 - **Forgotten Sanctuaries**: Abandoned or hidden magical sanctuaries, each with its unique history and challenges, could be repurposed for the ritual.
 - **Elemental Sites**: Locations deeply connected to a particular element (e.g., a volcano for fire, a glacier for ice) might be suitable, especially if the wizards seek to align their elemental resistance with the environment.
 - **Natural Convergences**: Natural sites like a secluded grove, a mystical waterfall, or the eye of a storm where magic feels particularly potent. 
-## Possible Locations
+
+# Possible Locations
 - [[Cradle of Life]]
+	- Theme: Necrotic
+	- Boss: [[Undead Giant Elk]]
+		- 2x [[Shadow Spider]]
+		- 2x Needle Blight (replants via **Gulthias Flower** — smell attracts needle blights)
+		- 5x Twig Blights (replants via **Gulthias Twig** — curls unnaturally)
 - [[Library of Whispers]]
+	- Theme: Starmetal Hills — meteor shower
+	- Boss: [[Meteoric Golem]]
+		- 
 - [[Wave Echo Cave]]
+	- Theme: Water and earth
+	- Boss: Spectator or Wraith
 - Dragon's tower in [[World/Locations/Thundertree|Thundertree]]
+	- Theme: Lava/nature
+	- Boss: Venomfang, [[Arboreal Bruiser]]
 - Wizard tower in [[Old Owl Well]]
+	- Theme: Necrotic
+	- Boss: Zombie Ogre
 
 # Ritual Components and Preparation
-The ritual requires gathering powerful magical components that reflect the unique nature of the chosen site:
+An NPC companion can provide hints/clues about conducting the ritual. The ritual requires gathering powerful magical components that reflect the unique nature of the chosen site:
 
 - **Essence of the Location**: This could be anything that embodies the site's power—lava from a volcano, a shard of crystal from a ley line nexus, or a drop of water from a sacred spring.
 - **Harmonic Focus**: A magical item or relic that aligns the energies of the site with the wizards' intentions. This might need to be crafted, enchanted, or found through an adventure.
@@ -29,11 +44,12 @@ The ritual requires gathering powerful magical components that reflect the uniqu
 The players must adapt the ritual to fit the chosen site, taking into account its unique properties:
 
 - **Tailored Runes**: The runes used in the ritual should resonate with the location. For example, in a volcanic site, the runes might be etched into molten rock, while in a forest, they could be carved into ancient trees.
-- **Environmental Challenges**: The site may present natural or magical challenges during the ritual. The players must overcome or mitigate these challenges to ensure the convergence stabilises. Examples include:
-    - **Volcanic Eruptions**: In a volcanic site, the ritual might trigger eruptions or lava flows.
-    - **Elemental Manifestations**: In an elemental site, powerful elemental creatures might appear, drawn by the disturbance. The rest of the party have to fight off the elementals while [[Dorian of Galdor]] and [[Dorian Blackthorn]] conduct  the ritual.
-	    - [[Richtor Helmsley III]], [[Grrurika]] [[Thia Galanodel]] [[Eldina Tosscobble]]
-    - **Weather Phenomena**: In a stormy location, the ritual could intensify the storm, with lightning strikes or gale-force winds threatening the wizards.
+
+# Complications
+- **Natural Weather Phenomena**: eg. In a volcanic site, the ritual might trigger eruptions or lava flows; In a stormy location, the ritual could intensify the storm, with lightning strikes or gale-force winds threatening the wizards.
+- **Elemental Manifestations**: Powerful elemental creatures might appear, drawn by the disturbance. The rest of the party have to fight off the elementals while [[Dorian of Galdor]] and [[Dorian Blackthorn]] conduct  the ritual.
+	- [[Richtor Helmsley III]], [[Grrurika]], [[Thia Galanodel]], [[Eldina Tosscobble]]
+
 
 # Outcomes and Elemental Resistance Boon
 

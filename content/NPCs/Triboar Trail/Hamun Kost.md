@@ -7,15 +7,16 @@ Background:
 **Age**: 
 **Voice**: 
 **Description**: 
-Stout, red-robed. Sallow skin. Black tattoo on forehead — School of Necromancy.
+Stout, red-robed. Sallow skin. Black tattoo on forehead
+- DC 10 Intelligence (Arcana) to learn tattoo: School of Necromancy.
+- DC 10 Intelligence (History) to know robes are from [[Thay]], a land far to the east where wizards pattern their flesh with tattoos.
+Not particularly aggressive. Willing to strike a deal.
 
-**Quests**:
+# Quests:
+- [[Orc Trouble]]
+- [[Banshee's Bargain]]
 
-# What They Know
-- She traded Bowgentle's book with a necromancer named [[Tsernoth]] from the city of [[Iriaebor]] more than a hundred years ago.
-	- Does not know what became of it afterward.
-- Location of [[Library of Whispers]]
+# What He Knows
+- Vague location of [[Library of Whispers]]
 	- "Where the rivers meet the stars."
-- Identity of [[The Black Spider]]
-- Location of [[Wave Echo Cave]]
-- [[Hamun Kost]]'s question about [[Old Owl Well]]
+- The ruined tower is a suitable location for [[The Arcane Convergence]]

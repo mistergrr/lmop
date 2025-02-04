@@ -9,8 +9,8 @@ Background: Noble
 **Description**: 
 Was an elf before becoming a banshee. Might have been beautiful once, but a hateful expression now twists her features.
 
-**Quests**:
-
+# Quests:
+- [[Banshee's Bargain]]
 # What They Know
 - She traded Bowgentle's book with a necromancer named [[Tsernoth]] from the city of [[Iriaebor]] more than a hundred years ago.
 	- Does not know what became of it afterward.

@@ -79,11 +79,11 @@
 		- Riddle to [[Library of Whispers]]
 
 ## Arc 4 | Sidequests
-- [ ] The Banshee's Bargain ^banshee-bargain
+- [ ] The [[Banshee's Bargain]] ^banshee-bargain
 	- Quest Giver: [[Sister Garaele]]
 	- Task: Find location of Bowgentle's book
 	- Location: [[Conyberry]]
-	- Turn in: [[Sister Garaele]]
+	- Turn in: [[Sister Garaele]], [[Hamun Kost]]
 	- **Rewards**:
 		- 200xp
 		- 3x potion of healing
@@ -93,15 +93,15 @@
 	- Task: Find the emerald necklace in the Herbalist's shop
 	- Location: [[World/Locations/Thundertree|Thundertree]]
 	- **Reward**: Gold and emerald necklace (200gp)
-- [ ] Orc Trouble ^eliminate-orcs
+- [ ] [[Orc Trouble]] ^eliminate-orcs
 	- Tasks: Clear the orcs out.
 	- Location: [[Wyvern Tor]]
-	- Turn in: [[Harbin Wester]]
+	- Turn in: [[Harbin Wester]], [[Hamun Kost]]
 	- **Reward**:
 		- 1,250xp
 		- 100gp
 		- +2 Phandalin #rep
-- [ ] Old Owl Trouble ^old-owl-well
+- [ ] [[Old Owl Trouble]] ^old-owl-well
 	- Task: Find out what's going on
 	- [ ] Optional: Defeat [[Hamun Kost]] and his zombies
 		- **Reward**: 800xp
@@ -175,7 +175,8 @@ Eldon must perform an ancient ritual to bind their soul to the shadows once more
 ## Thia's Penance
 [[The Quest for the Tome of Eternal Recall]]
 - [ ] Find location of the library
-	- [ ] Area location (Where the rivers touch the stars)
+	- [x] Area location (Where the rivers touch the stars)
+	- [ ] Mural clue
 	- [ ] Map piece 
 - [ ] Solve the riddle to enter
 	- [ ] Receive riddle
@@ -183,9 +184,8 @@ Eldon must perform an ancient ritual to bind their soul to the shadows once more
 - Location: [[Library of Whispers]]
 - **Rewards**:
 	- Curse removed
-	- **The Gift of Memory**: Permanent increase to Intelligence score.
-	-OR-
-	- A new spell
+	- **The Gift of Memory**: Permanent increase to Intelligence score and can help others recall lost memories.
+	- **Divine Clarity**: Recall information with perfect clarity — akin to "Divination," but in recalling the past.
 # Narrative Arc 3 | The Illusive Patron
 ## 1. Opening Image
 Dorian discovers that his [[Erynel]] is in the possession of [[Iarno Albrek]]

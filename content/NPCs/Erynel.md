@@ -30,7 +30,7 @@ Background:
 - Uses [[Iarno Albrek|Iarno's]] connections and resources to further his goal of assassinating [[King Belion]]. 
 
 # Erynel's Poems
-- [ ] **What's in a Name?**
+- [x] **What's in a Name?**
 	What's in a name? That which we call a rose
 	By any other name would smell as sweet.
 	So Son of Galdor would, were he not Galdor called.

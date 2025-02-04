@@ -31,6 +31,7 @@ Human-made art objects. (cursed if stolen). INT decreases by 2 every day until c
 - Censer (120gp)
 
 # Reward
+Turn in to [[Oghma]] during next long rest.
 - Charm of Augury — 3 uses, cast Augury as an action without material components
 -OR-
 - Charm of the Sage — 1 use, cast Divination for free.

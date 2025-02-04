@@ -1,5 +1,5 @@
 ---
-date: 2025-02-08
+date: 2025-02-21
 Day: "11"
 Characters:
   - Dorian B
@@ -15,10 +15,13 @@ Session length:
 # Reconsecrating the Altar
 ## Players 
 - [[Eldina Tosscobble|Eldina]] gave her bow to [[Gundren Rockseeker|Gundren]]
+- [[Dorian of Galdor]] understand the poem?
 - [[Dorian Blackthorn|Dorian B]]
+	- Level to 3
 	- **Inspiring Leader** You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.
-- [[Thia Galanodel|Thia]] [[Library of Whispers#^library-riddle]] 
 - [[Richtor Helmsley III|Richtor]]: [[Wolf Head Cloak]] gives +2 Intimidation but requires attunement.
+- [[Thia Galanodel|Thia]] ![[Library of Whispers#^library-riddle]] 
+
 ## Possible Scenes
 - [[Reconsecrate the Altar]]
 - Release the Owlbear
@@ -42,12 +45,17 @@ Session length:
 - Goblins
 - Grick
 - Hobgoblins
+- Owlbear
 - Wolves
 - Giant Spiders
 - Evil mage
 
 ## Rewards
 - Clue regarding [[Library of Whispers]] — [[Library of Whispers#^library-riddle]]
+- Charm of Augury — 3 uses, cast Augury as an action without material components
+-OR-
+- Charm of the Sage — 1 use, cast Divination for free.
+
 ## Starting Scene
 The party returns from their Christmas one-shot. Each receives a version of Saint Nick's blessing. [[Dorian Blackthorn]] levels up to 3. Reinforce the lore learned about [[Wave Echo Cave]] and the [[Forge of Spells]]. 
 

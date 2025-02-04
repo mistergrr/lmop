@@ -10,7 +10,7 @@ The wizards must first gather clues to the library’s location. This might invo
 ## Clues
 "Where the rivers touch the stars."
 Mural [[Beruns-Mural.jpg]]
-Map in Mormesk's treasure ([[Wave Echo Cave]])
+Map in [[Wave Echo Cave]]
 
 
 The [[Library of Whispers]] is a place of immense power but also great danger. It exists partially outside of time, where knowledge and memory are fluid, and even reality itself can be unreliable. Within the library, the wizards encounter:
@@ -44,14 +44,7 @@ The tome allows the wizard to regain all the spells and lore they had forgotten,
 As a reward for their perseverance, the [[Tome of Eternal Recall]] grants the wizards a boon:
 
 - **The Gift of Memory**: The wizard gains a permanent +1 increase to their Intelligence score, reflecting their heightened understanding and mental acuity. They may also gain the ability to share or protect memories, allowing them to help others recall lost knowledge or guard against memory-altering effects.
-- **Divine Clarity** Once per day, gain the ability to recall any detail, fact, or event with perfect accuracy. This blessing also enables them to instantly retrieve any information they’ve previously encountered, including languages and complex lore. "A soft, golden light envelops the recipient’s head, symbolising the divine touch on their mind."
-or 
-- They learn:
-	- 3rd Remove bane
-	- 4th Private Sanctum
-	- 2nd Detect Thoughts
-	- 3rd Tongues
-	- 
+- **"Wait a minute, I know this"** aka **Divine Clarity** (Recharge 1d4 days) Gain the ability to recall any detail, fact, or event with perfect accuracy. This blessing also enables them to instantly retrieve any information they’ve previously encountered, including languages and complex lore. "A soft, golden light envelops the recipient’s head, symbolising the divine touch on their mind."
 
 # The Aftermath
 
