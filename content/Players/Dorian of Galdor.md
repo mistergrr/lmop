@@ -19,15 +19,16 @@ Excommunicated Prince of Galdor
 # Background
 - Born into noble household. Father was a tyrant. Came out as gay. Was cast out of his society as a result.
 - Son of [[King Belion]] of [[Galdor]].
-- Lover was sold into slavery by [[King Belion]].
-- Motivated by justice and helping those in need.
+- Lover [[Erynel]] was sold into slavery by [[King Belion]].
+
 - Was accused of using magic to aid a rebellion in [[]] and was imprisoned. Met [[Eldina Tosscobble]] in prison. They broke out together, pursued by guard and bounty hunters.
 
 - Turned himself blue in a misfortunate spell going wild.
-# Goals
-Find [[Erynel]], although fears they are dead.
-# Flaws
-Too trusting and gullible.
+# Goals and Ambitions
+- Find [[Erynel]], although fears they are dead.
+- Motivated by justice and helping those in need.
+# Quirks and Whims
+- Too trusting and gullible.
 # Bonds
 - Fears rejection, being alone, being ugly.
 - Wears boots gifted by his mother the day he was excommunicated
@@ -45,7 +46,9 @@ Too trusting and gullible.
 - [[Richtor Helmsley III]]
 - [[Thia Galanodel]]
 	- Want to go to [[Cragmaw Castle]]
-	- 
+
+# Magic Items
+[[RR Collar]]
 # Curse
 **Bane of Unstable Magic**: The death of the God of Rebirth has disrupted the natural flow of magic. Whenever they cast a spell, there’s a 25% chance the spell will have a random, chaotic effect instead of its intended outcome. **Use the wild magic table**
 

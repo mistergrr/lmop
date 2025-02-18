@@ -25,6 +25,9 @@ Cousins [[Gundren Rockseeker|Gundren]], [[Tharden Rockseeker|Tharden]], and [[Nu
 	- Want to rescue [[Gundren Rockseeker|Gundren]] and help [[Phandalin Town|Phandalin]]
 - [[Thia Galanodel]]
 	- Want to go to [[Cragmaw Castle]]
+
+# Magic Items
+[[Wolfsbane]]
 # Curse
 **Bane of the Dead Hand**: The cleric’s connection to life-giving energy is corrupted. When they use any ability or spell that involves laying hands on an ally, there’s a 25% chance that instead of healing, they siphon vitality from the target, dealing necrotic damage equal to half the intended healing amount. The damage taken by the target is then transferred to the cleric as temporary hit points, creating a twisted cycle of life and death.
 

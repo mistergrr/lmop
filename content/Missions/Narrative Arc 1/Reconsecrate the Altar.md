@@ -8,8 +8,8 @@ Goblins have defiled a shrine once sacred to [[Oghma]]. They've now dedicated it
 
 # The Ritual
 If the ritual is interrupted, it must be restarted from the beginning (Holy Water needs to be created again).
-- **Cleansing the Ground:** Spreading **Holy Water** (provided by [[Sister Garaele]] or created with [[Scroll of Ceremony]] (XGtE pg 151)) around the altar.
 -  **Reciting the Sacred Words:** The adventurers must remember and recite a prayer or chant. A skill check (e.g. Religion) may be required to perform it correctly.
+- **Cleansing the Ground:** Spreading **Holy Water** (provided by [[Sister Garaele]] or created with [[Scroll of Ceremony]] (XGtE pg 151)) around the altar.
 - **Offering a Sacrifice:** A small offering that reflects the values of wisdom, learning, and the pursuit of truth must be placed in the Purified Chalice and left on the altar. (eg. a rare tome or scroll, a scholar's quill, a map, the adventurers could each write down a personal revelation or piece of wisdom they’ve learned on their journeys and offer it to Oghma, an illuminated manuscript.)
 
 # Enemies
@@ -29,7 +29,8 @@ Human-made art objects. (cursed if stolen). INT decreases by 2 every day until c
 - Chalice (150 gp) (+1 HP regained if used)
 - [[Ceremonial obsidian knife]] (60 gp) (+1 dagger)
 - Censer (120gp)
-
+Lhupo's Loot:
+- [[Potion of Climbing]]
 # Reward
 Turn in to [[Oghma]] during next long rest.
 - Charm of Augury — 3 uses, cast Augury as an action without material components

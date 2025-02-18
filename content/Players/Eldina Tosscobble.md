@@ -14,11 +14,12 @@ Level: "3"
 Was a thief. Got caught and locked away in prison, where he met [[Dorian of Galdor]]. The broke out together, going on the run.
 He joined the [[Redbrands]] and worked with them until [[Iarno Albrek]] ordered him assassinated. Eldon survived the assassination.
 # Goals
-Get revenge on the Redbrands and [[Iarno Albrek]]
+- Get revenge on the Redbrands and [[Iarno Albrek]]
+- Lead a Thieves' Guild
 # Flaws
-Crime-filled past (and present).
+- Crime-filled past (and present).
 # Bonds
-Gives some ill-gotten gains to Aunty [[Qelline Alderleaf]], but she must never know his bad deeds.
+- Gives some ill-gotten gains to Aunty [[Qelline Alderleaf]], but she must never know his bad deeds.
 # Connections
 - [[Dorian of Galdor]]
 	- Broke out of prison together
@@ -31,6 +32,8 @@ Gives some ill-gotten gains to Aunty [[Qelline Alderleaf]], but she must never k
 	- Wants the [[Shadow Codex]] found in [[Library of Whispers]]
 # Notes
 **Subclass: Phantom.** How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a deity of death?
+# Magic Items
+[[Molotov Cocktail]]
 # Curse
 **Bane of Lost Shadows**: The rogue’s connection to the ethereal is severed. They lose the ability to fully merge with shadows, making their Stealth checks automatically fail once per day at a critical moment (at the DM's discretion). 
 

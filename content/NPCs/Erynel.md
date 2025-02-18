@@ -14,7 +14,7 @@ Background:
 - Mother: Caramyne
 	- General to King Belion's army.
 	- Executed by King Belion
-- Father: A shiradi celestial.
+- Father: A shiradi celestial from Arvandor in [[Arborea]]
 - A curse prevents him from speaking of his celestial heritage.
 - 
 # Goals

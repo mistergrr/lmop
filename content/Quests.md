@@ -1,4 +1,4 @@
-# Narrative Arc 1 | The Lost Mine of Phandelver
+# Narrative Arc A1 | The Lost Mine of Phandelver
 ## Arc 1 | Goblin Arrows
 - [x] Escort the wagon ^escort-wagon01
 	- Quest giver: [[Gundren Rockseeker]]
@@ -131,7 +131,7 @@
 	- **Rewards**:
 		- +2 Phandalin #rep
 		- 120gp each every month for a year
-# Narrative Arc 2 | Penance
+# Narrative Arc B | Penance
 ## Dorian's Penance
 - [ ] [[The Arcane Convergence]]
 - Location: 
@@ -186,42 +186,30 @@ Eldon must perform an ancient ritual to bind their soul to the shadows once more
 	- Curse removed
 	- **The Gift of Memory**: Permanent increase to Intelligence score and can help others recall lost memories.
 	- **Divine Clarity**: Recall information with perfect clarity — akin to "Divination," but in recalling the past.
-# Narrative Arc 3 | The Illusive Patron
-## 1. Opening Image
-Dorian discovers that his [[Erynel]] is in the possession of [[Iarno Albrek]]
-## 2. The Set-up
-- A messenger hires the party on behalf of a mysterious patron — the [[Iarno Albrek|Illusive Man]]
-- He promises them their deepest desires in exchange for their services.
-## 3. Catalyst
-- [ ] [[Clear the church]] ^clear-church
+
+# Narrative Arc A2 | The Illusive Patron
+## Arc 1 | Catalyst
+- [ ] [[Clear the Church]] ^clear-church
 	- Task: Cultists have taken over. Clear them out so that the place may be reconsecrated.
 	- Location: could be an ancient, desecrated temple or a nexus of dark energy.
-	- **Reward**: 300gp
-## 4. Unclear World
-Use best ideas here
-- Exploration — knowledge gathering
-- Point towards Hero Transition
-- As fun as possible
-## 5. The Hero Transition (Break into Act 2)
+	- **Reward**: 600gp
 The [[Illusive Man]] promises to help locate [[Erynel]] in exchange for their services.
-## 6. Promise of the Premise
+## Arc 2 | Promise of the Premise
 - [ ] Gather the Three Relics 
 	- Three relics, each associated with a different demonic entity. These relics are scattered across various dangerous locations.
 	- [ ] Relic 1 ^obtain-relic1
 	- [ ] Relic 2 — Hellish heart ^obtain-relic2
-## 7. A Major Victory (Midpoint)
+## Arc 3 | A Major Victory (Midpoint)
 - [ ] Relic 3 — Acquire Infernal Tome ^obtain-tome
 	- Location: A dungeon crawl.
 	- **Reward**
 	- [[Tome of the Angels]]
 	- The tome's name is kept secret until the party acquires it (skill check to ascertain the name/purpose). But it does give off creepy vibes. Save this for last. If they read the book (written in infernal), they find out its purpose.
-## 8. Bad Guys Close In
-Thieves and assassins are trying to steal the tome.
-## 9. All is Lost
-The [[Tome of the Angels]] is stolen or given to the messenger. Either way, whoever takes it gives it to the [[Illusive Man]]. The messenger "rewards" the party with a "Fireball" to the face.
-## 10. Dark Night of the Soul
-They discover that their patron was [[Iarno Albrek]] all along and he plans on using [[Erynel]] as a sacrifice to bring his daughter back from hell.
-## 11. Finale (Break into Act 3)
+## Arc 4 | Bad Guys Close In, All is Lost, Dark Night of the Soul
+- Thieves and assassins are trying to steal the tome.
+- The [[Tome of the Angels]] is stolen or given to the messenger. Either way, whoever takes it gives it to the [[Illusive Man]]. The messenger "rewards" the party with a "Fireball" to the face.
+- They discover that their patron was [[Iarno Albrek]] all along and he plans on using [[Erynel]] as a sacrifice to bring his daughter back from hell.
+## Arc 5| Finale
 The party heads back to the [[church]] to stop [[Iarno Albrek|Glasstaff]] and rescue [[Erynel]].
 - [ ] [[Ritual of the Angels]] ^ritual-damned
 	- [ ] Stop Glasstaff

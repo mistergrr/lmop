@@ -8,9 +8,12 @@ The wizards must first gather clues to the library’s location. This might invo
 - **Consulting with Lost Scholars**: The wizards must find and communicate with the spirits of long-dead scholars who once visited the library. This may require necromantic rituals or visiting ethereal planes, and the spirits may demand a price for their knowledge.
 - **Unraveling the Riddle of the Library**: The final clue might be a riddle or puzzle that, when solved, reveals the entrance to the [[Library of Whispers]], hidden in a place where the boundary between reality and the arcane is thin — such as a nexus of ley lines or a forgotten magical city.
 ## Clues
-"Where the rivers touch the stars."
-Mural [[Beruns-Mural.jpg]]
-Map in [[Wave Echo Cave]]
+- "Where the rivers touch the stars."
+- Mural ![[Beruns-Mural.jpg]] 
+	- CFSVO'T TFBSDI GPS LOPXMFEHF = BERUN'S SEARCH FOR KNOWLEDGE
+- Map in [[Wave Echo Cave]]
+	- Hidden in [[The Black Spider|Nezznar's]] cryptex
+	- UIF QBTTXPSE JT PHINB = THE PASSWORD IS OGHMA
 
 
 The [[Library of Whispers]] is a place of immense power but also great danger. It exists partially outside of time, where knowledge and memory are fluid, and even reality itself can be unreliable. Within the library, the wizards encounter:

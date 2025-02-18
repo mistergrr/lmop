@@ -36,18 +36,18 @@ A spellcaster can transfer a spell to a scroll. Each day of inscription takes 8 
 **Proficiency**: Calligrapher's tools or arcana.
 
 
-Spell level | Rarity | Save DC | Atk. bonus| Days | Cost 
--- | -- | -- | -- | -- | --
-Cantrip | Common | 13 | +5 | 1 day | 15 GP 
-1 | Common | 13 | +5 | 1 day | 25 gp 
-2 | Uncommon | 13 | +5 | 3 days | 75 gp 
-3 | Uncommon | 15 | +7 | 5 days | 300 gp 
-4 | Rare | 15 | +7 | 7 days | 600 gp 
-5 | Rare | 17 | +9 | 9 days | 1,200 gp 
-6 | Very rare | 17 | +9 | 11 days | 3,000 gp 
-7 | Very rare | 18 | +10 | 13 days | 7,500 gp 
-8 | Very rare | 18 | +10 | 15 days | 15,000 gp 
-9 | Legendary | 19 | +11 | 17 days | 30,000 gp 
+| Spell level | Rarity    | Save DC | Atk. bonus | Days    | Cost      |
+| ----------- | --------- | ------- | ---------- | ------- | --------- |
+| Cantrip     | Common    | 13      | +5         | 1 day   | 15 GP     |
+| 1           | Common    | 13      | +5         | 1 day   | 25 gp     |
+| 2           | Uncommon  | 13      | +5         | 3 days  | 75 gp     |
+| 3           | Uncommon  | 15      | +7         | 5 days  | 300 gp    |
+| 4           | Rare      | 15      | +7         | 7 days  | 600 gp    |
+| 5           | Rare      | 17      | +9         | 9 days  | 1,200 gp  |
+| 6           | Very rare | 17      | +9         | 11 days | 3,000 gp  |
+| 7           | Very rare | 18      | +10        | 13 days | 7,500 gp  |
+| 8           | Very rare | 18      | +10        | 15 days | 15,000 gp |
+| 9           | Legendary | 19      | +11        | 17 days | 30,000 gp |
 
 # Leather
 Must own and be proficient with leatherworker's tools.

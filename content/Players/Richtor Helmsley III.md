@@ -36,6 +36,7 @@ Restore position and family's name.
 
 # Magic Items
 [[Wolf Head Cloak]] +1 Intimidation, -1 Persuasion
+[[Ruby Rax]]
 
 # Curse
 **Bane of Diminished Strength**: The loss of the God of Rebirth weakens the Battle Master's physical prowess. Each time they deal damage in combat, there's a 50% chance of their strength temporarily diminishing, reducing their damage output by 1d4 for the next attack. This effect stacks, and only a long rest can reset their strength.

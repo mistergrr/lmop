@@ -59,15 +59,11 @@ Level up to 5 at the end
 - [ ] Thia must prove her knowledge in [[The Quest for the Tome of Eternal Recall]]
 
 # Narrative Arc 3 | The Illusive Patron
-## 1. Opening Image
-Dorian discovers that his [[Erynel]] is in the possession of [[Iarno Albrek]]
-## 2. The Set-up
-- A messenger hires the party on behalf of a mysterious patron — the [[Iarno Albrek|Illusive Man]]
-- He promises them their deepest desires in exchange for their services.
-## 3. Catalyst
-[[Clear the church]]
-- Task: Cultists have taken over. Clear them out so that the place may be reconsecrated.
-- Location: could be an ancient, desecrated temple or a nexus of dark energy.
+- A messenger hires the party on behalf of a mysterious patron — the [[Illusive Man]]
+- He promises them their deepest desires (and money) in exchange for their services.
+## The First Job
+- [ ] [[Clear the Church]]
+
 ## 4. Unclear World
 Use best ideas here
 - Exploration — knowledge gathering
