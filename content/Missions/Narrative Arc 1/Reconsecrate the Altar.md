@@ -13,15 +13,24 @@ If the ritual is interrupted, it must be restarted from the beginning (Holy Wate
 - **Offering a Sacrifice:** A small offering that reflects the values of wisdom, learning, and the pursuit of truth must be placed in the Purified Chalice and left on the altar. (eg. a rare tome or scroll, a scholar's quill, a map, the adventurers could each write down a personal revelation or piece of wisdom they’ve learned on their journeys and offer it to Oghma, an illuminated manuscript.)
 
 # Enemies
-- Goblins AC:15 HP:7
-- Lhupo AC:13 HP:20
-	- Goblin Witch 
-	- Starts his turn by calling his pet Grick to feed.
-- Grick AC:14 HP:27
-	- Grapples **DC 12 STR save** and drags away to feed.
-
+- Goblin minions: 14 (7)
+	- (A) dagger/bow, +4, 4 (1d4+2);
+	- (A) Dogpile x=2–4, DC 11+x STR or prone and xd6 or half;
+	- (BA) disengage/hide;
+- Goblin gang: 15 (28)
+	- (A) 30ft, 10ft DC15 DEX save, 9 (2d8) fire or half;
+	- (A) +4, 6 (1d6)x2 fire and slash;
+	- (P) 30ft; DC 13 CHA save or lose concentration (immune on crit).
+- Lhupo: 13 (20) - Goblin Witch (but pretends their power is divine). Avoids melee.
+	- (A) Sickness Spell 60ft, 10ft DC 14 CON save, 4 (1d4+2) or half;
+	- (BA) Vexing cloud, 10ft, 1/2 cover, moveable.
+	- (FA) Starts her turn by calling her pet Grick to feed.
+- Grubgrub the Grick: 14 (27);
+	- Multiattack: 1x beak, 1x tentacle
+	- (A) Tentacle, +4; 5 (1d6+2), Grappled **escape DC 12** and drags away to feed.
+	- (A) Beak, +4 (adv. if grappled), 7 (1d10+2)
 # Complications
-After starting the ritual, a goblin enters the room and sounds the alarm, calling for Lhupo and others. Lhupo starts his turn by calling his pet Grick to feed.
+After starting the ritual, a goblin enters the room and sounds the alarm, calling for Lhupo and others. Lhupo starts her turn by calling her pet Grick, Grubgrub, to feed.
 > If the ritual is completed before all goblins are eliminated, a wave of radiant energy slays all nearby followers of [[Maglubiyet]].
 
 # Loot

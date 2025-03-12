@@ -8,17 +8,17 @@ Level: "3"
 **Age**: 50 years old.
 **Lifespan**: 350 years
 # Background
-- Home was destroyed by Underdark aberrations.
-- Trained as a soldier in Mintarn before joining [[The Steel Wolves]] and moving to [[Neverwinter]] as a sword for hire. Grew disillusioned seeing fellow soldier abuse their power. Suspended after following her conscience and disobeying an order.
+- Home, [[Omphalos]] was destroyed by Underdark aberrations.
+- Trained as a soldier in [[Mintarn]] before joining [[The Steel Wolves]] and moving to [[Neverwinter]] as a sword for hire. Grew disillusioned seeing fellow soldier abuse their power. Suspended after following her conscience and disobeying an order.
 - Turned to [[Marthammor Duin]] and became a cleric.
 # Goals
-Rescue her cousins.
+- Rescue her cousins.
+- Reclaim home of [[Omphalos]]
+- Go skiing
 # Flaws
 # Bonds
 Cousins [[Gundren Rockseeker|Gundren]], [[Tharden Rockseeker|Tharden]], and [[Nundro Rockseeker]].
 # Connections
-- [[Eldina Tosscobble]]:
-	- Enemies at [[Cradle of Life]] has Eldon's ritual components
 - [[Dorian of Galdor]]
 	- Cleansed [[Cradle of Life]] is suitable location for [[The Arcane Convergence]]
 - [[Richtor Helmsley III]]

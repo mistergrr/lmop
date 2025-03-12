@@ -1,5 +1,5 @@
 ---
-Type: Weapon +1
+Type: Weapon
 Rarity: Uncommon
 ---
 +1 enchantment.

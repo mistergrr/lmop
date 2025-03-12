@@ -1,20 +1,20 @@
 # Day
-| 2d6   | Encounter                   | number  |
-| ----- | --------------------------- | ------- |
-| 2-3   | [[Stirge]]                  | 1d4 + 6 |
-| 4-5   | [[Wolf]]                    | 1d4 + 5 |
-| 6     | Goblin Boss + 4x [[Goblin]] | medium  |
-| 7     | [[Hobgoblin]]               | 1d4 + 2 |
-| 8     | [[Orc]]                     | 1d4 + 2 |
-| 9     | [[Ogre]]                    | 1       |
-| 10-12 | [[Owlbear]]                 | 1       |
+2d6   | Encounter | number  
+-- | -- | --
+2-3 | [[Stirge]] | 2d8 + 2 
+4-5 | [[Wolf]] | 2d4 + 2
+6 | Goblin Boss + 2d4 [[Goblin]] | medium  
+7 | [[Hobgoblin]] | 1d4 + 3
+8 | [[Orc]] | 1d4 + 3
+9 | [[Ogre]] | 1
+10-12 | [[Owlbear]] | 1
 
 d6 | Encounter | number
 -- | -- | --
-1 | [[Stirge]] | 1d4 + 6
+1 | [[Stirge]] | 2d8 + 2
 2 | [[Wolf]] | 1d4 + 5
-3 | Goblin Boss + 4x [[Goblin]] | medium 
-4 | [[Hobgoblin]] | 1d4 + 2
+3 | Goblin Boss + 2d4 [[Goblin]] | medium 
+4 | [[Hobgoblin]] | 1d4 + 3
 5 | [[Ogre]] | 1
 6 | [[Owlbear]] | 1
 
@@ -32,11 +32,11 @@ d8 | Complication
 # Night
 d12  | Encounter | number
  -- | -- | --
-1 | [[Goblin]] | 1d4 + 4
-2 | [[Hobgoblin]] | 1d4 + 2
-3 | [[Orc]] | 1d4 + 2
-4-5 | [[Wolf]] | 1d4 + 4
-6-8 | [[Stirge]] | 1d4 + 6
+1 | Goblin Boss + 2d4 [[Goblin]] | 2d4 + 1
+2 | [[Hobgoblin]] | 1d4 + 3
+3 | [[Orc]] | 1d4 + 3
+4-5 | [[Wolf]] | 2d4 + 2
+6-8 | [[Stirge]] | 2d4 + 2
 9-10 | [[Ghoul]] | 1d4 + 1
 11-12 | [[Owlbear]] | 1
 

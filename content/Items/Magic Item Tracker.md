@@ -5,7 +5,10 @@
 - [x] [[Wolf Head Cloak]]
 - [ ] Ball bearings (bag of 1,000) 1gp, 2lbs 
 ## Uncommon (4)
+- [ ] [[Boots of Striding and Springing]]
 - [ ] [[Ceremonial Obsidian Knife]]
+- [ ] [[Cloak of Protection]]
+- [ ] [[Gauntlets of Ogre Power]]
 - [ ] [[Hew]]
 - [ ] [[Lightbringer]]
 - [ ] [[Ring of Protection]]
@@ -17,6 +20,7 @@
 - [x] [[Scroll of Fireball]]
 - [ ] [[Talon]]
 - [ ] [[Thunderclap]]
+- [ ] [[Wand of Magic Missiles]]
 ## Rare (1)
 - [ ] [[Dragonguard]]
 

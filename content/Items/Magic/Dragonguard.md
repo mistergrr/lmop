@@ -1,5 +1,5 @@
 ---
-Type: Armour +1
+Type: Armour
 Rarity: Rare
 ---
 +1 breastplate 

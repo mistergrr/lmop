@@ -1,0 +1,5 @@
+The was crafted by the infamous necromancer Thalazar the Cursed, who sought to control the powers of life and death. Thalazar, in his pursuit of ultimate power, made a pact with [[Asmodeus]], trading his soul for the knowledge to bind and summon those who have passed on to the Outer Planes. The necromancer spent decades inscribing the tome with spells and rituals derived from the darkest corners of the nether realms, using the blood of sacrificial victims to seal each incantation.
+
+The tome passed through the hands of various sorcerers and warlocks over the centuries, each adding their own knowledge and enhancing its power. The users of the tome have been of alignments good, evil, and neutral alike. It seems that the desire for knowledge of how the Material Plane connects with the Outer Planes is not limited to any one alignment or faction.
+
+The last sighting of the Tome was seen in the hands of a sorcerer named. The last recorded location of [[]] was in [[Omphalos]], in the year 1434 DR.

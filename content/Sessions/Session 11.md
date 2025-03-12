@@ -36,9 +36,10 @@ Session length:
 
 ## Possible Scenes
 - [[Reconsecrate the Altar]]
+- Kitchen fight with Chef Bamsey + 7 goblins
 - Release the Owlbear
 - Find Sildar's gear
-- Encounter with [[The Black Spider]]
+- Encounter with [[The Black Spider]] + 4 giant spiders
 - Encounter with returning band of hobgoblins
 
 ## Secrets and Clues
@@ -54,19 +55,43 @@ Session length:
 - [[The Black Spider]]
 
 ## Relevant Monsters
+- Lhupo, Grick (see [[Reconsecrate the Altar]]
+- Chef Bamsey
 - Goblins
-- Grick
 - Hobgoblins
 - Owlbear
-- Wolves
 - Giant Spiders
 - Evil mage
+
+## Encounters
+### Kitchen Fight
+- Chef Bamsey: 17 (21)
+	- (A) Hot Pan, +4, 6 (2d4+2) x2
+	- (A) Cleaver, +4, 20/60ft, 4 (1d4+2) x2
+	- (RA) Hot Spice, when melee'ed DC 13 DEX save or attack interrupted and blinded 1 turn
+	- (BA) Angry rant.
+		- Ally: Gain FA but frightened 1 round
+		- Enemy: DC 13 CHA save or 3 (1d6) psychic and frightened 1 round
+- 7 Goblin minions: 14 (7)
+	- (A) dagger/bow, +4, 4 (1d4+2);
+	- (A) Dogpile x=2–4, DC 11+x STR or prone and xd6 or half;
+	- (BA) disengage/hide;
+
+### Trail Encounter
+- Evil Mage: 12 (22), spell save DC 13
+	- 4/day: charm person, magic missile
+	- 3/day: hold person, misty step
+- 2x Giant Spider: 14 (26)
+	- (A) Bite, +5, 7 (1d8+3), DC 11 CON save or 9 (2d8) poison or half, poison doesn't kill.
+	- (A) Web (R5–6), DC 13 DEX save, Restrained 10 (5) vulnerable fire.
 
 ## Rewards
 - Clue regarding [[Library of Whispers]] — [[Library of Whispers#^library-riddle]]
 - Charm of Augury — 3 uses, cast Augury as an action without material components
 -OR-
 - Charm of the Sage — 1 use, cast Divination for free.
+- Pouch of herbs and spices
+- Cursed items
 
 ## Starting Scene
 The party returns from their Christmas one-shot. Each receives a version of Saint Nick's blessing. [[Dorian Blackthorn]] levels up to 3. Reinforce the lore learned about [[Wave Echo Cave]] and the [[Forge of Spells]]. 

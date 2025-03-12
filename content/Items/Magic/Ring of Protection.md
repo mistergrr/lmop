@@ -1,6 +1,5 @@
 ---
 Type: Ring
-Level: 
 Rarity: Rare
 ---
 +1 AC and Saving Throws

@@ -1,7 +1,7 @@
 ---
-Type: Battleaxe
+Type: Weapon
 ---
-+1 enchantment. Does max damage against plant creatures and wood objects.
++1 battleaxe. Does max damage against plant creatures and wood objects.
 # Description.
 Rusty-looking dwarf battleaxe. Dwarfish runes spell "Hew" on the axe head. Whoever carries the axe feel uneasy when travelling through a forest.
 # History

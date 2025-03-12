@@ -18,7 +18,7 @@ Quests in [[Phandalin Town|Phandalin]]
 - [x] [[Ruby Roo's Root]]
 
 ## Arc 4 | The Spider's Web
-- [x] [[Triboar Trail Encounters]]
+- [ ] [[Triboar Trail Encounters]]
 - [ ] [[Quests#^rescue-gundren|Rescue Gundren]]
 - [ ] [[Reconsecrate the Altar]]
 

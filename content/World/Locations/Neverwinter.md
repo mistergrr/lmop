@@ -1,0 +1,2 @@
+**1451 DR**
+An adventuring party in [[Gauntlgrym]] caused the primordial Maegera to fly into a fit of rage and lay waste to much of the surrounding area. This included causing [[Mount Hotenow]] to erupt, opening a massive chasm in the south-eastern quarter of Neverwinter and laying ruin to much of [[Castle Never]] (killing most of the castle’s inhabitants as well). This even is often simply referred to as “[[The Cataclysm]].” ^1451

@@ -14,7 +14,7 @@ Background:
 - Mother: Caramyne
 	- General to King Belion's army.
 	- Executed by King Belion
-- Father: A shiradi celestial from Arvandor in [[Arborea]]
+- Father: A Shiradi celestial from Arvandor in [[Arborea]]
 - A curse prevents him from speaking of his celestial heritage.
 - 
 # Goals
@@ -27,7 +27,8 @@ Background:
 - Visited [[Library of Whispers]] with [[Iarno Albrek]] to find information about [[King Belion]].
 - Wants to assassinate the king, but is conflicted about it.
 - Started as [[Iarno Albrek|Iarno's]] slave, but was freed as their relationship deepened and they fostered a bond based on shared pain and understanding. Now have a mutual respect and work alongside each other.
-- Uses [[Iarno Albrek|Iarno's]] connections and resources to further his goal of assassinating [[King Belion]]. 
+- Uses [[Iarno Albrek|Iarno's]] connections and resources to further his goal of assassinating [[King Belion]].
+- Is willingly taking part in the [[Ritual of the Angels]] to trade places with [[Deuteronomy Albrek]] — he wants to travel to [[Arborea]] by way of [[Mount Celestia]] in order to regain his Celestial power, which he will use to defeat King Belion.
 
 # Erynel's Poems
 - [x] **What's in a Name?**
@@ -49,21 +50,22 @@ Background:
 	
 	E — The Enraged
 ^enraged
-- [ ] **Love Springs Forth**
-	O, to meet once more! Where the crickets hum soft.
-	Cradled in your arms, my soul and dreams held aloft.
-	The winter winds through which King's eyes blow
-	Are insufficient still, to chill my love's raging flow.
+- [ ] **bargaining**
+	Surely his heart cannot be so cold!
+	Surely his word cannot stand so  
+	Grovel I will, if need be
+	I'll beg, I'll 
+	There is naught that I'll not sacrifice
 	
-	E — The Unshakeable
-^unshakeable
+	E — The Beggar
+^beggar
 - [ ] **My Love's Eternal**
 	Coiled like the roots 'neath the Old Great Oak
 	We lay entwined, speaking with words unspoke.
 	Your eyes shone bright, singing songs so clear,
 	"My love's eternal. There's naught to fear."
 	
-	Alas! The latter rang untrue.
+	Alas! The latter words rang untrue.
 	For out of the shadows stepped a king so cruel.
 	"Off with thy head! Let me end my chagrin.
 	Finally! I am rid of the last Celadrin."
@@ -75,3 +77,15 @@ Background:
 	
 	E — The Despondent
 ^despondent
+- [ ] **Love Springs Forth**
+	O, to meet once more! Where the crickets hum soft.
+	Cradled in your arms, my soul and dreams held aloft.
+	The winter winds through which King's eyes blow
+	Are insufficient still, to chill my love's raging flow.
+	
+	Once more, we will meet, my love I'm sure
+	Oh, to have you once again walk through my door
+	But first, I must remove that wicked thorn
+	And in His blood, our love can be reborn
+	E — The Unshakeable
+^unshakeable

@@ -31,7 +31,7 @@ And the way to knowledge will surely show."
 
 # Secrets
 - [[Shadow Codex]]
-- [[Iarno Albrek|Glasstaff]] went to the library, searching for the [[Tome of the Angels]]. 
+- [[Iarno Albrek|Glasstaff]] went to the library, searching for the [[Tome of the Angels]]. The Tome wasn't there, but there's a clue about it in the form of a journal, "[[In Search for the Tome of Angels]]"
 - [[Erynel]] carved a poem near the entrance.
 ![[Erynel#^unshakeable]]
 

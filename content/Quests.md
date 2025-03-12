@@ -109,6 +109,7 @@
 	- Turn in: [[Daran Edermath]]
 	- **Rewards**:
 		- 200xp
+		- [[Boots of Striding and Springing]]
 		- Join The [[Order of the Gauntlet]]
 		- +1 [[Order of the Gauntlet]] #rep
 - [ ] Riedoth the Druid ^riedoth
@@ -131,6 +132,8 @@
 	- **Rewards**:
 		- +2 Phandalin #rep
 		- 120gp each every month for a year
+		- [[Iarno's Diary]]
+		- [[Spider Staff]]
 # Narrative Arc B | Penance
 ## Dorian's Penance
 - [ ] [[The Arcane Convergence]]
@@ -186,6 +189,7 @@ Eldon must perform an ancient ritual to bind their soul to the shadows once more
 	- Curse removed
 	- **The Gift of Memory**: Permanent increase to Intelligence score and can help others recall lost memories.
 	- **Divine Clarity**: Recall information with perfect clarity — akin to "Divination," but in recalling the past.
+	- [[In Search for the Tome of Angels]]
 
 # Narrative Arc A2 | The Illusive Patron
 ## Arc 1 | Catalyst
@@ -197,14 +201,14 @@ The [[Illusive Man]] promises to help locate [[Erynel]] in exchange for their se
 ## Arc 2 | Promise of the Premise
 - [ ] Gather the Three Relics 
 	- Three relics, each associated with a different demonic entity. These relics are scattered across various dangerous locations.
-	- [ ] Relic 1 ^obtain-relic1
-	- [ ] Relic 2 — Hellish heart ^obtain-relic2
+	- [ ] [[Relic 1]] ^obtain-relic1
+	- [ ] [[Hellish heart]] ^obtain-relic2
 ## Arc 3 | A Major Victory (Midpoint)
-- [ ] Relic 3 — Acquire Infernal Tome ^obtain-tome
-	- Location: A dungeon crawl.
+- [ ] Relic 3 — Acquire Tome of the Angels ^obtain-tome
+	- Location: [[Omphalos]].
 	- **Reward**
 	- [[Tome of the Angels]]
-	- The tome's name is kept secret until the party acquires it (skill check to ascertain the name/purpose). But it does give off creepy vibes. Save this for last. If they read the book (written in infernal), they find out its purpose.
+	- The tome's true identity is kept secret until the party acquires it (skill check to ascertain the name/purpose). But it does give off creepy vibes. Save this for last. If they read the book (written in infernal), they find out its purpose.
 ## Arc 4 | Bad Guys Close In, All is Lost, Dark Night of the Soul
 - Thieves and assassins are trying to steal the tome.
 - The [[Tome of the Angels]] is stolen or given to the messenger. Either way, whoever takes it gives it to the [[Illusive Man]]. The messenger "rewards" the party with a "Fireball" to the face.

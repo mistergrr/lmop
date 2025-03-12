@@ -1,5 +1,4 @@
 # Concept
-
 The wizard must perform a focused arcane ritual at a site of powerful magical convergence to stabilise their chaotic magic.
 
 ## Finding the Right Location
