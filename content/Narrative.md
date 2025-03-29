@@ -20,7 +20,7 @@ Quests in [[Phandalin Town|Phandalin]]
 ## Arc 4 | The Spider's Web
 - [ ] [[Triboar Trail Encounters]]
 - [ ] [[Quests#^rescue-gundren|Rescue Gundren]]
-- [ ] [[Reconsecrate the Altar]]
+- [x] [[Reconsecrate the Altar]]
 
 ## Arc 5 | Side Quests
 Optional side quests given by [[Phandalin Town|Phandalin]] residents.
@@ -35,13 +35,12 @@ Level up if the following are completed: target 9,000xp / 5 Quest points
 - [ ] [[Quests#^mirna-heirloom|Mirna's Heirloom]]
 - [ ] [[Quests#^riedoth|Riedoth the Druid]]
 
-
 ## Arc 6 | Wave Echo Cave
 Players should be at least level 4.
 
 Mission: Reclaim Wave Echo Cave
 
-Level up to 5 at the end
+Level up at the end
 # Narrative Arc 2 | Penance
 ## Dorian's Penance
 - [ ] Dorian must conduct a ritual to stabilise his chaotic magic. [[The Arcane Convergence]]

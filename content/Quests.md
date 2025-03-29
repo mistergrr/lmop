@@ -68,7 +68,7 @@
 		- 25gp each, 10% share of Mine's profits
 		- Join [[The Lord's Alliance]]
 		- +1 Phandalin #rep
-- [ ] [[Reconsecrate the Altar]]
+- [x] [[Reconsecrate the Altar]]
 	- Task: Reconsecrate the [[Maglubiyet]] altar back to [[Oghma]].
 	- Location: [[Cragmaw Castle]]
 	- Turn in: [[Oghma]] (during long rest)
@@ -89,6 +89,15 @@
 		- 3x potion of healing
 		- Join [[The Harpers]]
 		- +1 [[The Harpers]] #rep
+- [ ] Halia's Job Offer pt.ii ^spy-harbin
+	- Tasks:
+		- [ ] Break into [[Harbin Wester]]'s home
+		- [ ] Bring any correspondence found that could oust him as mayor.
+	- Turn in: [[Halia Thornton]]
+	- **Reward**:
+		- 100gp
+		- Join [[The Zhentarim]]
+		- +1 [[The Zhentarim]] #rep
 - [ ] Mirna's Heirloom ^mirna-heirloom
 	- Task: Find the emerald necklace in the Herbalist's shop
 	- Location: [[World/Locations/Thundertree|Thundertree]]

@@ -1,12 +1,13 @@
 # Levels 1-4
 ## Common (6)
-- [x] [[Molotov Cocktail]]
+Also see [[Relics]]
+- [ ] [[Molotov Cocktail]]
 - [x] [[Scroll of Chong's Cloudblast]]
 - [x] [[Wolf Head Cloak]]
-- [ ] Ball bearings (bag of 1,000) 1gp, 2lbs 
+
 ## Uncommon (4)
 - [ ] [[Boots of Striding and Springing]]
-- [ ] [[Ceremonial Obsidian Knife]]
+- [x] [[Ceremonial Obsidian Knife]]
 - [ ] [[Cloak of Protection]]
 - [ ] [[Gauntlets of Ogre Power]]
 - [ ] [[Hew]]
@@ -15,7 +16,7 @@
 - [x] [[RR Collar]]
 - [x] [[Ruby Rax]]
 - [x] [[Scroll of Augury]]
-- [x] [[Scroll of Ceremony]]
+- [ ] [[Scroll of Ceremony]]
 - [ ] [[Scroll of Darkness]]
 - [x] [[Scroll of Fireball]]
 - [ ] [[Talon]]

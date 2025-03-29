@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Dorian B
+aliases: []
 Race: Human
 Class: Sorcerer
 Subclass: 

@@ -1,7 +1,5 @@
 ---
-aliases:
-  - Dorian G
-  - Prince Dorian
+aliases: []
 Race: High Elf
 Class: Wizard
 Subclass: Evocation

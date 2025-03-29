@@ -8,7 +8,7 @@ Characters:
   - Grrurika
   - Richtor
   - Thia
-Session length:
+Session length: 5 hours
 ---
 ## Previously
 ![[Session 10#^Summary]]
@@ -84,6 +84,8 @@ Session length:
 - 2x Giant Spider: 14 (26)
 	- (A) Bite, +5, 7 (1d8+3), DC 11 CON save or 9 (2d8) poison or half, poison doesn't kill.
 	- (A) Web (R5–6), DC 13 DEX save, Restrained 10 (5) vulnerable fire.
+- 2x Giant Wolf Spider: 13 (11)
+	- (A) Bite, +3, 4 (1d6+1), DC CON save or 7 (2d6) poison or half, poison doesn't kill.
 
 ## Rewards
 - Clue regarding [[Library of Whispers]] — [[Library of Whispers#^library-riddle]]
@@ -97,8 +99,57 @@ Session length:
 The party returns from their Christmas one-shot. Each receives a version of Saint Nick's blessing. [[Dorian Blackthorn]] levels up to 3. Reinforce the lore learned about [[Wave Echo Cave]] and the [[Forge of Spells]]. 
 
 # Day 11
+**Combat**
+The party finds a door with heavy breathing coming from the other side. [[Eldina Tosscobble|Eldina]] sneaks into the room and finds a sleeping Owlbear, along with the remains of a mauled hobgoblin. She sneaks up to it and stabs it with her shortsword. The owlbear wakes up in a rage. Both [[Dorian of Galdor]] and [[Dorian Blackthorn]] cast magic missile. [[Richtor Helmsley III|Richtor]] action surges and attacks it twice. The owlbear is now very bloodied and and let's out a bloodcurdling screech. The screech is so loud, it stuns [[Eldina Tosscobble|Eldina]], [[Grrurika]], and [[Thia Galanodel|Thia]]. It then makes a whirlwind attack, which hits everybody that crowded into the room. It then targets [[Eldina Tosscobble|Eldina]] with a claw attack and she goes down.  [[Dorian of Galdor]] casts magic missile again and the owlbear drops dead.
 
+[[Richtor Helmsley III|Richtor]] beheads the beast and mounts it on his javelin. [[Dorian of Galdor]] picks some feathers off it.
+
+The party continues exploring the castle. They come across a door with a cacophony going on behind it. The check the door and find it unlocked, but decide not to go in yet. They continue down the empty hallway and find another hall with angelic statues and a stone brazier. To the north are two archways covered by heavy curtain.
+
+Behind the curtain is an altar room. An altar sits with ceremonial items on it — a gold chalice and censer, as well as a ceremonial dagger made of jagged black glass. A bloodstained black cloth covers the altar. [[Dorian of Galdor]] identifies the objects as that of human make, similar to the angel statues and carvings on the altar.
+
+The party have a long debate about having [[Thia Galanodel|Thia]] reconsecrate the altar or if they should clear the castle first. [[Thia Galanodel|Thia]] decides she wants to hold her ritual now so the others prepare to either aid her or watch the doors. The barricade the two doors in the hallway with crowbars. [[Eldina Tosscobble|Eldina]] passes her [[Molotov Cocktail]] to [[Richtor Helmsley III|Richtor]] just in case.
+
+## Reconsecrating the Altar
+Thia uses the [[Scroll of Ceremony]] to create holy water. Just then, someone tries to open the door in the hallway. It sounds like a goblin, who raises an alarm and starts attacking the door. [[Richtor Helmsley III|Richtor]] and [[Grrurika]] use the owlbear head and thaumaturgy to try scaring the goblin away, but another goblin voice from outside scares them back into breaking down the door. Inside, [[Thia Galanodel]] lights some candles and places them on the altar. [[Dorian of Galdor]] twerks to encourage her, but it ends up nearly throwing off her ritual.
+
+[[Eldina Tosscobble|Eldina]] climbs the rafters to investigate the prayer chamber and finds herself face to face with a tentacled worm that was hiding overhead.
+
+**Combat**
+Back in the hall, goblins burst through the door. [[Dorian Blackthorn]] instantly slays three of them with magic missiles. [[Grrurika]] sacred flames the fourth. [[Dorian Blackthorn]] lays caltrops down in front of the doorway to stop more intruders. More goblins show up outside the door and [[Richtor Helmsley III|Richtor]] chucks the [[Molotov Cocktail]] out at them. Four goblins die in the fire, with one of them running and falling onto the caltrops.
+
+[[Thia Galanodel|Thia]] starts reciting the sacred words that are part of her ritual. Above, the tentacled worm latches on to [[Eldina Tosscobble|Eldina]] and locks her in a grapple. It tries dragging her away but she manages to hold fast. [[Gundren Rockseeker|Gundren]] shoots at the worm to help. [[Dorian of Galdor]] also tries casting a spell at the worm, but his magic warps and he ends up casting a small field of glitter and glowing butterflies around himself. [[Eldina Tosscobble|Eldina]] stabs at the worm, trying to kill it before it drags her away. It takes damage, but not enough to save herself.
+
+In the hall, a close knit gang of goblins bound in, a roving ball of flying torches and swinging scimitars. As they run past [[Grrurika]], she manages to get an attack of opportunity on them, killing one of the gang. The gang launch a barrage of torches into the room, burning [[Richtor Helmsley III|Richtor]], [[Dorian Blackthorn]], and [[Grrurika]]. A goblin grunt also charges in and locks into battle with [[Grrurika]]. Just outside the door, a goblin witch casts a sickness spell into the room, poisoning [[Dorian Blackthorn]] and [[Richtor Helmsley III|Richtor]]. The witch then creates a fog cloud in the room, obscuring vision. [[Grrurika]] heals [[Dorian Blackthorn]], who manages to thin the gang down to half its original size with burning hands. [[Richtor Helmsley III|Richtor]] kicks the witch back a few feet.
+
+In the prayer room, the tentacled worm bites hard into [[Eldina Tosscobble|Eldina]] and she goes limp. It starts dragging her body up higher into the tower's rafters. [[Thia Galanodel|Thia]] finishes reciting her rite. With swift movements, she places her spell book on the altar as a sacrifice to the God of Knowledge and pours holy water into the chalice, completing the ritual. And explosion of divine radiant energy emanates from the altar. The energy disintegrates all nearby evil creatures as [[Oghma|Oghma's]] power re-enters the hall.
+
+Up in the rafters, the worm disintegrates and [[Eldina Tosscobble|Eldina's]] unconscious body descends safely down to the floor.
+
+## The Aftermath
+The voice of [[Oghma]] congratulates [[Thia Galanodel|Thia]] and blesses her with the [[Charm of Augury]]. A [[Library of Whispers#^library-riddle|Riddle]] is inscribed into her memories.
+
+[[Eldina Tosscobble|Eldina]] chugs a health potion and pockets the ceremonial knife. [[Dorian of Galdor]] also decides to help himself to spoils and takes the chalice. He drinks the sparkling holy water from it and regains a hit point.
+
+There's a door in the prayer hall, which they find leads to a store room. Crates have dried meat, which the party use to replenish their rations. They also find some armour and a longsword bearing the emblem of [[Neverwinter]] on its hilt. [[Gundren Rockseeker|Gundren]] recognises the gear as belonging to [[Sildar Hallwinter|Sildar]] and suggests that if they return it to him, he'd probably reward them.
+
+They enter another room and find four hobgoblin sentries inside.
+
+## Sentries
+**Combat**
+[[Grrurika]] points to the longbow hobgoblin and *commands* is to grovel. It drops prone.  [[Eldina Tosscobble|Eldina]] uses her *Wails from the Grave* to injure the two hobgoblins with greatswords. The hobgoblin with the shield picks up the hobgoblin archer, who fires a poisoned arrow at [[Dorian of Galdor]]. [[Gundren Rockseeker|Gundren]] finishes off the first greatsword hobgoblin.
+
+[[Dorian Blackthorn]] kills the shielded and greatsword hobgoblins. [[Dorian of Galdor]] kills the archer.
+
+Outside the sentry room, they find themselves in the entry courtyard. The castle's exit is right there. They debate finishing clearing the castle or going home. [[Gundren Rockseeker]] suggests they take their wins, not tempt fate, and head back to [[Phandalin Town|Phandalin]] to rest and recoup. Everyone agrees and they set out back into [[Neverwinter Wood]].
+
+A couple of hours into their journey, they encounter a robed figure about 60ft away. **To be continued.**
 # Summary
+[[Thia Galanodel]] completes her mission of reconsecrating the defiled altar back to [[Oghma]], sacrificing her spell book in the process. [[Dorian of Galdor]] and [[Eldina Tosscobble]] take ceremonial items from the altar. The party are heading back to [[Phandalin Town|Phandalin]] with [[Gundren Rockseeker]] when they encounter a hooded stranger on the road.
 ^summary
 # Kills
+[[Dorian Blackthorn]] — 4 goblins, 2 hobgoblins
+[[Dorian of Galdor]] — 1 owlbear, 1 hobgoblin
+[[Grrurika]] — 2 goblins,
+[[Richtor Helmsley III]] — 4 goblins
 ^kills

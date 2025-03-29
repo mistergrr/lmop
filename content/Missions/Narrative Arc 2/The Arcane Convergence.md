@@ -29,7 +29,19 @@ The Arcane Convergence ritual requires a place of strong magical resonance. Howe
 	- Boss: Venomfang, [[Arboreal Bruiser]]
 - Wizard tower in [[Old Owl Well]]
 	- Theme: Necrotic
-	- Boss: Zombie Ogre
+	- Boss: Zombie Ogre: 8 (85)
+		- (A) Slam, +6, 13 (2d8+4) bludgeon
+		- (A) Swipe, +6, 10ft cone, 10 (1d12+4) bludgeon
+		- **Undead Fortitude.** If reduced to 0 HP, CON save with DC 5 + last damage taken. 1HP
+	- Zombie, Ash: 8 (8)
+		- (A) Slam, +3, 4 (1d6+1) bludgeon.
+		- **Ash Puff**. When first damaged, 5ft (e) DC 10 CON save or disadv. on d20 for 1min. Save end on turn end.
+		- **Undead Fortitude.**
+	- Zombie: 8 (15)
+		- (A) Slam, +3, 5 (1d8+1) bludgeon.
+		- **Undead Fortitude.**
+	- Zombie Spitter: 10 (19)
+		- (A) Acid spit, 20/60ft, DC 12 DEX save to dodge 
 
 # Ritual Components and Preparation
 An NPC companion can provide hints/clues about conducting the ritual. The ritual requires gathering powerful magical components that reflect the unique nature of the chosen site:

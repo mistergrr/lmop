@@ -8,7 +8,7 @@
 
 # Clues
 - [x] "Where the rivers meet the stars"
-- [ ] Library Riddle
+- [x] Library Riddle
 >"Three guardians stand, their secrets tight,  
 Each holds a key to hidden sight.  
 One moves with grace, swift and sly,  
@@ -26,8 +26,8 @@ And brings to light the hidden goal.
 Align their virtues in careful flow,  
 And the way to knowledge will surely show."
 ^library-riddle
-- [ ] ![[Beruns-Mural.jpg]]
-- [ ] Map
+- [ ] Berun's Mural ![[Beruns-Mural.jpg]]
+- [ ] Map (found in [[The Black Spider]]'s cryptex)
 
 # Secrets
 - [[Shadow Codex]]
