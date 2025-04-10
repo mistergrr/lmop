@@ -1,7 +1,7 @@
 ---
 title: Welcome to The Steel Wolves Campaign
 ---
-[[Narrative]]
+[[Arcs]]
 
 [[Campaign Summary]]
 

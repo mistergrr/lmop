@@ -41,28 +41,29 @@ Missions towards "corporal"
 * A corporal can bring 2 sidekicks (privates).
 * Bounty board unlocked.
 
-### Arc 2.x
+### Arc 2.1
 #### Bounty Board
 Bounties can be collected from either Blacklake or the Chasm
 * [[Bounties — Cleaning Blacklake]]
 * [[Bounties — The Chasm]]
 
 ### Arc 2.x
-* [[Mission — The Devil's Awakening]]
+* [[Mission — Fix That Rat]]
 * [[Grrurika]] gets promoted to sergeant.
 
 ## Narrative Arc 3
 **The View From Up Here**
 * [[Grrurika]] is fresh off the promotion to Sergeant.
-* Sergeants can bring 4 sidekicks (corporals and lower).
+* Sergeants can bring 3 sidekicks (corporals and lower).
 * Bounties still available, but missions are also linear.
 * She starts seeing the corruption and abuse in the city and her company.
+
 ### Arc 3.1
 * [[Mission — Undead in Neverdeath]]
 ### Arc 3.2
 - 
 ### Arc 3.3 
-- 
+- [[Mission — The Devil's Awakening]]
 ### Arc 3.4
 * Marthammor Duin
 

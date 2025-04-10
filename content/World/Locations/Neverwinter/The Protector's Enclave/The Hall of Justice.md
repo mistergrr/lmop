@@ -6,4 +6,4 @@ When Tyr gave up his divinity to [[Torm]], the residents of Neverwinter refused
 
 When [[Dagult Neverember|Lord Neverember]] arrived in the city in [[Neverwinter History#^1468|1468 DR]] , he installed a temporary priesthood of [[Torm]] at the location, reasoning there were similarities in religious tenets. He also used the temple as a base for his operations in the city as well as a personal residence. Both actions were met with disapproval by the city’s residents.
 
-After Dagult Neverember installed himself in the Hall of Justice, his detractors, specially the [[The Nashers]]), began to call the temple "the Hall of Never-Justice".
+After Dagult Neverember installed himself in the Hall of Justice, his detractors, specially the [[Nashers]]), began to call the temple "the Hall of Never-Justice".

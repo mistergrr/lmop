@@ -35,7 +35,7 @@ Skills: +2,
 
 ### Actions
 Mace. +4 to hit.  6 bludgeoning.
-Dagger. +4 to hit. 4 piercing.
+[[Albrek Dagger]]. +5 to hit. 5 piercing.
 Sacred Flame. DEX save or 1d8 radiant (0 on save).
 
 ### Special Actions

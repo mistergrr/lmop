@@ -5,9 +5,10 @@
 - [x] Blade oil of beasts
 - [x] Blade oil of goblinoids
 ## Uncommon (4)
-- [ ] +1 Shortsword [[Wolfsbane]]
+- [x] +1 Longsword [[Wolfsbane]]
 	- [x] [[Wolfsbane]]
 	- [x] +1 Ruby
+- [ ] [[Potion of Pugilism]]
 ## Rare (1)
 - [ ] Relic 1
 - [ ] 

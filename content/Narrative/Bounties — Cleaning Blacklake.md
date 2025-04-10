@@ -15,22 +15,22 @@ Cultist tattoos | 24sp
 Orc tusks | 30sp
 
 # Encounters
-| d6  | Encounter                                   | GP        |
-| --- | ------------------------------------------- | --------- |
-| 1   | 3 [[Swarm of rats]]                         |           |
-| 2   | 5 [[Bandit]]                                |           |
-| 3   | 3 [[Thug]] Nashers                          | 10sp      |
-| 4   | 1 [[Knight]] duellist                       | +1 dagger |
-| 5   | 3 Ashmadai [[Cultist]] 1 Cult fanatic HP:24 | 96sp      |
-| 6   | 2 Many-Arrows [[Orc]] Raiders HP:21         | 120sp     |
+| d6  | Encounter                           | Loot  |
+| --- | ----------------------------------- | ----- |
+| 1   | [[Swarm of rats]]                   |       |
+| 2   | [[Bandit]]s                         |       |
+| 3   | [[Thug]] [[Nashers]]                | 10sp  |
+| 4   | 1 [[Knight]] duellist               | 7gp   |
+| 5   | 3 [[Dead Rats]]                     | 96sp  |
+| 6   | 2 Many-Arrows [[Orc]] Raiders HP:21 | 120sp |
 
-d6 | Complication
--- | --
-1 | Injured
-2 | Drunk
-3 | Flooded lake
-4 | Additional encounter group
-5 | Reinforcements
-6 | Plaguetouched
+| d6  | Complication               |
+| --- | -------------------------- |
+| 1   | Injured                    |
+| 2   | Drunk                      |
+| 3   | Flooded lake               |
+| 4   |                            |
+| 5   | Additional encounter group |
+| 6   | Reinforcements             |
 
 Bring any trophy/proof of progress to [[Captain Thorne Blackwood|Captain Thorne]]

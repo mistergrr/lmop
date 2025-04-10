@@ -26,13 +26,13 @@ The Shadovar attack Moonshadow Hall and send one of its towers to [[Shadowfell]]
 The [[Spellplague]] strikes Toril. This creates [[The Floating Earthmotes]] on which some of Neverwinter’s landmarks reside, sends the Cloak Tower to the Far Realm, causes the rise of undead in the [[Neverdeath Cemetery]] graveyard allows the Netherese to transport the Shard of Night to Neverwinter, and corrupts the Underdark directly beneath Neverwinter (which gets exposed as [[The Chasm]] later). ^1385
 
 **1451 DR**
-An adventuring party in Gauntlgrym caused the primordial Maegera to fly into a fit of rage and lay waste to much of the surrounding area. This included causing [[Mount Hotenow]] to erupt, opening a massive chasm in the south-eastern quarter of Neverwinter and laying ruin to much of [[World/History/Places/Castle Never|Castle Never]] (killing most of the castle’s inhabitants as well). This even is often simply referred to as “[[The Cataclysm]].” ^1451
+An adventuring party in [[Gauntlgrym]] caused the primordial Maegera to fly into a fit of rage and lay waste to much of the surrounding area. This included causing [[Mount Hotenow]] to erupt, opening a massive chasm in the south-eastern quarter of Neverwinter and laying ruin to much of [[World/History/Places/Castle Never|Castle Never]] (killing most of the castle’s inhabitants as well). This even is often simply referred to as “[[The Cataclysm]].” ^1451
 
 **1468 DR**
 Still reeling from the destruction of [[The Cataclysm]], [[Dagult Neverember|Dagult Neverember]] hires [[Mintarn]] mercenaries to aid him in bringing order back to Neverwinter. He calls this the “New Neverwinter” movement. ^1468
 
 **1474 DR**
-The Sons of Alagondar are formed as a nationalist group opposed to Dagult Neverember’s rule of Neverwinter. They have two factions, [[The Nashers]] and [[The Graycloaks]]. The Nashers are more violent in their attempt to remove Neverember, whereas the Graycloaks tend to use politics and subterfuge to depose Neverember. ^1474
+The Sons of Alagondar are formed as a nationalist group opposed to Dagult Neverember’s rule of Neverwinter. They have two factions, [[Nashers]] and [[Graycloaks]]. The Nashers are more violent in their attempt to remove Neverember, whereas the Graycloaks tend to use politics and subterfuge to depose Neverember. ^1474
 
 **1478 DR**
 [[Sons of Alagondar]] discovered that a collector named Karion had come into possession of the box which could summon the [[Crown of Neverwinter]] from wherever it was located. Members used the box to obtain the Crown, but the Crown was then stolen by Lord Protector [[Dagult Neverember|Dagult Neverember]]'s spymaster, Dhafiyand. Meanwhile, the box was destroyed, but its emerald golem was recovered by Valindra Shadowmantle, who was able to learn of the Crown's location from the construct. ^1478

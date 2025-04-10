@@ -10,14 +10,14 @@ Ogre toes | 80sp
 
 # Encounter Table:
 
-d6  | Encounter | Difficulty
--- | -- | --
-1 | 2 Winged Kobold, 4 [[Kobold]] | easy
-2 | 2 [[Giant Spider]]s | medium
-3 | 1 Half-Ogre, 5 [[Stirge]]s | medium
-5 | 1 Grick, 1 [[Giant Rat]] | hard
-4 | 2 [[Harpy]], 2 [[Giant Rat]] | hard
-6 | 1 [[Ogre]], 4 [[Giant Rat]] | hard
+| d6  | Encounter                     | Difficulty |
+| --- | ----------------------------- | ---------- |
+| 1   | 2 Winged Kobold, 4 [[Kobold]] | easy       |
+| 2   | 2 [[Giant Spider]]s           | medium     |
+| 3   | 1 Half-Ogre, 5 [[Stirge]]s    | medium     |
+| 5   | 1 Grick, 1 [[Giant Rat]]      | hard       |
+| 4   | 2 [[Harpy]], 2 [[Giant Rat]]  | hard       |
+| 6   | 1 [[Ogre]], 4 [[Giant Rat]]   | hard       |
 
 d6 | Complication
 -- | --

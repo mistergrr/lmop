@@ -11,7 +11,7 @@ Ashmadai HQ?, Neverwinter.
 1. 4 [[Cultist]]: HP 9, AC 12 (CR1/8)
 2. 1 [[Cult Fanatic]]: HP 22, AC 13 (CR 2)
 3. 2 [[Imp]]: HP 10, AC 13 (CR 1)
-4. 1 [[Bearded Devil]]: HP 52, AC 13 (CR 3) (summoned)
+4. 1 [[Spined Devil]]: HP 22, AC 13 (CR 2) (summoned)
 # Encounter Flow
 ## Cultists' Tactics
 - **Cultists:** The cultists will engage in melee combat with the players, using their scimitars. If possible, they will try to protect the cult fanatic.
@@ -21,8 +21,9 @@ Ashmadai HQ?, Neverwinter.
 - The ritual takes 5 rounds to complete. Each round, the cult fanatic must maintain concentration. If the cult fanatic takes damage, they must make a concentration check (DC 10 or half the damage taken, whichever is higher).
 - If the ritual is interrupted (either by breaking the fanatic's concentration or defeating the cultists and fanatic), the bearded devil is not summoned.
 - If the ritual is completed, the bearded devil appears at the altar and joins the combat. This significantly increases the difficulty of the encounter.
-## Bearded Devil (if summoned)
+## Spined Devil (if summoned)
 - **Tactics:** The bearded devil will attack the nearest threat, focusing on characters who deal the most damage or appear to be spellcasters.
+- Will 0attempt to flee when extra bloodied.
 # Loot
 - **Cultists:** Each cultist carries a scimitar and a small pouch of coins (10-20 GP each).
 - **Cult Fanatic:** The cult fanatic has a dark ritual tome (could be a plot device or contain infernal secrets), a potion of healing, and a dagger with infernal engravings (worth 25 GP).

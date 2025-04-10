@@ -1,5 +1,5 @@
 Consists of two smaller factions, **the Graycloaks** and **the Nashers**
 
-![[The Graycloaks]]
+![[Graycloaks]]
 
-![[The Nashers]]
+![[Nashers]]
