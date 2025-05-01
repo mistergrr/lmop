@@ -1,7 +1,11 @@
 # Mission:
-[[Dagult Neverember]] is going to [[Neverdeath Cemetery]] to conduct an age-old rite to pay respect to [[King Nasher Alagondar]] (his supposed ancestor) as a publicity event. Protect Lord Neverember as he performs the cultural rite. **Take 2 sidekicks**.
+[[Dagult Neverember]] is going to [[Neverdeath Cemetery]] to conduct an age-old rite to pay respect to [[King Nasher Alagondar]] (his supposed ancestor) as a publicity event. Protect Lord Neverember and his priest as they perform the cultural rite. **Take 2 sidekicks**.
 # Location: 
 [[Neverdeath Cemetery]], Neverwinter.
+
+# NPCs
+- [[Dagult Neverember]]
+- [[Deuteronomy Albrek]] — Dagult's priest
 # Setting the Scene
 Lord Neverember stands at the centre of an ancient circle of gravestones, reciting an age-old rite meant to honour the fallen and keep the spirits at peace. As he speaks, dark forces stir within the cemetery, intent on disrupting the ritual.
 # Enemies:

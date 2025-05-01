@@ -5,3 +5,7 @@ The Rats lay claim to a network of sewer tunnels that allows them free passage t
 The wererat [[Rsolk]], king of the gang, holds court in a honeycomb of caverns near the shore of Blacklake that is packed with objects and garbage recovered from all over the city. Through the exploitation of kidnapped engineers, [[Rsolk]] has installed a flood trap mechanism that can bring the waters of the lake rushing in to cleanse the sewers at the pull of a switch.
 
 >A Dead Rat deserter can scheme to gain a place in the gang, using the other members for his or her own ends (and doing service for them in return) and perhaps coming to dominate the group. Taking leadership of the gang involves a brutal battle against [[Rsolk]]. The wererat is willing to engage in a one-on-one duel against a challenger, but his allies jump in to aid him when he is bloodied, provoking an all-out fight. A sore loser, [[Rsolk]] is likely to activate the flood trap if he is defeated.
+
+The gang recruits from among the region's scum. It infects new members with lycanthropy to ensure their loyalty.
+
+> In addition to rats and dire rats, you can use any humanoid by applying the wererat template. You can also use any creatures that might be found in a sewer complex, such as otyughs and carrion crawlers.

@@ -36,16 +36,14 @@ Missions towards "corporal"
 - Investigate the source of plaguechanged monsters.
 
 ## Narrative Arc 2
-* [[Grrurika]] returns to a promotion to Corporal but her first mission is a tough one
+* [[Grrurika]] returns to a promotion to *Corporal*
 	* Title, "[[Protector]]"
 * A corporal can bring 2 sidekicks (privates).
 * Bounty board unlocked.
 
 ### Arc 2.1
-#### Bounty Board
-Bounties can be collected from either Blacklake or the Chasm
-* [[Bounties — Cleaning Blacklake]]
-* [[Bounties — The Chasm]]
+#### Investigate Wererats
+
 
 ### Arc 2.x
 * [[Mission — Fix That Rat]]

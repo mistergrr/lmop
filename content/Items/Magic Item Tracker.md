@@ -10,7 +10,7 @@
 	- [x] +1 Ruby
 - [ ] [[Potion of Pugilism]]
 ## Rare (1)
-- [ ] Relic 1
+- [ ] Hat that lets you sense secret doors when they're within close range
 - [ ] 
 
 # Levels 5-10
