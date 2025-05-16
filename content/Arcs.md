@@ -6,9 +6,8 @@ Cinderella? (rise then fall then rise)
 
 **Things that must happen before the end of the campaign.**
 * [[Grrurika]] promoted to sergeant
-* Gain dagger from an enemy as a trophy.
-## Narrative Arc 1
-**The Rise**
+* Gain dagger from an enemy? as a trophy.
+## Narrative Arc 1 | The Intro
 Missions towards "corporal"
 ### Arc 1.1
 * Mission: [[Quests#^spiders-cave|Clear Cave]]
@@ -20,7 +19,6 @@ Missions towards "corporal"
 
 ### Arc 1.3
 * Mission: [[Quests#^clean-blacklake1|Cleaning Blacklake]]
-* Leads to Arc 1.3
 
 ### Arc 1.4
 * [[Quests#^wererat-attack|Wererat Attack]]
@@ -34,8 +32,9 @@ Missions towards "corporal"
 
 ### Arc 1.6
 - Investigate the source of plaguechanged monsters.
+- Leaving [[Helm's Hold]]
 
-## Narrative Arc 2
+## Narrative Arc 2 | The Rise
 * [[Grrurika]] returns to a promotion to *Corporal*
 	* Title, "[[Protector]]"
 * A corporal can bring 2 sidekicks (privates).
@@ -43,14 +42,12 @@ Missions towards "corporal"
 
 ### Arc 2.1
 #### Investigate Wererats
-
+* [[Mission — Fix That Rat]]
 
 ### Arc 2.x
-* [[Mission — Fix That Rat]]
 * [[Grrurika]] gets promoted to sergeant.
 
-## Narrative Arc 3
-**The View From Up Here**
+## Narrative Arc 3 | The View From Up Here
 * [[Grrurika]] is fresh off the promotion to Sergeant.
 * Sergeants can bring 3 sidekicks (corporals and lower).
 * Bounties still available, but missions are also linear.
@@ -65,9 +62,7 @@ Missions towards "corporal"
 ### Arc 3.4
 * Marthammor Duin
 
-## Narrative Arc 4
-**Lost and Found**
-
+## Narrative Arc 4 | Lost and Found
 ### Arc 4.1
 * [[Mission — Aldo's Owed Woes]] 
 ### Arc 4.2

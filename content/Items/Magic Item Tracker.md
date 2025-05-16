@@ -4,14 +4,16 @@
 - [x] [[Web Sac]]
 - [x] Blade oil of beasts
 - [x] Blade oil of goblinoids
+- [ ] [[Pole of Angling]]
 ## Uncommon (4)
 - [x] +1 Longsword [[Wolfsbane]]
 	- [x] [[Wolfsbane]]
 	- [x] +1 Ruby
 - [ ] [[Potion of Pugilism]]
+- [x] [[Potion of Water Breathing]]
 ## Rare (1)
 - [ ] Hat that lets you sense secret doors when they're within close range
-- [ ] 
+- [ ] [[Amulet of Health]]
 
 # Levels 5-10
 ## Common +4 (10)

@@ -3,10 +3,10 @@ date:
 Day:
 ---
 ## Previously
-![[Session #^Summary]]
-# Title
+![[Session 6#^Summary]]
+# Into the Rat's Nest
 ## Player Notes
-- 
+- [[Grrurika]] level up to 4
 ## Possible Scenes
 - 
 
@@ -14,7 +14,7 @@ Day:
 - 
 
 ## Locations
-
+- [[Blacklake Sewers]]
 
 ## NPCs
 
@@ -25,7 +25,7 @@ Day:
 -
 ## Starting Scene
 
-# Day
+# Day 7
 
 # Summary
 ^summary

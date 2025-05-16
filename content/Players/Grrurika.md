@@ -14,18 +14,21 @@ Level: "3"
 - Bandits: 1
 - Orcs: 2
 # Loot
-- [[Wolfsbane]]
+- [[Wolfsbane]] — upgrade ready Day 10
 - [[Giant Spider Eye]]
 - [[Web Sac]]
 - Potion of healing x2
 - Lapis Lazuli (10gp) x6
 - [[Potion of Fire Breath]]
+- [[Potion of Water Breathing]]
 # Background
 
 ## Early Life and Training
 Born and raised on the island of [[Mintarn]], Grrurika grew up with a strong sense of duty and honor. From a young age, she was trained as a soldier, learning the art of combat, strategy, and discipline. The island’s mercenary tradition was strong, and Grrurika aspired to be a part of it, seeing it as a way to bring order and justice to the world.
 ## Service in Neverwinter
 When the opportunity arose to join [[The Steel Wolves]], a mercenary company that served as both the army and city watch of Neverwinter, Grrurika eagerly accepted. The initial excitement of serving in a bustling city soon gave way to the harsh realities of her duty. The mercenary company was tasked with maintaining order, but over time, Grrurika began to see cracks in her fellow soldiers' integrity.
+
+She was promoted from private to corporal after saving [[Dagult Neverember]] from a wererat attack. Her weekly pay is now 240sp per week.
 ## Devotion to Marthammor Duin
 Since her suspension, Grrurika has devoted herself to Marthammor Duin, embracing the life of a wanderer and protector of the outcast. She travels from place to place, offering aid and protection to those in need, guided by her faith and her sense of justice. Though she remains connected to the mercenary company, her true allegiance is now to her deity and the values she holds dear.
 
