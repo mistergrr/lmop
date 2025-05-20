@@ -25,7 +25,7 @@ A world-shattering force under the control of the Abolethic Sovereignty — one 
 # Symphony of Madness
 The [[Symphony of Madness]] releases nightmares that damage more than a sufferer's sleep. What those effects are and who endures them are up to you.
 
-Those most affected could become [[spellscarred]] or [[plaguechanged]] and be banished to [[Helm's Hold]]. Maybe the night visions inspire violent madness or cause lingering status effects in victims. Perhaps hallucinations seize the heroes and drain their healing surges. Maybe the nightmares provoke attack penalties during extended rests. Or the dreams could provide hints to guide players in the direction you want them to go.
+Those most affected could become [[spellscarred]] or [[Plaguechanged]] and be banished to [[Helm's Hold]]. Maybe the night visions inspire violent madness or cause lingering status effects in victims. Perhaps hallucinations seize the heroes and drain their healing surges. Maybe the nightmares provoke attack penalties during extended rests. Or the dreams could provide hints to guide players in the direction you want them to go.
 
 Generally, use the Symphony as a tool to drive your campaign and create a sense of unease.
 

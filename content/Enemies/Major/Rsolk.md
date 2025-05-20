@@ -2,7 +2,7 @@ Leader of the [[Dead Rats]] in [[Neverwinter]]
 
 # Description
 **Class:** Warlock (Great Old One – with a pestilence-themed patron)  
-**Appearance:** Cloaked in rags and leather, face hidden behind a rat skull mask. His eyes gleam yellow in the dark. His skin is pocked, stretched, and patchy with white fur.  
+**Appearance:** Cloaked in rags and leather, face hidden behind a rat skull mask. His eyes glow blue in the dark. His skin is pocked, stretched, and patchy with white fur.  
 **Voice:** Raspy, whispering like wind through a tunnel. Constantly sniffs or twitches.  
 **Tactics:** Ambushes, traps, and minions. Never fights alone. Always plans an escape route.
 
@@ -22,5 +22,7 @@ Chaos and Pestilence
 [[Mission — Fix That Rat]]
 
 # Secrets
+- Rsolk is plaguechanged
 - Has installed a flood trap mechanism that can bring the waters of the lake rushing in to cleanse the sewers at the pull of a switch.
 - Rsolk is in contact with an underground entity—maybe a fragment of an elder being or an ancient plague spirit — [[Abolethic Sovereignty]].
+	- He's harnessing [[Spellplague]] to mutate the wererat lycanthropy
