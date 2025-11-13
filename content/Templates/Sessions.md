@@ -23,6 +23,13 @@ Day:
 - 
 ## Rewards
 -
+## Checklist
+- [ ] Major combat encounter
+- [ ] Puzzle/mystery
+- [ ] Roleplay opportunity
+- [ ] A twist/complication
+- [ ] A reward
+- [ ] A cliffhanger
 ## Starting Scene
 
 # Day

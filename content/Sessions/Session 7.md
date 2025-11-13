@@ -1,6 +1,6 @@
 ---
-date: 
-Day:
+date:
+Day: 7
 ---
 ## Previously
 ![[Session 6#^Summary]]
@@ -18,13 +18,14 @@ Day:
 - [[sewer-2]]
 
 ## NPCs
-- Skaven deserter
+- Skaven deserter 
 
 ## Relevant Monsters
 - Skaven
+- [[Skrrik Fumeclaw]]
 
 ## Starting Scene
-- [[Grrurika]], [[Perts Dangling|Perts]], and [[Eihr Zissyu|Eihr]] descend further into [[Blacklake Sewers]]
+- [[Grrurika]], and company descend further into [[Blacklake Sewers]]
 # Day 7
 
 # Summary
