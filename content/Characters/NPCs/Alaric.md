@@ -5,7 +5,7 @@ Background:
  - Soldier
  - Slave
 Location: "[[Waterdeep]]"
-Tags
+Tags:
   - friendly
 ---
 - **Age**: 54 years old.
