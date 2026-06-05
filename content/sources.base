@@ -1,0 +1,57 @@
+views:
+  - type: table
+    name: Magic Items
+    filters:
+      and:
+        - category == "magic item"
+    groupBy:
+      property: Type
+      direction: ASC
+    order:
+      - file.name
+      - Type
+      - Rarity
+    columnSize:
+      file.name: 533
+      note.Type: 180
+  - type: table
+    name: Locations
+    filters:
+      and:
+        - category == "Location"
+    order:
+      - file.name
+      - geography
+      - location
+    sort:
+      - property: location
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 228
+      note.geography: 121
+  - type: table
+    name: Locations (Local)
+    filters:
+      and:
+        - category == "Location"
+        - location == this.asLink()
+    order:
+      - file.name
+      - geography
+      - location
+    columnSize:
+      file.name: 228
+      note.geography: 121
+  - type: table
+    name: Deities
+    filters:
+      and:
+        - category.contains("Deity")
+    order:
+      - file.name
+      - tags
+    columnSize:
+      file.name: 497
+      note.tags: 648

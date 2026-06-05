@@ -1,12 +1,14 @@
 ---
-tags:
-  - Weapon
+Category: magic item
+Type: Weapon
 Rarity: Uncommon
+Tags:
+  - item/uncommon
+  - longsword
 ---
 Silvered longsword that belonged to a werewolf hunter named "Elias Wolfsbane"
 
-- Custom-made silvered steel sword.
+- Custom-made silvered steel longsword.
 - Human origin.
-- Worth 200-220gp
 
-Currently with [[Smith]] getting the ruby put in. Will be ready Day 10.
+*Value* 200-220gp

@@ -1,8 +1,13 @@
 ---
-title: Welcome to The Steel Wolves Campaign
+title: LMOP Online
 ---
-[[Arcs]]
+[[Narrative]]
 
 [[Campaign Summary]]
 
 [[Quests]]
+
+[[Ideas]]
+
+[[Main Villains]]
+

@@ -1,1 +1,0 @@
-Poison wind globadier turned arcane bioengineer, loyal to Grey Seer Rsolk, obsessed with perfecting the hybrid serum.

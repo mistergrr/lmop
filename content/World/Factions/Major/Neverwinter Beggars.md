@@ -1,3 +1,0 @@
-
-# Reputation
-![[Grrurika#Neverwinter Beggars]]

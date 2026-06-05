@@ -1,24 +1,22 @@
 ---
 date: 
-Day:
+Day: 
+Characters: 
+Session length:
 ---
 ## Previously
 ![[Session #^Summary]]
 # Title
-## Player Notes
-- 
+## Notes 
+-
 ## Possible Scenes
 - 
-
 ## Secrets and Clues
 - 
-
 ## Locations
-
-
+- 
 ## NPCs
-
-
+- 
 ## Relevant Monsters
 - 
 ## Rewards
@@ -37,4 +35,9 @@ Day:
 # Summary
 ^summary
 # Kills
-- Grrurika ^kills
+[[Jargen “Barabbas” Crudd]]:
+[[Dorian of Galdor]]:
+[[Eldina Tosscobble]]:
+[[Grrurika]]:
+[[Thia Galanodel]]:
+^kills
