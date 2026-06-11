@@ -1,14 +1,14 @@
 ---
 date: 2025-07-12
-Day: "18"
 Characters:
-  - Dorian B
-  - Dorian G
-  - Eldina
-  - Grrurika
-  - Richtor
-  - Thia
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
 Session length: 4.5 hours
+Tags:
+ - day18
 ---
 ## Previously
 ![[LMoP 14#^Summary]]
@@ -66,7 +66,7 @@ The party use the bible to figure out the corresponding crystals to light the mu
 
 ## The Second Chamber
 You find yourselves on a narrow, winding path that floats above a sea of shimmering light. Along the path, you hear echoes—voices of those you’ve healed, saved, or helped throughout you journey. These voices speak of gratitude, but as the cleric progresses, the echoes shift to voices of those who were harmed by the curse, expressing pain, fear, and betrayal. As the cleric moves forward, they must face illusions of these individuals. Each illusion presents a moral challenge, such as confronting an ally who distrusts them because of the curse or meeting a spectral version of themselves who tempts them to embrace the curse’s power. These challenges test the cleric's resolve, compassion, and willingness to confront the consequences of their actions.
-#### Illusions:
+### Illusions:
 - Deuteronomy
 - Beggars of [[Neverwinter]] (Babblebell)
 - Steel Wolves' companions: Clobb, Eihr, Perts, Schuul
@@ -80,7 +80,7 @@ The approaches the Tempter next — A shadowy figure with eyes glowing with necr
 
 Lastly, she approaches the Judge — A figure holding scales before them. This entity demands that the cleric account for their past actions and make a choice: to be judged by the weight of their sins or to judge themselves. She chooses to be judged. Each sin of her choosing to let a teammate risk death is played out before her.
 
-#### Grrurika Sins
+### Grrurika Sins
 - Killing [[Lathander]]
 - Defiling the body
 - Siphoning [[Eldina Tosscobble|Eldina]] to death during Mimic fight
@@ -93,7 +93,7 @@ With each sin, [[Grrurika]] takes 1d6 necrotic damage. Despite her wishes, her t
 
 After the sins, her good deeds are also weighed, healing her each time.
 
-#### Grrurika Deeds
+### Grrurika Deeds
 - Revives [[Thia Galanodel|Thia]] during goblin night ambush on the way to [[Helm's Hold]]
 - Heals [[Eldina Tosscobble|Eldina]] during wolf fight at [[Helm's Hold]]
 - Heals [[Dorian Blackthorn]] during Reconsecration

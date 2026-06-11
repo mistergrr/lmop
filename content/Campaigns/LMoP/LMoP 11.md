@@ -1,14 +1,16 @@
 ---
 date: 2025-02-21
-Day: "11"
 Characters:
-  - Dorian B
-  - Dorian G
-  - Eldina
-  - Grrurika
-  - Richtor
-  - Thia
+  - "[[Dorian Blackthorn]]"
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
 Session length: 5 hours
+Tags:
+ - day11
+ - day10
 ---
 ## Previously
 ![[LMoP 10#^Summary]]

@@ -3,7 +3,6 @@ Category: Location
 Geography: Dungeon
 Location: "[[Neverwinter Wood]]"
 tags:
-  - one-shot
   - dungeon
 ---
 # Background
@@ -56,7 +55,7 @@ A rope **bridge** 20ft spans an open **gully** (area 6). 40' to top, and 80' dro
 
 ## 9. Private Quarters
 Large comfy **bed**. Hidden (DC 18) **trapdoor** (DC 15) leads to Secret Storage (area 11). Locked **chest** (DC 15 or key on Lieutenant).
-	- **Chest contents.** 4gp, 1,415sp, 3,334cp; carved bone statuette (25gp); gold locket with painted portrait (25gp); [[Potion of Water Breathing]], [[Perfume of Bewitching]], [[Potion of Watchful Rest]]
+	- **Chest contents.** 4gp, 1,415sp, 1,334cp; [[Potion of Water Breathing]], [[Perfume of Bewitching]], [[Potion of Watchful Rest]]
 ## 10. Secret Chamber
 Thick layer of **dust** coats entire room. **Door** from (area 7) is **trapped**. **Skeletons** of dwarves and one human. 
 - **Trapped door**. Heavy rock. DC 15 DEX save; 1d10 bludgeon.

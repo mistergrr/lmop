@@ -51,7 +51,7 @@ Level up at the end
 - [x] Dorian must conduct a ritual to stabilise his chaotic magic. [[The Arcane Convergence]]
 
 ## Eldina's Penance
-- [ ] Eldina must perform an ancient ritual to bind their soul to the shadows once more, restoring their lost ability. [[Shadow Codex]].
+- [ ] Eldina must perform a ritual to bind their soul to the shadows once more. [[Shadow Codex]].
 
 ## Grrurika's Penance
 - [x] Grrurika must travel to a temple of Lathander and undergo a trial to decide their dedication to the light or darkness. [[The Pilgrimage of Rebirth]]
@@ -60,7 +60,7 @@ Level up at the end
 - [x] Richtor must put his strength and endurance to the test in [[The Trial of Endurance]]
 
 ## Thia's Penance
-- [ ] Thia must prove her knowledge in [[The Quest for the Tome of Eternal Recall]]
+- [ ] Thia must prove her knowledge in [[Who Wants to be a Wizardaire]]
 
 # Narrative Arc 3 | Tier 2 (5-8) | The Illusive Patron
 **BBEG**: [[Iarno Albrek|Glasstaff]] 

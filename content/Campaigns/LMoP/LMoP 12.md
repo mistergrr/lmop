@@ -1,8 +1,17 @@
 ---
 date: 2025-04-12
-Day: "11"
-Characters: 
-Session length:
+Characters:
+  - "[[Dorian Blackthorn]]"
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+Session length: 5 hours
+Tags:
+ - day11
+ - day12
+ - day13
 ---
 ## Previously
 ![[LMoP 11#^Summary]]

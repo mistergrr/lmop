@@ -1,14 +1,16 @@
 ---
 date: 2024-04-20
-Day: "2"
 Characters:
-  - Aric
-  - Grrurika
-  - Korah
-  - Richtor
-  - Thia
-  - Eldina
+  - "[[Aric Moonshadow]]"
+  - "[[Grrurika]]"
+  - "[[Korah]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+  - "[[Eldina Tosscobble]]"
 Session length: 4 hours
+Tags:
+ - day2
+ - dungeon
 ---
 # Cragmaw Cave pt.i
 ## Previously

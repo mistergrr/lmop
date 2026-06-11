@@ -4,7 +4,7 @@ The codex tells stories of *Trail of Five Darknesses*.
 - [ ] **Heart of Darkness**: Create a Shadowvarian magic item. Diagrams included: Ioun of Sacred Darkness, Mantle of Dark Mists, Masque of Night's Rest, Night Cutter, or Night Treads.
 - [ ] **Weaken Bonds**: Sacrifice your most treasured memory. Loss is all you’ll know from here on. This is the start of letting go. Inscribe the chosen memory on parchment and burn it under a new moon at midnight.
 - [ ] **Strengthen Grudges**: Travel to a place where you were once wronged. Destroy a weapon or object associated with that past rage and kill a magical replica of the hated one.
-- [ ] **Soul Trade**: Use a shadow dragon fang to sacrifice a piece of your soul at an altar to Shar (an altar can be constructed anywhere). Shadow dragons can be found in the Underdark or Shadowfell.
+- [ ] **Soul Trade**: Use a *shadow dragon fang* to sacrifice a piece of your soul at an altar to Shar (an altar can be constructed anywhere). Shadow dragons can be found in the Underdark or Shadowfell.
 # Reward
 - **Shadow Affinity**: Darkvision and advantage on all stealth checks in dim light and darkness. Sneak attack can deal necrotic damage instead of the regular type.
 - **Shadow Item**. When recovering one level of exhaustion, instead recover two.

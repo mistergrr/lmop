@@ -1,19 +1,21 @@
 ---
 date: 2024-08-16
-Day: "5"
 Characters:
-  - Grrurika
-  - Richtor
-  - Thia
-  - Dorian G
-  - Eldina
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
 Session length: 3 hours
+Tags:
+ - day5
+ - day6
 ---
 
 
 ## Previously
 ![[LMoP 6#^Summary]]
-# Title
+# Gaelyn & Brandt's Wedding + The Curse
 
 **Character Moments**
 - [[Dorian of Galdor|Dorian]] gains 160xp

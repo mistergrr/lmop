@@ -1,14 +1,15 @@
 ---
 date: 2024-05-15
-Day: "4"
 Characters:
-  - Aric
-  - Grrurika
-  - Korah
-  - Richtor
-  - Thia
-  - Eldina
+  - "[[Aric Moonshadow]]"
+  - "[[Grrurika]]"
+  - "[[Korah]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+  - "[[Eldina Tosscobble]]"
 Session length: 3.5 hours
+Tags:
+ - day4
 ---
 # Redbrand Hideout pt.i
 
@@ -34,7 +35,7 @@ On leaving, three [[Redbrands]] pick a fight.
 
 [[Eldina Tosscobble|Eldon]], [[Grrurika]], and [[Ziggywix Tinkerton|Ziggywix]] arrive. [[Ziggywix Tinkerton|Ziggy]] pisses on the dead ruffians and carves "Scum" onto their bodies. His dick is huge.
 
-The party strings up the dead [[Redbrands]] in the town square. **-1 Town #rep**
+The party strings up the dead [[Redbrands]] in the town square.
 
 They buy leather armour for [[Ziggywix Tinkerton|Ziggy]] while [[Richtor Helmsley III|Richtor]] commissions a [[Wolf Head Cloak]] from [[Finnegan Greenbottle]] — 2 days to complete.
 

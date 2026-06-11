@@ -24,6 +24,8 @@ Waves of [[Werewolf]] and wolves. Protect citizens.
 - **Wave 1**: 1 Winter Wolf + 4 Dire Wolves + 4 Wolves (CR 8)
 - **Wave 2**: 2 [[Werewolf]] + 2 Dire Wolves + 6 Wolves (CR 8)
 - **Wave 3**: 2 [[Werewolf]] + 2 Winter Wolves + 4 Dire Wolves (CR 13)
+
+> Wave 3 has leader covered in scars. 2x HP.
 # Henge Offence (Deadly)
 **Stonehenge** and **eyes** glow with lunar light. 4 glowing **pillars**. Elk **carcasses** at centre. Werewolf **feasting**. Dire wolf pack + raiders **waiting** to turn. One raider **mid-transformation**.
 - 4 human raiders (Action: transform on death. half health — 36HP)

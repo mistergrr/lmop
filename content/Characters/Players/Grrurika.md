@@ -34,7 +34,7 @@ Cousins [[Gundren Rockseeker|Gundren]], [[Tharden Rockseeker|Tharden]], and [[Nu
 # Mount
 Mule — 40ft speed
 # Magic Items
-[[Wolfsbane]]
+[[Wolfsbane Sword]]
 [[Hand of Redemption]]
 [[Hew, +1]]
 # Curse

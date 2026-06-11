@@ -1,13 +1,14 @@
 ---
-date:
-Day: "61"
+date: 2026-03-14
 Characters:
-  - Barabbas
-  - Dorian G
-  - Eldina
-  - Grrurika
-  - Thia
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Jargen “Barabbas” Crudd]]"
+  - "[[Thia Galanodel]]"
 Session length: 5 hours
+Tags:
+  - day61
 ---
 ## Previously
 ![[LMoP 23#^Summary]]

@@ -1,14 +1,16 @@
 ---
 date: 2024-11-30
-Day: "10"
 Characters:
-  - Dorian B
-  - Dorian G
-  - Grrurika
-  - Richtor
-  - Thia
-  - Eldina
-Session length: 6.5 Hours
+  - "[[Dorian Blackthorn]]"
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+Session length: 6.5 hours
+Tags:
+ - day10
+ - level-up
 ---
 ## Previously
 ![[LMoP 9#^Summary]]

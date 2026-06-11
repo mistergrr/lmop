@@ -1,12 +1,16 @@
 ---
 date: 2025-09-12
-Day: "23"
 Characters:
-  - Dorian G
-  - Grrurika
-  - Richtor
-  - Thia
-Session length:
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Jargen “Barabbas” Crudd]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+Session length: 4 hours
+Tags:
+ - day24
+ - day25
 ---
 ## Previously
 ![[LMoP 17#^Summary]]
@@ -52,13 +56,6 @@ Session length:
 - Redbrands
 	- 34cp, 30sp, 6gp
 	- Letter from [[The Black Spider]]
-## Checklist
-- [x] Major combat encounter
-- [ ] Puzzle/mystery
-- [x] Roleplay opportunity
-- [x] A twist/complication
-- [x] A reward
-- [x] A cliffhanger
 ## Starting Scene
 The party are in [[Wyvern Tor]], preparing to rest. [[Grrurika]] recalls lore about [[Hew, +1]]. [[Eldina Tosscobble|Eldina]] receives a message from [[Ziggywix Tinkerton|Ziggywix]] and heads back to [[Phandalin]].
 > If the party takes a long rest, orcs return to the cave with their horses. They've been told to tell [[Brughor Axe-Biter]] that [[The Black Spider]] requests they move to [[Wave Echo Cave]].

@@ -189,15 +189,15 @@ Eldon must perform an ancient ritual to bind their soul to the shadows once more
 	- **The Blessing of Endurance**: A permanent increase to their Constitution.
 	- [[Thunderclap]] gains +1
 ## Thia's Penance
-[[The Quest for the Tome of Eternal Recall]]
-- [ ] Find location of the library
+[[Who Wants to be a Wizardaire]]
+- [ ] Find location of the [[Library of Whispers]]
 	- [x] Area location (Where the rivers touch the stars)
 	- [x] Mural clue
 	- [x] Map piece 
 - [ ] Solve the riddle to enter
 	- [x] Receive riddle
 - [ ] Pass the trial.
-- Location: [[Library of Whispers]]
+- [ ] Gain library membership.
 - **Rewards**:
 	- Curse removed
 	- **The Gift of Memory**: Permanent increase to Intelligence score and can help others recall lost memories.

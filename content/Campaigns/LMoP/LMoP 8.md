@@ -1,16 +1,16 @@
 ---
 date: 2024-10-12
-Day: "7"
 Characters:
-  - Grrurika
-  - Richtor
-  - Thia
-  - Dorian G
-  - Eldina
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
 Session length: 5 Hours
+Tags:
+ - day7
+ - day8
 ---
-
-
 # Previously
 ![[LMoP 7#^Summary]]
 # Pre-Session
@@ -38,7 +38,7 @@ Session length: 5 Hours
 	- Give [[Thia Galanodel|Thia]] Magic Initiate (Cleric) feat. (New Basic Rules)
 		- Give everyone else a level 1 feat next session.
 	- Receives vision from [[Oghma]] about altar. [[Sister Garaele]] has/can help get scroll of "Ceremony."
-	- Find the [[Library of Whispers]] and obtain [[Tome of Eternal Recall]].
+	- Find the [[Library of Whispers]] and obtain a book for memory.
 - [[Richtor Helmsley III|Richtor]]
 	- Receive [[Wolf Head Cloak]] +1 Intimidation, -1 Persuasion
 - [[Dorian of Galdor]] 
@@ -47,45 +47,38 @@ Session length: 5 Hours
 	- Intro to group
 
 As the party travels to [[Helm's Hold]], run a [[Triboar Trail#Encounters|Triboar Trail Encounter]].
-
 ## Possible Scenes
 - Hold up at [[Helm's Hold]] entrance gate
 - Hanging in Heartward
 - Ghosts in the night
 - Access 3rd floor of **Old Dirty Dwarf**
 - Talk to [[Satarin|Brother Satarin]] and [[Rohini]] about breaking the curses.
-
 ## Secrets and Clues
 - [[Rohini]] is a succubus
 - [[Rohini]] has been turning asylum patients into foulspawn
 - The Uthgardt barbarians and werewolves are connected.
 - Werewolf attacks make silvered / magical weapons a necessity.
-- 
-
 ## Locations
 - Cathedral of Helm
 - Old Dirty Dwarf
 - Heartward
-
 ## NPCs
 [[Satarin|Brother Satarin]]
 [[Rohini]]
 [[Juetta]], [[Thoril]]
 [[Ruby Roo]]
-
 ## Relevant Monsters
 - Mimic in Old Dirty Dwarf
 - Zombies
-
-# Day 7 
+# Day 7 | Introducing Dorian Blackthorn
 - [[Eldina Tosscobble]] can't find shadows when sleeping. Level 1 exhaustion.
 - [[Thia Galanodel]] Receives a vision from [[Oghma]], who consoles her and says he can provide some aid if she completes his quest, [[Reconsecrate the Altar]]. Says to visit [[Sister Garaele]] for information on how to perform the ritual. #forgotten-knowledge
 - [[Grrurika]] also sees visions in her sleep. The vision urges her to seek out the [[Temple of the Dawning Light]], where she must undergo a trial to prove their remorse and dedication to restoring the balance between life and death. #rebirth 
 - [[Richtor Helmsley III|Richtor]] dreams he's a puppy. The dream has no effect on real life.
 - [[Dorian of Galdor]] dreams of [[Erynel]] and was up with stiff morning wood.
 
-[[Richtor Helmsley III|Richtor]] wakes up and collects his [[Wolf Head Cloak]]. He also sells some surplus weapons.
-[[Thia Galanodel|Thia]] and [[Grrurika]] visit [[Sister Garaele]], who explains how to conduct the ritual to reconsecrate the defiled altar. [[Grrurika]] also confirms that they should go to [[Helm's Hold]] to see about breaking their banes.
+Richtor collects his [[Wolf Head Cloak]] and sells surplus weapons. [[Sister Garaele]] explains to Thia and [[Grrurika]] how to conduct the ritual to reconsecrate the defiled altar. Grrurika also confirms that they should go to [[Helm's Hold]] to see about breaking their banes.
+
 [[Dorian Blackthorn]] overhears the conversation and insists he join the party to help them bring the chaos to order (despite being a week away from retirement). He says he will see to it the banes are broken (whether they live or die). He is also heading to [[Helm's Hold]] to see if he can bring his Wild Magic in order.
 
 [[Eldina Tosscobble]] and [[Dorian of Galdor]] check in on [[Ziggywix Tinkerton|Ziggywix]]. [[Ziggywix Tinkerton|Ziggy]] says he enjoyed the wedding and is fine, but is too frail to travel with them. He wishes them luck and offers a round of drinks on him when they return.

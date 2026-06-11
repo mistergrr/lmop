@@ -1,13 +1,14 @@
 ---
 date: 2024-03-23
-Day: "1"
 Characters:
-  - Grrurika
-  - Korah
-  - Richtor
-  - Thia
-  - Eldina
+  - "[[Grrurika]]"
+  - "[[Korah]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+  - "[[Eldina Tosscobble]]"
 Session length: 4 hours
+Tags:
+ - day1
 ---
 # Goblin Ambush
 ## Day 1

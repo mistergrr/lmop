@@ -1,17 +1,17 @@
 ---
 date: 2024-11-02
-Day: "10"
 Characters:
-  - Grrurika
-  - Richtor
-  - Thia
-  - Dorian G
-  - Dorian B
-  - Eldina
+  - "[[Dorian Blackthorn]]"
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
 Session length: 4.5 hours
+Tags:
+ - day9
+ - day10
 ---
-
-
 ## Previously
 ![[LMoP 8#^Summary]]
 
@@ -99,7 +99,7 @@ Session length: 4.5 hours
 [[Richtor Helmsley III|Richtor]] is woken by [[Ruby Roo]] licking him awake.
 [[Eldina Tosscobble|Eldina]] fails to sleep properly — Exhaustion Level 1.
 
-# Day 10
+# Day 9
 [[Eldina Tosscobble|Eldina]] is pulled over by a mysterious halfling outside the **Old Dirty Dwarf**. News of her event with the mimic has spread and someone in the [[Thieves' Guild]] thinks she has what it takes to join. She's invited to visit the [[Thieves' Guild]] by following the marks through Scar Alley. She's also warned that flashing gold coin draws unwanted attention and to be wary of Spellscarred.
 
 The party visits the blacksmith. [[Richtor Helmsley III|Richtor]] and [[Eldina Tosscobble|Eldina]] trade some rarely-used weapons for silvered short swords. [[Eldina Tosscobble|Eldina]] also buys 20 bolts.
@@ -164,7 +164,7 @@ The rest of the party try searching for the pirate's treasure, but they don't fi
 
 The party decides to turn in and have a long #rest 
 
-# Day 11
+# Day 10
 [[Eldina Tosscobble|Eldina]] wakes up fully rested. The party starts making their way back to [[Helm's Hold]], looking for signs of buried treasure, but failing to see anything. At the gate, they're told they can turn their prisoner in to **Captain Dunfield**. He's located in the [[Dragon's Gauntlet]].
 
 They head there and turn him in. [[Grrurika]]'s rank and testimony are enough evidence of Rob's necromancy. They're rewarded 200gp and informed that Rob Rombie will see the gallows soon. Rob is taken to a cell.

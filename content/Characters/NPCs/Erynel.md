@@ -63,12 +63,12 @@ Background:
 >E — The Despondent
 
 - [ ] **bargaining** ^beggar
->A stranger story I could not muster
->Than finding kinship in former master.
+>A stranger tale I could not muster
+>Yet I find kinship in was once .
 >To have both lost our ones and only,
 >We'll find strength anew on the path holy
 >
->One shackle removed, one shackle remains.
+>One shackle removed; one shackle remains.
 >I walk forth to divinity regained.
 >The answers aren't found in this mortal shell.
 >Ascend, I must, betwixt heaven and hell.
@@ -94,8 +94,8 @@ Background:
 >Like the crickets, my love, sing sweet to me
 >Take me back to that time when we were free.
 >
->We will meet once more, of this I am sure.
->Oh, to see your smile walking through my door.
+>Of this, I am sure; we will meet once more.
+>I await your smile walking through my door.
 >But first, I must remove that wicked thorn,
 >And in His blood, our love can be reborn.
 >

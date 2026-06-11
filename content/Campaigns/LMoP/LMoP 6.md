@@ -1,13 +1,15 @@
 ---
 date: 2024-08-09
-Day: "4"
 Characters:
-  - Grrurika
-  - Richtor
-  - Thia
-  - Dorian G
-  - Eldina
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
 Session length: 4 hours
+Tags:
+ - day4
+ - day5
 ---
 
 ## Previously

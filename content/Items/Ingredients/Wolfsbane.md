@@ -1,0 +1,1 @@
+When used to coat a weapon, deals 1d12 poison damage to lycanthropes and reduces their damage by 1d4 for 1 minute.

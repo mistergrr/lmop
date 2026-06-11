@@ -1,12 +1,15 @@
 ---
 date: 2024-07-20
-Day: "3"
 Characters:
-  - Grrurika
-  - Richtor
-  - Thia
-  - Eldina
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+  - "[[Eldina Tosscobble]]"
 Session length: 4 hours
+Tags:
+ - day4
+ - dungeon
+ - level-up
 ---
 # Redbrand Hideout pt.ii
 ## Previously

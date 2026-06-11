@@ -1,13 +1,17 @@
 ---
 date: 2025-07-19
-Day: "19"
 Characters:
-  - Dorian G
-  - Eldina
-  - Grrurika
-  - Richtor
-  - Thia
-Session length: 6 Hours
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+Session length: 6 hours
+Tags:
+ - day19
+ - day20
+ - day21
+ - day22
 ---
 ## Previously
 ![[LMoP 15#^Summary]]

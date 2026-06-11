@@ -90,7 +90,7 @@ _Six rumours: two truths, two half-truths, two false_
 	- 300 year-old shield dwarf male. Terrible **cough**.
 	- **Descendant** of original settlers. **Traditional** dwarf values. Here to find vault.
 	- Pays for starmetal & dwarven magic items ([[Dragonguard, +1]]). **Crafts** common magic items, also certain rarer items — weapons and armour — if given money, time, and ample supply of starmetal.
-- **Vedana the Astrologer**
+- **Vedana the Astrolomer**
 	- 500 year old elf. 
 	- **Flamboyant** and out of place among dwarfs.
 	- Been here 80 years, **waiting** for Chosen One. Deeply **unhappy**.

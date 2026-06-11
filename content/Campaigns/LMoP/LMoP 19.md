@@ -1,12 +1,13 @@
 ---
 date: 2025-10-04
-Day: 26
 Characters:
-  - Barabbas
-  - Dorian G
-  - Grrurika
-  - Thia
+  - "[[Dorian of Galdor]]"
+  - "[[Grrurika]]"
+  - "[[Jargen “Barabbas” Crudd]]"
+  - "[[Thia Galanodel]]"
 Session length: 5 hours
+Tags:
+ - day26
 ---
 ## Previously
 ![[LMoP 18#^Summary]]

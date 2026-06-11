@@ -1,14 +1,16 @@
 ---
 date: 2025-05-31
-Day: 
 Characters:
-  - Dorian B
-  - Dorian G
-  - Eldina
-  - Grrurika
-  - Richtor
-  - Thia
+  - "[[Dorian Blackthorn]]"
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
 Session length: 4 hours
+Tags:
+ - day17
+ - day18
 ---
 ## Previously
 ![[LMoP 13#^Summary]]

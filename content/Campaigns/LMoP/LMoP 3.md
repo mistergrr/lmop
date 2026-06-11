@@ -1,12 +1,16 @@
 ---
 date: 2024-05-18
-Day: "2"
 Characters:
-  - Grrurika
-  - Richtor
-  - Thia
-  - Eldina
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
+  - "[[Eldina Tosscobble]]"
 Session length: 5 hours
+Tags:
+ - day2
+ - day3
+ - dungeon
+ - level-up
 ---
 # Cragmaw Cave pt.ii
 ## Previously

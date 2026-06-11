@@ -1,3 +1,11 @@
+---
+Category: NPC
+Race:
+Location:
+Tags:
+  - villain/minor
+  - hostile
+---
 **AC**: 
 **HP**: 
 

@@ -1,19 +1,18 @@
 ---
 date: 2025-08-01
-Day: "23"
 Characters:
-  - Dorian G
-  - Eldina
-  - Grrurika
-  - Richtor
-  - Thia
+  - "[[Dorian of Galdor]]"
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
+  - "[[Richtor Helmsley III]]"
+  - "[[Thia Galanodel]]"
 Session length: 5 hours
+Tags:
+ - day23
 ---
 ## Previously
 ![[LMoP 16#^Summary]]
-# Title
-## Notes 
--
+# Wyvern Tor
 ## Possible Scenes
 - [[Orc Trouble]]
 - [[Old Owl Trouble]]
@@ -22,22 +21,11 @@ Session length: 5 hours
 - [[The Black Spider]] has hired the orcs to find the Rockseekers and deliver their map.
 ## Locations
 [[Wyvern Tor]]
-## NPCs
-
 ## Relevant Monsters
 - Orcs
 - Ogre
 - Zombies
 - Evil mage
-## Rewards
--
-## Checklist
-- [x] Major combat encounter
-- [ ] Puzzle/mystery
-- [x] Roleplay opportunity
-- [x] A twist/complication
-- [x] A reward
-- [ ] A cliffhanger
 ## Starting Scene
 The party wakes up in the Torm's Temple and head back down to the dwarven outpost.
 # Day 23 | Wyvern Tor
