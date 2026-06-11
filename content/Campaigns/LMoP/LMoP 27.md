@@ -14,13 +14,14 @@ Tags:
 ![[LMoP 26#^Summary]]
 # Title
 # To Do
-- [ ] [[Library of Whispers]] puzzle
-- [ ] [[Erynel]] poem
+- [x] [[Library of Whispers]] puzzle
+- [ ] Wolfsbane effects
+- [x] [[Erynel]] poem
 - [ ] Printouts
-	- [ ] [[Shadow Codex]]
-	- [ ] [[In Search for the Devil's Tome]]
+	- [x] [[Shadow Codex]]
+	- [x] [[In Search for the Devil's Tome]]
 	- [ ] Drow lore
-- [ ] Quiz complete
+- [x] Quiz complete
 ## Notes 
 -
 ## Possible Scenes
@@ -44,14 +45,7 @@ Tags:
 ## Relevant Monsters
 - 
 ## Rewards
--
-## Checklist
-- [x] Major combat encounter
-- [x] Puzzle/mystery
-- [x] Roleplay opportunity
-- [ ] A twist/complication
-- [x] A reward
-- [x] A cliffhanger
+- 
 ## Starting Scene
 The party prepare to defend the town against the [[Uthgardt#Grey Wolf Tribe]]. They forage for [[Items/Ingredients/Wolfsbane|Wolfsbane]]. [[Iarno Albrek|Illusive Man]] [[Amulet of Focus]] collection & payment.
 > Day after Werewolf attack, receive quest for [[Quests#^clear-church]]. Glasstaff spotted in [[Longsaddle]].

@@ -45,4 +45,4 @@ Fox > Tortoise > Owl
 # Inside
 - 15ft statues of a fox, tortoise, owl, in order from front of hall to back.
 - The owl is not actually a statue, but the guardian, **Wan Shi Tong** — an all-knowing spirit being.
-- Accessing books requires membership. Standard membership — 50,000 gp. Fortunate timing: take an exam to win membership. (Premium membership also available with sufficient contribution)
+- Accessing books requires membership. Standard membership — 50,000 gp. Fortunate timing: someone defaulted their membership. Take an exam to win it. (Premium membership tier later available with sufficient contribution).
