@@ -2,8 +2,8 @@
 date: 2025-10-25
 Characters:
   - "[[Dorian of Galdor]]"
-  - "[[Eldina Tosscobble]]
-  - "[[Grrurika]]
+  - "[[Eldina Tosscobble]]"
+  - "[[Grrurika]]"
   - "[[Jargen “Barabbas” Crudd]]"
   - "[[Thia Galanodel]]"
 Session length: 6 hours
