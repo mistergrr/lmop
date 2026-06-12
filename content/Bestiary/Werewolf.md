@@ -1,5 +1,5 @@
 # Description
-Humanoids doomed to transform into animals and animal-humanoid hybrids under the light of the **full moon**. These shapechanging creatures are the result of an ancient primal **curse** that they can, in turn, **transmit** through their own bites.
+Humanoids doomed to transform into animals and animal-humanoid hybrids under the light of the **full moon**. Shape-changing creatures are result of an ancient, primal **curse** that they can **transmit** through their bites.
 # Lore
 A character knows the following information with a successful **Nature** check.
 - **DC 12**: Most hide with **solitary** lifestyles. Some retain pack mentality. A small group typically forms a **family-like** pack; new pack mates are **hand-chosen** and inculcated into the family as its influence grows.

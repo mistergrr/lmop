@@ -16,6 +16,7 @@ Dwarves want **protection** for travellers. [[Varka Fenrikson]] is too **strong*
 
 # Town Defence
 Waves of [[Werewolf]] and wolves. Protect citizens.
+> Flee when bloodied.
 ### Hard
 - **Wave 1**: 2 Winter Wolf + 4 Dire Wolves (CR 10)
 - **Wave 2**: 3 [[Werewolf]] + 2 Dire Wolves (CR 11)
