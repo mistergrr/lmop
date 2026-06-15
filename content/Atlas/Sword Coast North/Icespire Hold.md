@@ -1,0 +1,5 @@
+Icespire Hold is a stone fortress perched on the icy northeast spur of Icespire Peak. A warlord named Delsendra Amzarr built the stronghold, and dwelled there for many years while she and her soldiers kept the orcs of the Sword Mountains in check. When supply lines were cut off by heavy snow and blizzards during a brutal winter, Delsendra and her followers starved to death. Orcs later took over the fortress, which was damaged by an earthquake ten years ago and never repaired.
+
+When [[Cryovain]] decided to make Icespire Hold its lair, it stormed the fortress through the crumbled southwest section and ate several orcs before settling on the roof. With a terrible roar, the gorged dragon drove the remaining orcs out of Icespire Hold.
+
+Recently, evil mercenaries calling themselves the Stone-Cold Reavers infiltrated the gatehouse and escaped Cryovain's notice. They assume (incorrectly) that the dragon has amassed a hoard and hidden it in the fortress. The next time the dragon flies off, they plan to steal it. They treat adventurers as they would any other competitors—either trying to scare them off or killing them.

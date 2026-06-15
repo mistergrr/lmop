@@ -1,0 +1,1 @@
+A silvered weapon converts mundane physical damage into force damage, getting around any resistances/immunities of creatures such as lycanthropes and vampires. It also suppresses health regeneration until the start of the wielder's next turn.

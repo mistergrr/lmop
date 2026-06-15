@@ -1,0 +1,1 @@
+Spell is cast when the vase breaks. (Can be accidental)
