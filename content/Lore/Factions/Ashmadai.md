@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 Devil worshipers sworn to [[Asmodeus]]. Led by [[Mordai Veil]]
 
 # Goals

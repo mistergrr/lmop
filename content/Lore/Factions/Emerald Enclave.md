@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 Scattered throughout the wilderness of Faerûn, the Emerald Enclave opposes threats to the natural world and helps others survive in treacherous wilds. Members know how to survive and are willing to guide others through dangerous environments or protect settlements from threats. They aim to preserve the balance found in nature but are not directly opposed to civilisation or progress. The Emerald Enclave keeps the elemental forces of the world in check, preventing civilisation and the wilderness from destroying one another.
 
 Members are given title, Springwarden #emerald-enclave/title 

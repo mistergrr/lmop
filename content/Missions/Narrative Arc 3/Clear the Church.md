@@ -5,6 +5,8 @@ Temple of [[Bahamut]] currently taken over but [[Ashmadai]] cultists, who are us
 Cultists conduct rituals to **summon** fiends. Involves extensive bloodletting. Every time the [[Ashmadai]] summons a devil, it must also bind a mortal creature to the essence of a devil. [[Ashmadai]] thugs regularly kidnap people in order to make them vessels.
 
 Clear them out so that the place may be reconsecrated. Players don't need to reconsecrate — only clear.
+
+**Bonus**: Find and return [[Black Obsidian Mirror]] — Acts as crystal ball that can scry other planes.
 # Location
 - Location: [[Temple of Bahamut]] in [[Longsaddle]]
 
@@ -85,7 +87,7 @@ _This central hub leads to **3 kitchen**, **4 pantry**, **6 head priest's office
 ### 11. Robing Room
 _Airlock between graveyard and temple._
 **Location**: Ceremonial outfits, censers.
-**Conflict**: Outer door guarded by 2 [spined devils] and 2 Fanatics.
+**Conflict**: Outer door guarded by 2 [[spined devils]] and 2 Fanatics.
 **Reward**: Silver censer (200 sp), 3x silver chalice (30 sp), bells, candles.
 ### 12. Graveyard
 

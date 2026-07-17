@@ -6,7 +6,7 @@ Player: Sarah Grr
 Tags:
   - Keeper
 ---
-**Species**: [[Dwarf]]
+**Species**: [[Dwarf Race]]
 **Age**: 50 years old.
 **Lifespan**: 350 years
 # Background

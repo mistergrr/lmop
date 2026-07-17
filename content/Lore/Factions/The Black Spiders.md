@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 # Theme
 
 # Defining Features

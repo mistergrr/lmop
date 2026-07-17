@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 The gang’s name came from their calling card: a bloodstained fist with a middle finger up, left imprinted on their victims—sometimes branded into their targets and sometimes painted on them in red ink or blood. It was a symbol of dominance, a reminder that those who crossed them would be left beaten and bloodied. Jargen pioneered his crew with his adopted brother, Malrik Bartun, who gave him the codename “Chalkline”, as Jargen would often be the reason his targets would be left outlined on a street corner. Jargen formed the Crimson Hands with the following members:
 
 - [[Jargen “Barabbas” Crudd]]

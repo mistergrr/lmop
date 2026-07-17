@@ -1,3 +1,1 @@
-``` statblock
-creature: Shadow
-```
+**Note**: Raise CR

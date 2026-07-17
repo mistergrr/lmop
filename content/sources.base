@@ -55,3 +55,12 @@ views:
     columnSize:
       file.name: 497
       note.tags: 648
+  - type: table
+    name: Factions
+    filters:
+      or:
+        - Category == "Faction"
+        - Category == "Deity"
+    order:
+      - file.name
+      - Category

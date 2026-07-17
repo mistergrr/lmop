@@ -17,8 +17,12 @@ A frontier town with a growing mining industry due to numerous mines in the near
 ![[Phandalin History]]
 
 ![[Phandalin-map.webp]]
+# Developments
+- [[The Lord's Alliance]] investment, mainly from [[Neverwinter]]
+- Guards sent from [[Neverwinter]]
+- [[Richtor Helmsley III]] candidate for local lord. (Let party vote?)
 # Residents
-200–400 residents. About 50 buildings. It's more of a large village.
+200–400 residents. About 50 buildings. Large village.
 ## Major
 - [[Sildar Hallwinter]]
 - [[Harbin Wester]]
@@ -51,10 +55,6 @@ Owned by the Lionshields, a merchant company based in the city of Yartar over a 
 	- Human woman, 35 years. Sharp tongued.
 	- Won't sell weapons to anyone she thinks might be a threat to the town.
 
-### Miner's Exchange
-Miners have their finds weighed, measured, and paid out. Also serves as an unofficial records office, registering claims to streams and excavations around the area. Enough wealth is hidden in the nearby streams and valleys to support a good number of independent prospectors.
-
-The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin. The guildmaster is a calculating human woman named [[Halia Thornton]].
 ### Healing — Shrine of Luck
 Made of stones from nearby **ruins**. Dedicated to [[Tymora]] (goddess of luck and good fortune). Normally in the care of [[Sister Garaele]].
 - **Sister Garaele**
@@ -84,11 +84,13 @@ Milly Milner, an apothecary, and her husband, Tim the Miller, reside here.
 # Town Factions
 ## Town Authorities
 Run by [[Sildar Hallwinter]] and [[Richtor Helmsley III]], with townmaster [[Harbin Wester]]. Source of jobs and quests.
-## The Shadow — Zhentarim
+## The Shadow — Zhentarim/Eldina
 [[Halia Thornton]], the Miner's Exchange guild master, is also an agent of the Zhentarim, a shadowy organization that seeks to exert secret control over the North through wealth and influence. Halia is working slowly to bring Phandalin under her control, and she can become a valuable patron to adventurers who don't cross her. [[Eldina Tosscobble]] gets missions and information through her.
-## The Money — Rockseeker Bros.
+## The Money — Miner's Exchange
+Miners have their finds weighed, measured, and paid out. Also serves as an unofficial records office, registering claims to streams and excavations around the area. Enough wealth is hidden in the nearby streams and valleys to support a good number of independent prospectors.
+
+The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin. The guildmaster is a calculating human woman named [[Halia Thornton]].
 
 # Quests
 - **Dwarven Excavation Quest**. "Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp."
-- **Gnomengarde Quest**. "A clan of reclusive rock gnomes resides in a small network of caves in the mountains to the southeast. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50 gp for it."
 - **Umbrage Hill Quest**. "The local midwife—an acolyte of Chauntea named Adabra Gwynn—lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it's not safe for her to be alone. Urge Adabra to return to Phandalin. Once she's safe, visit Townmaster Harbin Wester to claim a reward of 25 gp."

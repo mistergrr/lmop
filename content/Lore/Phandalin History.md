@@ -1,7 +1,7 @@
 ---
 Category: Lore
 ---
-This village is located northeast of Leilon, where the road that runs from the High Road to Triboar fades away into a mere trail. The road was largely abandoned long ago after orc attacks from the mountains east of Leilon. The orcs even paid human mages to work magic powerful enough to bury the road in some places and hurl down small keeps in others.
+Village northeast of Leilon, where the road that runs from the High Road to Triboar fades into a mere trail. The road was largely abandoned long ago after orc attacks from the mountains east of Leilon. The orcs even paid human mages to work magic powerful enough to bury the road in some places and hurl down small keeps in others.
 
 Under the leadership of a chieftain called Uruth, the orcs expanded their holdings steadily, building a realm they called Uruth Ukrypt (roughly, Home of Uruth). Its name is echoed today in the Kryptgarden Forest.
 

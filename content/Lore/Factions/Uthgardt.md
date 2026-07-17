@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 The Uthgardt are a black-haired and blue-eyed people—large, hale, territorial folk who don't trust outsiders. Few Uthgardt are willing to trade with non-Uthgardt settlements. Many are raiders who pillage and destroy any caravan or homestead they come across.
 
 Uthgardt barbarians take their name from Uthgar Gardolfsson, a great hero-chief who battled giants and conquered much of the North before ascending to godhood. In addition to revering Uthgar, each tribe venerates a totem animal spirit after which the tribe is named.

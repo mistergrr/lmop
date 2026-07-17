@@ -6,6 +6,7 @@
 - Thieves guild  
 - Pick pocket during combat. Key to unlock restrained ally?
 - Give her daggers to promote melee
+- Shadows are nuclear shadows. Flash vaporised, Reanimate.
 - Shadows move to her each round, forcing a move.
 
 [[Jargen “Barabbas” Crudd|Barabbas]]
@@ -22,14 +23,17 @@
 # Main Arcs
 - [[Iarno Albrek]] and [[Erynel]]
 - [[Omphalos]]
+# Adventures
+- Cycad Gully
+- Wight has been turning villagers into an undead army. 
+- Grimm tales.
+- Nigerian prince.
+- Church of Cetacean.
+- [[Richtor Helmsley III|Richtor]] hires the party to evict This One.
 # General
-Quiz night at the tav. [[Richtor Helmsley III|Richtor]] hires the party to evict This One.
+Quiz night at the tav. 
 
-Grimm tales. Nigerian prince.
-  
-Church of Cetacean. Freaky Friday situation. Someone gets a secret admirer. Kiki's delivery service.
-
-Wight has been turning villagers into an undead army. Raccoon city: kingdom besieged by undead. Magic healing outlawed as necromancy. Why are the dead drawn here?
+Freaky Friday situation. Someone gets a secret admirer. Kiki's delivery service.
 
 Character stubby holders - Kmart $15  
   
@@ -39,7 +43,11 @@ Fairy cages for boons. eg. god of the smell of strawberries; a harvest god who p
 
 vending/gacha machine in dungeon. The licc puzzle.
 
-[[The Black Spider]] trial: what's the charge?
+**[[The Black Spider]] trial: what's the charge?**
+# Locations
+- [[Baldur's Gate]] = Night City. Death to corpos, choom. Also, Florence.
+- [[Longsaddle]] has Twin Peaks vibes.
+- Raccoon City: kingdom besieged by undead. Magic healing outlawed as necromancy. Why are the dead drawn here?
 # NPCs
 - Rob Boss, the painter whose landscapes contain travellers.
 - Barbas the dog.
@@ -56,12 +64,16 @@ vending/gacha machine in dungeon. The licc puzzle.
 - Endermen. Zombie pigmen + nether portal.
 - Big Daddy (Shield Guardian) and Little Sister.
 - Vietcong style enemies.
+# Christmas
+- Gnome Alone — check in on child left behind, house is trapped.
 # brad's christmas one shot
 - Aldith Tresendar (grr)
 - Pippa Copperwink (stasia)
 - Brunda Hearthfist (sarah)
 - Eryndor the Charismatic Enigma (jordan)
 - Thariel Windscript (gael)
+
+- No towns people died. Ruins not built on graves.
 # Magic Items 
 - Magic items that multiple classes will want to fight each other for.
 - The Hope diamond (cursed with bad luck). 

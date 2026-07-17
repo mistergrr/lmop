@@ -9,7 +9,7 @@ Tags:
 ---
 # Theme:
 # Distinguishing Trait
-- **Species**: [[Dwarf]]
+- **Species**: [[Dwarf Race]]
 - **Age**: 100 years old
 - **Voice**: 
 - **Description**: 

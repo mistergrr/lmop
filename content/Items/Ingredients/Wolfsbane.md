@@ -2,6 +2,8 @@ AKA *monk's hood* or *aconite*. Deadly plant found in **cool, mountainous terrai
 
 On touch, DC 8 CON save or take 7 (2d6) poison damage. Auto-success if proficient with poisoner's kit or wearing gloves.
 
+> Can cure the lycanthropy curse. Effective only if consumed before first transformation. On surviving the poison without magic aid, can attempt a new save against curse.
+
 Craft wolfsbane poison from raw wolfsbane using **poisoner's kit**. 
 - **Not proficient**: 1d4 doses per plant.
 - **Proficient**: 2d4 doses. 

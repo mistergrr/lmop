@@ -10,6 +10,7 @@ Background:
 - **Age**: 
 - **Voice**: 
 - **Description**: 
+
 ## Backstory:
 
 # Attitude

@@ -1,7 +1,11 @@
-For much of the North's history, orcs feared the "haunted woods" of [[Neverwinter]]. Centuries of failed raids into the forest had stirred cultural legends among the barbaric people, and they had 
-long given the woods a wide berth. [[The Cataclysm]] in [[Neverwinter]] ruptured these myths, though. And in the past twenty­ plus years, orcs have returned to plague the area.
-Recently, King Obould XVII of the Kingdom of Many-Arrows sent a vanguard to explore options in 
-[[Neverwinter]]. However. the commander he entrusted with the assignment—the power-hungry Vansi—far exceeded her orders. Rather than report back about the city's state, she pressed through its walls and established a base in the old [[Cloak Tower]], claiming territory in Neverwinter's ruined northern half.
+---
+Category: Faction
+---
+The greatest orc realm in Faerûn's recent history was established in 1371 DR by King Obould Many-Arrows, a Chosen servitor of Gruumsh. The Kingdom of Many-Arrows held the Spine of the World mountains, and Obould encouraged trade and diplomacy with his neighbors in the North.
+
+A generation ago, a tyrant named Hartusk took control of Many-Arrows and invaded several neighboring realms. Hartusk was deposed, but despite the return of Obould's legitimate heir and a desire for peace among the orcs, vengeful dwarves from the strongholds Hartusk besieged leveled Dark Arrow Keep, the realm's capital.
+
+But orcs are nothing if not resilient. A new King of Many-Arrows has arisen, unrelated to Obould's line. Orrusk Homebringer is calling orcs from the Spine of the World back to rebuild Dark Arrow Keep and restore the realm, making it greater than it was before.
 # Theme
 
 # Defining Features

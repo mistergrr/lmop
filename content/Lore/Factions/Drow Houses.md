@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 # Great Houses
 ## House Baenre (First House)
 **Ruler:** Matron Mother Quenthel Baenre  

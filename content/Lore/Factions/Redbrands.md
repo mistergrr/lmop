@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 # Theme
 Lawful Evil, corruption, abuse of power
 # Defining Features

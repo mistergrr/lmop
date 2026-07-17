@@ -1,3 +1,6 @@
+---
+Category: Faction
+---
 # Theme
 Chaotic Evil, anarchy, malice, power-hungry
 # Defining Features
