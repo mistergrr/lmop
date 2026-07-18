@@ -175,6 +175,12 @@
       "commit": "dad0a4c0abdc8b3c2786277a2cbd67dc039c754c",
       "installedAt": "2026-06-15T20:30:20.960Z"
     },
+    "obsidian-flavored-markdown": {
+      "source": "github:mistergrr/obsidian-flavored-markdown",
+      "resolved": "https://github.com/mistergrr/obsidian-flavored-markdown.git",
+      "commit": "788c77cbf74bf738bca6c3e6974eac657491f714",
+      "installedAt": "2026-07-19T00:00:00.000Z"
+    },
     "og-image": {
       "source": "github:quartz-community/og-image",
       "resolved": "https://github.com/quartz-community/og-image.git",
