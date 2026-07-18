@@ -6,6 +6,9 @@ A character knows the following information with a successful **Nature** check.
 - **DC 15**: [[Silvered Weapon|Silvered weapons]] turn physical damage into **force** and hinders **regeneration**.
 - **DC 18**: Wolfsbane: poisonous plant that can cure lycanthropy. Only effective if consumed **before** first transformation. If creature survives wolfsbane without aid of magic, they can **reattempt** one failed saving throw against the curse.
 - **DC 20**: 
+# Defining Traits & Skills
+- **Regeneration**: Suppressed by silver/radiant.
+- **Inflict Bleeding**:
 # Tactics
 A lone werewolf tries to **isolate** and pick off victims one at a time. When bloodied, it usually **flees** to regenerate. In the wild, werewolves tend to hunt in packs. Werewolf packs often include true wolves among their ranks.
 # Encounter Groups

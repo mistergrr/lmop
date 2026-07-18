@@ -169,6 +169,7 @@
 ## Eldon's Penance
 Eldon must perform an ancient ritual to bind their soul to the shadows once more, restoring their lost ability.
 - [ ] Find the [[Shadow Codex]] ^eldon-find
+- [ ] [[Ritual of the Angels]]
 ![[Shadow Codex#The Ritual]]
 ![[Shadow Codex#Reward]]
 ## Grrurika's Penance
@@ -190,18 +191,17 @@ Eldon must perform an ancient ritual to bind their soul to the shadows once more
 	- [[Thunderclap]] gains +1
 ## Thia's Penance
 [[Who Wants to be a Wizardaire]]
-- [ ] Find location of the [[Library of Whispers]]
+- [x] Find location of the [[Library of Whispers]]
 	- [x] Area location (Where the rivers touch the stars)
 	- [x] Mural clue
 	- [x] Map piece 
-- [ ] Solve the riddle to enter
+- [x] Solve the riddle to enter
 	- [x] Receive riddle
-- [ ] Pass the trial.
-- [ ] Gain library membership.
+- [x] Pass the trial.
+- [x] Gain library membership.
 - **Rewards**:
-	- Curse removed
-	- **The Gift of Memory**: Permanent increase to Intelligence score and can help others recall lost memories.
-	- **Divine Clarity**: Recall information with perfect clarity — akin to "Divination," but in recalling the past.
+	- **Library Membership**: Tome to fix bane:*Where's My Scryglass?: A Guide to Remembering Things for Scholars Who Read A Lot*".
+	- **Well Learned**: Permanent +1 increase to Intelligence; Gain proficiency in Arcana and History. If already have proficiency, gain expertise.
 	- [[In Search for the Devil's Tome]]
 
 # Narrative Arc A2 | The Illusive Patron
@@ -272,10 +272,10 @@ The party heads back to the [[church]] to stop [[Iarno Albrek|Glasstaff]] and re
 	- One manticore fires _magic missile_ spikes. The other two have scorpion tails.
 	- **Reward** 3 health potions
 ## Twilight Tor Protection
-- [ ] Protect the area from [[Uthgardt#Gray Wolf Tribe|Grey Wolf]] barbarians during the full moon. [[Full Moon, Yo!]]
+- [x] Protect the area from [[Uthgardt#Gray Wolf Tribe|Grey Wolf]] barbarians during the full moon. [[Full Moon, Yo!]]
 	- **Location**: [[Twilight Tor]]
 	- **Quest giver**: Helga Løderr
-	- **Reward**: Location of [[Library of Whispers]], [[White Seance Ring]]
+	- **Reward**: Location of [[Library of Whispers]]
 ## Hag's Bargain
 The hag will help get [[Erynel]] in exchange for something.
 - [ ] Make the deal

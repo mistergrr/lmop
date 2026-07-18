@@ -19,9 +19,8 @@ Tags:
 - [[Thariel]] encounter
 - [[Spectator]] encounter
 - [[The Black Spider|Nezznar]] offers to help take [[Omphalos]] if they don't arrest him.
-
 ## Locations
-- [[Wave Echo Cave]]
+- [[Claiming Wave Echo Cave]]
 ## NPCs
 [[Thariel]]
 ## Relevant Monsters

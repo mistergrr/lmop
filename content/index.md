@@ -7,6 +7,8 @@ title: LMOP Online
 
 [[Quests]]
 
+[[House Rules & World Truths]]
+
 [[Ideas]]
 
 [[Main Villains]]

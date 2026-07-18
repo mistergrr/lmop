@@ -17,10 +17,6 @@ A frontier town with a growing mining industry due to numerous mines in the near
 ![[Phandalin History]]
 
 ![[Phandalin-map.webp]]
-# Developments
-- [[The Lord's Alliance]] investment, mainly from [[Neverwinter]]
-- Guards sent from [[Neverwinter]]
-- [[Richtor Helmsley III]] candidate for local lord. (Let party vote?)
 # Residents
 200–400 residents. About 50 buildings. Large village.
 ## Major
@@ -91,6 +87,12 @@ Miners have their finds weighed, measured, and paid out. Also serves as an unoff
 
 The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin. The guildmaster is a calculating human woman named [[Halia Thornton]].
 
-# Quests
+# Quests & Developments
 - **Dwarven Excavation Quest**. "Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp."
 - **Umbrage Hill Quest**. "The local midwife—an acolyte of Chauntea named Adabra Gwynn—lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it's not safe for her to be alone. Urge Adabra to return to Phandalin. Once she's safe, visit Townmaster Harbin Wester to claim a reward of 25 gp."
+- [[The Lord's Alliance]] want a lord in Phandalin — elected or installed. Party vote. ([[Richtor Helmsley III]]?)
+- Guards need training
+- Mithral was mined in [[Wave Echo Cave]]
+- Help establish mining trade routes
+- [ ] [[Logger's Camp]]
+- [[Cragmaw Cave]]

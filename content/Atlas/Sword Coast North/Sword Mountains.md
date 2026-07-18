@@ -1,15 +1,4 @@
-# Metal Production
-## Ores
-- Iron is common.
-- Copper is uncommon.
-- Tin is rare.
-
-## Refining
-- Forests for charcoal.
-- Fast flowing river for power.
-
-# Sword Mountain Mines and Phandalin
-- Ore mined in the [[Sword Mountains]].
+- Ore mined in the Sword Mountains.
 - Timber harvested from Neverwinter Wood [[Cragmaw Cave]].
 - Charcoal made in woodland kilns near the logging camps (to avoid transporting bulky logs).
 - Charcoal hauled by wagon to a smelter at the mountain's edge.

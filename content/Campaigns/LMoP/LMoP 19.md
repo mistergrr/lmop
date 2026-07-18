@@ -18,7 +18,7 @@ Tags:
 - What are [[Grrurika]]'s plans after [[Wave Echo Cave]]?
 
 ## Locations
-- [[Wave Echo Cave]]
+- [[Claiming Wave Echo Cave]]
 
 ## NPCs
 - [[Gundren Rockseeker|Gundren]]

@@ -22,6 +22,7 @@ Tags:
 - [[Vhaeraun]] info
 ## Possible Scenes
 - [[Eldina Tosscobble|Eldina]] [[Random Drinks]]
+- [[Claiming Wave Echo Cave]]
 
 ## Secrets and Clues
 - [[The Black Spider]] also wants to liberate [[Omphalos]]
