@@ -2,6 +2,10 @@
 
 // put your custom CSS here!
 
+:root {
+  --background-primary: var(--light);
+  --background-secondary: var(--lightgray);
+}
 .text-highlight {
     background-color: #e4f2ed !important;
 }
@@ -25,4 +29,7 @@ blockquote {
     margin: 1rem 0;
     padding-left: 1rem;
     transition: border-color .2s;
+}
+.center {
+    background-color: #faf8f8 !important;
 }
