@@ -7,9 +7,9 @@ Characters:
   - "[[Richtor Helmsley III]]"
   - "[[Thia Galanodel]]"
 Session length: 3 hours
-Tags:
- - day5
- - day6
+Day:
+ - 5
+ - 6
 ---
 
 

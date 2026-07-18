@@ -8,11 +8,12 @@ Characters:
   - "[[Richtor Helmsley III]]"
   - "[[Thia Galanodel]]"
 Session length: 5 hours
+Day:
+  - 13
+  - 14
+  - 15
+  - 16
 Tags:
-  - day13
-  - day14
-  - day15
-  - day16
   - hexcrawl
 ---
 ## Previously

@@ -8,8 +8,7 @@ Characters:
   - "[[Thia Galanodel]]"
   - "[[Eldina Tosscobble]]"
 Session length: 3.5 hours
-Tags:
- - day4
+Day: 4
 ---
 # Redbrand Hideout pt.i
 

@@ -7,8 +7,7 @@ Characters:
   - "[[Jargen “Barabbas” Crudd]]"
   - "[[Thia Galanodel]]"
 Session length:
-Tags:
-  - day64
+Day: 64
 ---
 ## Previously
 ![[LMoP 26#^Summary]]
@@ -54,6 +53,7 @@ The party prepare to defend the town against the [[Uthgardt#Grey Wolf Tribe]]. T
 # Day 64 | Twilight Tor Defence
 
 # Summary
+The party defend [[Twilight Tor]] from a [[Werewolf]] attack. [[Thia Galanodel|Thia]] passes [[Who Wants to be a Wizardaire]] to fix her bane at the [[Library of Whispers]]
 ^summary
 # Kills
 ^kills

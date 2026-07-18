@@ -7,8 +7,7 @@ Characters:
   - "[[Richtor Helmsley III]]"
   - "[[Thia Galanodel]]"
 Session length: 5 hours
-Tags:
- - day23
+Day: 23
 ---
 ## Previously
 ![[LMoP 16#^Summary]]

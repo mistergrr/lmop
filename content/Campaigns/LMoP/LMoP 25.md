@@ -7,8 +7,7 @@ Characters:
   - "[[Jargen “Barabbas” Crudd]]"
   - "[[Thia Galanodel]]"
 Session length: 4 Hours
-Tags:
- - day62
+Day: 62
 ---
 ## Previously
 ![[LMoP 24#^Summary]]

@@ -7,8 +7,8 @@ Characters:
   - "[[Jargen “Barabbas” Crudd]]"
   - "[[Thia Galanodel]]"
 Session length: 4 Hours
+Day: 62
 Tags:
-  - day62
   - dungeon
   - settlement/village
   - hexcrawl

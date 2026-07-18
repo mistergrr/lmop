@@ -6,8 +6,8 @@ Characters:
   - "[[Thia Galanodel]]"
   - "[[Eldina Tosscobble]]"
 Session length: 4 hours
+Day: 4
 Tags:
- - day4
  - dungeon
  - level-up
 ---

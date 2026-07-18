@@ -8,8 +8,8 @@ Characters:
   - "[[Thia Galanodel]]"
   - "[[Eldina Tosscobble]]"
 Session length: 4 hours
+Day: 2
 Tags:
- - day2
  - dungeon
 ---
 # Cragmaw Cave pt.i

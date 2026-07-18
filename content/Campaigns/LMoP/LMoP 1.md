@@ -7,8 +7,7 @@ Characters:
   - "[[Thia Galanodel]]"
   - "[[Eldina Tosscobble]]"
 Session length: 4 hours
-Tags:
- - day1
+Day: 1
 ---
 # Goblin Ambush
 ## Day 1

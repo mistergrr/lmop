@@ -8,8 +8,8 @@ Characters:
   - "[[Richtor Helmsley III]]"
   - "[[Thia Galanodel]]"
 Session length: 6.5 hours
+Day: 10
 Tags:
- - day10
  - level-up
 ---
 ## Previously

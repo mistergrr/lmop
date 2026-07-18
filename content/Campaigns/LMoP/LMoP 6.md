@@ -7,9 +7,9 @@ Characters:
   - "[[Dorian of Galdor]]"
   - "[[Eldina Tosscobble]]"
 Session length: 4 hours
-Tags:
- - day4
- - day5
+Day:
+ - 4
+ - 5
 ---
 
 ## Previously
