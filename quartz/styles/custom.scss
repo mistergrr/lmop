@@ -3,6 +3,11 @@
 // put your custom CSS here!
 
 :root {
-    --headerFont: "Uncial Antiqua", cursive;
     --text-highlight-bg: var(--textHighlight);
+}
+h1 {
+    font-family: "Uncial Antiqua", cursive !important;
+}
+body {
+    font-family: "Cardo", serif !important;
 }
