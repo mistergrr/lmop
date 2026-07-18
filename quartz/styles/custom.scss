@@ -5,17 +5,16 @@
 .text-highlight {
     background-color: #e4f2ed !important;
 }
-
 a.internal {
     background-color: #e4f2ed !important;
 }
-
-h1, h2 {
+h1, h1 *, h2, h2 *,
+a h1, a h1 *, a h2, a h2 * {
     font-family: "Uncial Antiqua", system-ui !important;
 }
 html, body {
     font-family: "Vollkorn", serif !important;
 }
-link {
+a:link, a:visited {
     color: #179299 !important
 }
