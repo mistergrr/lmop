@@ -18,5 +18,11 @@ html, body {
     font-family: "Vollkorn", serif !important;
 }
 a:link, a:visited {
-    color: #179299 !important
+    color: darkslategrey !important
+}
+blockquote {
+    border-left: 3px solid darkslategrey;
+    margin: 1rem 0;
+    padding-left: 1rem;
+    transition: border-color .2s;
 }
