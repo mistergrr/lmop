@@ -2,9 +2,17 @@
 
 // put your custom CSS here!
 
-:root {
-    --text-highlight-bg: var(--textHighlight);
+.text-highlight {
+    background-color: #F0E6D4 !important;
 }
+
+a.internal {
+    background-color: #F0E6D4 !important;
+}
+
 h1, h2 {
     font-family: "Uncial Antiqua", system-ui !important;
+}
+body {
+    font-family: "Vollkorn", serif !important;
 }
