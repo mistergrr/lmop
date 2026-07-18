@@ -3,16 +3,19 @@
 // put your custom CSS here!
 
 .text-highlight {
-    background-color: #F0E6D4 !important;
+    background-color: #e4f2ed !important;
 }
 
 a.internal {
-    background-color: #F0E6D4 !important;
+    background-color: #e4f2ed !important;
 }
 
 h1, h2 {
     font-family: "Uncial Antiqua", system-ui !important;
 }
-body {
+html, body {
     font-family: "Vollkorn", serif !important;
+}
+link {
+    color: #179299 !important
 }
