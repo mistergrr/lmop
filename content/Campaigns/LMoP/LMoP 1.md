@@ -25,8 +25,9 @@ Shopkeeper [[Elmar Barthen]] encourages them to find out what happened to [[Gund
 
 The party completes a long #rest at the [[Stonehill Inn]] for the night.
 
-# Summary
-Party survived goblin ambush. Delivered wagon to [[Elmar Barthen|Barthen]]. Did not investigate [[Gundren Rockseeker|Gundren]] and [[Sildar Hallwinter|Sildar]]'s fates. Rested at [[Stonehill Inn]] ^summary
+# Synopsis
+Party survived goblin ambush. Delivered wagon to [[Elmar Barthen|Barthen]]. Did not investigate [[Gundren Rockseeker|Gundren]] and [[Sildar Hallwinter|Sildar]]'s fates. Rested at [[Stonehill Inn]]
+^summary
 # Kills
 [[Korah]]: 2 Goblins
 [[Richtor Helmsley III|Richtor]]: 1 Goblin

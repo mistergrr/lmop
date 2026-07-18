@@ -42,7 +42,8 @@ A flood of water washes the entire party out of the cave.
 **Short rest** 
 
 # Summary
-[[Aric Moonshadow|Aric]] joins party. Party return to ambush site and defeat new squad of goblins. Executed Toe Jam. Ended outside [[Cragmaw Cave]]^summary
+[[Aric Moonshadow|Aric]] joins party. Party return to ambush site and defeat new squad of goblins. Executed Toe Jam. Ended outside [[Cragmaw Cave]]
+^summary
 
 # Kills
 [[Korah]]: 1 Goblin
