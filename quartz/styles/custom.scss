@@ -5,8 +5,8 @@
 :root {
     --text-highlight-bg: var(--textHighlight);
 }
-h1 {
-    font-family: "Uncial Antiqua", cursive !important;
+h1, h2 {
+    font-family: "Uncial Antiqua", system-ui !important;
 }
 body {
     font-family: "Cardo", serif !important;
