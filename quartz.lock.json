@@ -172,7 +172,7 @@
     "obsidian-flavored-markdown": {
       "source": "github:mistergrr/obsidian-flavored-markdown",
       "resolved": "https://github.com/mistergrr/obsidian-flavored-markdown.git",
-      "commit": "07eaca7b31a537c7c4a0fd2848b1f00014c940af",
+      "commit": "0ae8d51531001e4d5ec52c06235234e0c3d52f57",
       "installedAt": "2026-07-18T18:27:16.828Z"
     },
     "obsidian-plugin-excalidraw": {
