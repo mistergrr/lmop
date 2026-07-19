@@ -183,7 +183,7 @@ export function renderTranscludes(
       let blockRef = el.properties.dataBlock as string | undefined
       if (blockRef?.startsWith("#^")) {
         // block transclude
-        blockRef = blockRef.slice("#^".length)
+        blockRef = blockRef.slice("#^".length).toLowerCase()
         let blockNode = page.blocks?.[blockRef]
         if (blockNode) {
           if (blockNode.tagName === "li") {
