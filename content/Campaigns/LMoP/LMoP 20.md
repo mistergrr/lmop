@@ -10,7 +10,7 @@ Session length: 6 hours
 Day: 26
 ---
 ## Previously
-![[LMoP 19#^Summary]]
+![[LMoP 19#^summary]]
 # Wave Echo Cave pt. ii
 ## Notes 
 - [[Phandalin|Phandalin]] is a wild west town.

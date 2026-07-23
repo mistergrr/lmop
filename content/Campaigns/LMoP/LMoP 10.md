@@ -13,7 +13,7 @@ Tags:
  - level-up
 ---
 ## Previously
-![[LMoP 9#^Summary]]
+![[LMoP 9#^summary]]
 # Title
 ## Players 
 - Help [[Dorian of Galdor]] with level up to 3. 

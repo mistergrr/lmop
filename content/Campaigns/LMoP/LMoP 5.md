@@ -13,7 +13,7 @@ Tags:
 ---
 # Redbrand Hideout pt.ii
 ## Previously
-![[LMoP 4#^Summary]]
+![[LMoP 4#^summary]]
 ## Day 4
 Party starts by going to the wizard's workshop. [[Iarno Albrek]]'s rat familiar warns him and he flees through his secret door.
 

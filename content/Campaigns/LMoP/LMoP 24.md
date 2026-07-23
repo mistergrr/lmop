@@ -10,7 +10,7 @@ Session length: 5 hours
 Day: 61
 ---
 ## Previously
-![[LMoP 23#^Summary]]
+![[LMoP 23#^summary]]
 # An Illusive Patron
 ## Notes 
 - Safety tools.

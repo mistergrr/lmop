@@ -5,7 +5,7 @@ Characters:
 Session length:
 ---
 ## Previously
-![[Session #^Summary]]
+![[Session #^summary]]
 # Title
 ## Notes 
 -

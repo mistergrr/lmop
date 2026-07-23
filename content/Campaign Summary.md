@@ -51,6 +51,6 @@
 ## [[LMoP 25]]: Goblin Gully
 ![[LMoP 25#^summary]]
 ## [[LMoP 26]]: Twilight Tor
-![[LMoP 26#^Summary]]
+![[LMoP 26#^summary]]
 ## [[LMoP 27]]: 
-![[LMoP 27#Summary]]
+![[LMoP 27#^summary]]

@@ -14,7 +14,7 @@ Tags:
 ---
 # Cragmaw Cave pt.i
 ## Previously
-![[LMoP 1#^Summary]]
+![[LMoP 1#^summary]]
 ## Day 2
 
 Party wakes up in [[Stonehill Inn]] and meet [[Aric Moonshadow]] downstairs. He is in between adventures and is looking to join.

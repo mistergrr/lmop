@@ -1,3 +1,9 @@
+---
+Category: Encounter
+Location: "[[Starmetal Hills]]"
+tags:
+  - hexcrawl
+---
 # Map
 ![[Starmetal-Hills-hex.jpg]]
 

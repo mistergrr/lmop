@@ -1,3 +1,9 @@
+---
+Category: Quest
+Location: "[[Temple of Bahamut]]"
+tags:
+  - dungeon
+---
 ### Skill Challenges
 - https://www.youtube.com/watch?v=rmtPVatFuUc
 - https://www.youtube.com/watch?v=GvOeqDpkBm8

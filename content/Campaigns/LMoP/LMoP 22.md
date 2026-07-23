@@ -10,7 +10,7 @@ Session length: 6 hours
 Day: 60
 ---
 ## Previously
-![[LMoP 21#^Summary]]
+![[LMoP 21#^summary]]
 # A New Day
 ## Notes 
 - Apologize to Gael for recommending we sacrifice her character with a fireball.

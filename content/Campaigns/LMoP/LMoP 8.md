@@ -12,7 +12,7 @@ Day:
  - 8
 ---
 # Previously
-![[LMoP 7#^Summary]]
+![[LMoP 7#^summary]]
 # Pre-Session
 **Housekeeping**
 - $10 helps me keep things running.

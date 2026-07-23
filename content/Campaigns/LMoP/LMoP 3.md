@@ -15,7 +15,7 @@ Tags:
 ---
 # Cragmaw Cave pt.ii
 ## Previously
-![[LMoP 2#^Summary]]
+![[LMoP 2#^summary]]
 
 ## Day 2 (cont'd.)
 

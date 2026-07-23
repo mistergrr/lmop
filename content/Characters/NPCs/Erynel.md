@@ -62,7 +62,7 @@ Background:
 >
 >E — The Despondent
 
-- [ ] **bargaining** ^beggar
+- [x] **bargaining** ^beggar
 >A stranger tale I could not muster
 >Yet I find kinship in was once .
 >To have both lost our ones and only,

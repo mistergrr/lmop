@@ -14,7 +14,7 @@ Evil family
 - **Voice**: 
 - **Description**: Elf Hitler/Jim Jones. Uses an elegant walking cane (hidden rapier/magic weapon)
 # Backstory:
-The father of [[Dorian of Galdor]]. Sees himself as the new [[Corellon]] and is creating a high elf empire. Sees high elves as above all other races. Demands perfection for god's "perfect" creatures.
+The father of [[Dorian of Galdor]]. Sees himself as the new [[Corellon]] and is creating a high elf **empire**. Sees [[Elf Race#High Elves|High Elves]] as **superior** to all, inlcuding [[Elf Race#Wood Elves|Wood Elves]], whom he persecutes. **Demands perfection** for god's "perfect" creatures.
 # Attitude
 Attitude | Interest | Patience
 -- | -- | --

@@ -1,3 +1,9 @@
+---
+Category: Quest
+Location: "[[Omphalos]]"
+tags:
+  - dungeon
+---
 - **Theme** Death & Hell
 # Mission
 The [[The Angels' Tome]] has been acquired by dark forces in the [[Underdark]]. Head to the dungeon and retrieve the Tome. [[The Messenger]] provides the party with a trinket. Smashing the trinket will inform [[The Messenger]] that the tome has been retrieved and they will meet the party at the agreed location in three days.

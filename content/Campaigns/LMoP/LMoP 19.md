@@ -9,7 +9,7 @@ Session length: 5 hours
 Day: 26
 ---
 ## Previously
-![[LMoP 18#^Summary]]
+![[LMoP 18#^summary]]
 # Title
 ## Notes 
 - [[Hew, +1]] mastery properties

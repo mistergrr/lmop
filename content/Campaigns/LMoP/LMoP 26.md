@@ -14,7 +14,7 @@ Tags:
   - hexcrawl
 ---
 ## Previously
-![[LMoP 25#^Summary]]
+![[LMoP 25#^summary]]
 # Twilight Tor
 ## Notes 
 - [[Grrurika]] should frown at [[Tankard of Sobriety]]. Drinking is a **test** of endurance.

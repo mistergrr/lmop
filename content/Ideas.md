@@ -30,6 +30,8 @@
 - Nigerian prince.
 - Church of Cetacean.
 - [[Richtor Helmsley III|Richtor]] hires the party to evict This One.
+- Rumours of monster attacks increasing. Job board has notes to get warning messages out. Job 3 location has been wiped out - mystery to solve (cryovain).
+- Hired to escort dirty goods.
 # General
 Quiz night at the tav. 
 
@@ -41,13 +43,14 @@ Sentient horn who found a horse host. Water cult in the desert. Close Encounters
 
 Fairy cages for boons. eg. god of the smell of strawberries; a harvest god who produces bread. Can be destroyed to gain a more powerful version of its blessing.
 
-vending/gacha machine in dungeon. The licc puzzle.
-
+vending/gacha machine in dungeon. Borderlands iridium vendor in dungeons. The licc puzzle.
 **[[The Black Spider]] trial: what's the charge?**
 # Locations
 - [[Baldur's Gate]] = Night City. Death to corpos, choom. Also, Florence.
 - [[Longsaddle]] has Twin Peaks vibes.
 - Raccoon City: kingdom besieged by undead. Magic healing outlawed as necromancy. Why are the dead drawn here?
+- Day of the Dead town — Grim Fandango
+- Meritocracy.
 # NPCs
 - Rob Boss, the painter whose landscapes contain travellers.
 - Barbas the dog.
@@ -55,6 +58,7 @@ vending/gacha machine in dungeon. The licc puzzle.
 - "[[Owlbear Grylls]]" the ranger who drinks his own piss.
 - "The Count" — town accountant who is totally not a vampire.
 -  _Gambit_ uses Uno cards as spell cards.
+- Goblin named "Queef."
 # Enemies
 - [[Lt. Trike]] tamed the Basilisk and took the [[Horn of Blasting]]. Lepidopterophobic goblin dancer is right-hand man.
 - Tank needs legendary resistances.
@@ -76,4 +80,13 @@ vending/gacha machine in dungeon. The licc puzzle.
 - No towns people died. Ruins not built on graves.
 # Magic Items 
 - Magic items that multiple classes will want to fight each other for.
-- The Hope diamond (cursed with bad luck). 
+- The Hope diamond (cursed with bad luck).
+- "I'm Outta Here" smoke bomb.
+- Mana potion.
+
+# Player Survey on What to Focus On
+1. 
+2. 
+3. 
+4. 
+5. 

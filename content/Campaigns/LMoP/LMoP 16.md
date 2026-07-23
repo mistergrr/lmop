@@ -14,7 +14,7 @@ Day:
  - 22
 ---
 ## Previously
-![[LMoP 15#^Summary]]
+![[LMoP 15#^summary]]
 # Banshee's Bargain and Trial of Endurance
 ## Notes 
 -

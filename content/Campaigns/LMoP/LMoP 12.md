@@ -14,7 +14,7 @@ Day:
  - 13
 ---
 ## Previously
-![[LMoP 11#^Summary]]
+![[LMoP 11#^summary]]
 # Title
 ## Players 
 - [[Thia Galanodel|Thia]] New empty spellbook on long rest due to subclass. Can copy prepared spells into book — 1 hour + 10 gp per spell level.

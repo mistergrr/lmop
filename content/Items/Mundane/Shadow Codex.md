@@ -1,3 +1,8 @@
+---
+Category: item
+tags:
+  - lore
+---
 The codex tells stories of *Trail of Five Darknesses*. 
 # The Ritual:
 - [ ] **Baptism of Darkness**: Bathe in a [[Midnight Spring]].

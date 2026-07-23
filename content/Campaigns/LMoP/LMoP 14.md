@@ -13,7 +13,7 @@ Day:
  - 18
 ---
 ## Previously
-![[LMoP 13#^Summary]]
+![[LMoP 13#^summary]]
 # The Arcane Convergence
 ## Players 
 - [[Grrurika]] dreams and visions

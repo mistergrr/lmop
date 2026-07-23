@@ -1,6 +1,7 @@
 - Backstabs ignore shields
 - Perkins crit (add max die damage)
 - Health potions outside combat restore max roll
+- One Roll: Roll attack and all damage dice together. If it wasn't in the roll, you don't do it this round.
 - Inventory slot system
 - Nat 1s gain worldbuilding token
 - Strength (Intimidation) 

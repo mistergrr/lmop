@@ -10,7 +10,7 @@ Session length: 5 hours
 Day: 23
 ---
 ## Previously
-![[LMoP 16#^Summary]]
+![[LMoP 16#^summary]]
 # Wyvern Tor
 ## Possible Scenes
 - [[Orc Trouble]]

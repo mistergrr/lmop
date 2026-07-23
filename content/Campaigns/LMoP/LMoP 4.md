@@ -13,7 +13,7 @@ Day: 4
 # Redbrand Hideout pt.i
 
 ## Previously
-![[LMoP 3#^Summary]]
+![[LMoP 3#^summary]]
 ## Day 4
 [[Aric Moonshadow|Aric]] and [[Korah]] arrive back from their adventure. [[Aric Moonshadow|Aric's]] gun is now [[Eldritch Gun]]. The party regroups at the inn and shares the info they gathered. They return to [[Sildar Hallwinter|Sildar]] for their reward.
 

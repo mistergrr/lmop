@@ -14,7 +14,7 @@ Day:
 
 
 ## Previously
-![[LMoP 6#^Summary]]
+![[LMoP 6#^summary]]
 # Gaelyn & Brandt's Wedding + The Curse
 
 **Character Moments**

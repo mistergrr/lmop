@@ -68,3 +68,6 @@ Now driven by a hunger for life. Drains living essence through its attacks. Huma
 |6|Obey the cult or deity that gave it unlife.|
 |7|Prove it was the greatest warrior to ever live.|
 |8|Seek its stolen heart or other treasure.|
+
+# Ideas
+Pregnant skeleton — baby summoner

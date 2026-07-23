@@ -10,7 +10,7 @@ Session length:
 Day: 64
 ---
 ## Previously
-![[LMoP 26#^Summary]]
+![[LMoP 26#^summary]]
 # Twilight Tor Defence and Library
 ## Notes 
 - [[Grrurika]] should frown at [[Tankard of Sobriety]]. Drinking is a **test** of endurance. Dwarfs here also call out its use.

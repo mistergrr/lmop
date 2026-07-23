@@ -13,7 +13,7 @@ Day:
  - 10
 ---
 ## Previously
-![[LMoP 8#^Summary]]
+![[LMoP 8#^summary]]
 
 # Title
 **Housekeeping**

@@ -13,7 +13,7 @@ Day:
 ---
 
 ## Previously
-![[LMoP 5#^Summary]]
+![[LMoP 5#^summary]]
 # Meeting Dorian
 Jordan join with [[Dorian of Galdor]]. The party, having cleared [[Tresendar Manor History]] head back to town to see what's left to do. Aric and Korah leave, called by Aric's patron. The rest come across the last of the [[Redbrands]] who are ready to fight after seeing the bodies in town square. [[Dorian of Galdor]] happens to be passing through and spots his old friend, [[Eldina Tosscobble]] and joins the fight.
 

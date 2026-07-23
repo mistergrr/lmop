@@ -1,3 +1,9 @@
+---
+Category: Quest
+Location: "[[Twilight Tor]]"
+tags:
+  - 
+---
 The dwarves know the location of the [[Library of Whispers]], but will only reveal it if the party helps **defend** against [[Uthgardt#Grey Wolf Tribe|Grey Wolf]] barbarians.
 
 - [[Silvered Weapon]] needed.

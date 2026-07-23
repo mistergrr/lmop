@@ -10,7 +10,7 @@ Session length: 4.5 hours
 Day: 18
 ---
 ## Previously
-![[LMoP 14#^Summary]]
+![[LMoP 14#^summary]]
 # The Pilgrimage of Rebirth
 
 ## Possible Scenes

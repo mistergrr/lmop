@@ -1,3 +1,8 @@
+---
+Category: item
+tags:
+  - lore
+---
 Curse the gods and devils alike!
 
 My son is dead.

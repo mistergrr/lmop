@@ -17,7 +17,7 @@ Tags:
   - hexcrawl
 ---
 ## Previously
-![[LMoP 12#^Summary]]
+![[LMoP 12#^summary]]
 # Title
 ## Players 
 - [[Dorian of Galdor]] and [[Eldina Tosscobble|Eldina]] return to [[Cragmaw Castle]] to return the stolen goods. They must sacrifice something/contribute knowledge appropriate to [[Oghma]] in order to break the curse

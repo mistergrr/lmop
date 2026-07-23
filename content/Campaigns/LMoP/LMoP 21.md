@@ -11,7 +11,7 @@ Day:
   - 27
 ---
 ## Previously
-![[LMoP 20#^Summary]]
+![[LMoP 20#^summary]]
 # Wave Echo Cave pt. iii
 ## Notes 
 - The [[Flameskull]] has been wedged in the water wheel

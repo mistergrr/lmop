@@ -13,7 +13,7 @@ Day:
  - 10
 ---
 ## Previously
-![[LMoP 10#^Summary]]
+![[LMoP 10#^summary]]
 # Reconsecrating the Altar
 ## Players 
 - [[Eldina Tosscobble|Eldina]] gave her bow to [[Gundren Rockseeker|Gundren]]

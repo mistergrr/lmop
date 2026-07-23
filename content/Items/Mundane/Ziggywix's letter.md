@@ -1,3 +1,8 @@
+---
+Category: item
+tags:
+  - lore
+---
 Ziggywix,
 
 I loved you. Once.

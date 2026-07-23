@@ -93,6 +93,5 @@ The exchange is a great place to meet people who spend a lot of time out and abo
 - [[The Lord's Alliance]] want a lord in Phandalin — elected or installed. Party vote. ([[Richtor Helmsley III]]?)
 - Guards need training
 - Mithral was mined in [[Wave Echo Cave]]
-- Help establish mining trade routes
-- [ ] [[Logger's Camp]]
-- [[Cragmaw Cave]]
+- [[Halia Thornton|Halia]] needs help securing trade routes. Refined iron to [[Leilon]] and charcoal from [[Neverwinter Wood]]. Logging rights.
+- [ ] [[Cragmaw Cave]] converted to [[Logger's Camp]] and charcoal-burning camp.

@@ -1,7 +1,7 @@
 ---
 Category: Faction
 ---
-Devil worshipers sworn to [[Asmodeus]]. Led by [[Mordai Veil]]
+[[Cultist]] Devil worshipers sworn to [[Asmodeus]]. Led by [[Mordai Veil]]
 
 # Goals
 As befits servants of Asmodeus, the supreme master of the Nine Hells, Ashmadai cultists seek to control Neverwinter, either as daylight rulers or covertly through intimidation and black mail. 
@@ -12,4 +12,3 @@ Cultists assign [[Imp]]s, [[Spined Devil]]s, Bearded Devils, and others to bring
 [[Mordai Veil]] uses a pod system to manage his sect and shroud it from prying eyes. The highest-ranking members report separately to [[Mordai Veil|Mordai]] and do not know each other. Each of those leaders has his or her own pod whose cultists report separately to that individual — and so on down through the ranks. Each higher-ranking member regularly assigns tasks to inferior cultists without disclosing the larger scheme. Many of these tasks involve recruiting young nobles and merchant scions who are easily swayed by promises of power, wealth, or influence.
 
 [[Mordai Veil|Mordai]] readily encourages his followers to mark buildings and corpses with the symbol of [[Asmodeus]]. This was to intimidate others into joining the ranks of the Ashmadai. The symbol was effective as it managed to scare the townsfolk into co-operating with their demands. Although Favria disagrees with the plan, she does not deny it's effectiveness.
-

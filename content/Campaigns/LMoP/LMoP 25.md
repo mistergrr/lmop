@@ -10,7 +10,7 @@ Session length: 4 Hours
 Day: 62
 ---
 ## Previously
-![[LMoP 24#^Summary]]
+![[LMoP 24#^summary]]
 # Goblin Gully
 ## Notes 
 - [[Grrurika]] should frown at [[Tankard of Sobriety]]. Drinking is a test of endurance.

@@ -1,3 +1,8 @@
+---
+Category: item
+tags:
+  - lore
+---
 Wester,
 
 I've rigged the elections in your favour. Congratulations, mayor. 

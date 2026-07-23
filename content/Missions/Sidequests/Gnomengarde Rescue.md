@@ -1,3 +1,9 @@
+---
+Category: Quest
+Location: "[[Gnomengarde]]"
+tags:
+  - dungeon
+---
 # Background
 ![[Gnomengarde]]
 

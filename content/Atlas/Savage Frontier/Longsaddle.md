@@ -2,9 +2,10 @@
 Category: Location
 Geography: Settlement
 Location: Savage Frontier
+Tags:
+ - settlement/town
 ---
-#settlement/town
-Distance from [[Phandalin|Phandalin]]: by road 260 mi., 11 days. as the crow flies (via [[Library of Whispers]]) 180 mi., 7 days 
+Distance from [[Phandalin|Phandalin]]: by road 260 mi., 11 days. as the crow flies (via [[Starmetal Hills]]) 180 mi., 7 days 
 Distance from [[Triboar]]: 80 mi., 3 days.
 
 **Location**: [[Starmetal Hills]]
@@ -13,21 +14,37 @@ Distance from [[Triboar]]: 80 mi., 3 days.
 ![[Longsaddle-map.jpg]]
 
 # Description
-**Twin Peaks** vibes. Sleepy hamlet on the Long Road. Predominantly **livestock market**. Homes and businesses flank the road. Smaller than [[Phandalin|Phandalin]]. Member of [[The Lord's Alliance]] thanks to the powerful [[Harpell]] family of wizards. Horse and cattle **ranches** surrounding.
+Sleepy hamlet on the Long Road. **Twin Peaks** vibes. Mainly **livestock market**. Homes and businesses flank the road. Smaller than [[Phandalin]]. Member of [[The Lord's Alliance]] thanks to the powerful [[Harpell]] family of wizards. Horse and cattle **ranches** surround.
 
 ## The Wards
-Two sets of wards at work here. First is oval, and surrounds the village. Continuously signals the location of beings that don't possess **ward tokens** in town. Also allows the [[Harpell|Harpells]] to send an audible **message** to all who do have ward tokens. Token is a small slate **arrowhead** engraved with a certain **rune**. Every resident has one, and the [[Harpell|Harpells]] are adept at **tracing** tokens if they are stolen or hidden.
+Two sets of wards. First surrounds the village. Continuously signals the location of beings that don't possess **ward tokens** in town. Also allows the Harpells]to send a **message** to all who do have ward tokens. Token is a small slate **arrowhead** engraved with a certain **rune**. Every resident has one, and the Harpells are adept at **tracing** stolen or hidden tokens.
 
-Bearers of a ward token can open the boundary to allow free **passage** of a nonbearer. This sets off a **signal** to all token bearers. Ward **gates** allow passage without alarms being activated, but each is **guarded** at all times by a [[Harpell]]. Might **appear** as a child playing in the dirt or an old man sleeping — always a mage.
+Ward token bearers can open the boundary to allow free **passage** of a nonbearer. Sets off a **signal** to all token bearers. Ward **gates** allow passage without alarms being activated, but each is **guarded** at all times by a [[Harpell]]. Might **appear** as a child playing in the dirt or an old man sleeping — always a mage.
 
-Second ward is circular and encloses [[Harpell]] Hill, the area that includes the **Ivy Mansion**. Only the [[Harpell]] family have tokens to pass this ward. Boundary acts as a dome-shaped **wall of force** to magic by anyone who doesn't have a token. Affects all physical things not **in contact** with a token bearer. Hurled weapons or flying griffons are **locked out**, but a [[Harpell]] riding an aerial mount would pass.
+### Ward Guards:
+- **Tolliver Harpell**
+	- 
+- Harpell
 
-The [[Harpell|Harpells']] ward tokens are tiny, clear, crystal ovals, like eye lenses, with a pattern cut into them. Often **concealed** by gluing to toenails or wearing over their eyeballs.
+Second ward encloses *Harpell Hill*, the area that includes the **Ivy Mansion**. Only the [[Harpell]] family have tokens to pass. Boundary acts as a dome-shaped **wall of force**. Affects all physical things not **in contact** with a token bearer. Hurled weapons or flying griffons are **locked out**, but a Harpell riding an aerial mount would pass.
+
+The Harpells' ward tokens are tiny, clear, crystal ovals, like eye lenses, with a pattern cut in. Often **concealed** by gluing to toenails or wearing over eyeballs.
 # Notable Locations
 ## Sleep — Gilded Horseshoe
 A rustic inn.
-## Supplies — Nalathar's Fine Stirrups & Spurs
-A finesmithy that specialized in accessories for steeds.
+## Supplies — Nalathar's Fine Stirrups & Sundries
+A fine smithy that specialized in accessories for steeds.
+- Donkey/mule: 5 GP
+- Pony: 20 GP
+- Draft horse: 40 GP
+- Riding horse 60 GP
+- Warhorse 350 GP
+
+uncommon magic items
+- Potion of Animal Friendship
+- Potion of Plant Growth: 5 sq. ft. Plants mature +6 months; 
+- Potion of Hill Giant Strength
+- An Alabaster Mask that casts Beast Sense (Level 2): 75 GP
 ## Healing — Temple of Bahamut
 [[Temple of Bahamut]] — located a few miles southeast.
 ## Hirelings — Perfectone Mercantile

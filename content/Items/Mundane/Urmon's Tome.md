@@ -1,5 +1,7 @@
 ---
-Type: Tome
+Category: item
+tags:
+  - lore
 ---
 
 # Description.

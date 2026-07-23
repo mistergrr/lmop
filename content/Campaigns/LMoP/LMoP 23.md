@@ -10,7 +10,7 @@ Session length: 6.5 hours
 Day: 60
 ---
 ## Previously
-![[LMoP 22#^Summary]]
+![[LMoP 22#^summary]]
 # A New Day
 ## Notes 
 - [[Thia Galanodel|Thia]] forgets a spell.

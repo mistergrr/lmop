@@ -1,3 +1,9 @@
+---
+Category: Quest
+Location: "[[Phandalin]]"
+tags:
+  - 
+---
 > Vandels in Phandalin! Our beutiful town has been conflicted with a wave of troublemakers and ne'er-do-wells. 50 gp reward to whomsoever brings the perpertraitors to justice. See Sherif Richtor Helmsley III for more details.
 
 Someone has been on a vandalism spree around [[Phandalin|Phandalin]], but all the graffiti has been specifically targeting [[Richtor Helmsley III]].

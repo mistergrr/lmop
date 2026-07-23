@@ -13,7 +13,7 @@ Day:
  - 25
 ---
 ## Previously
-![[LMoP 17#^Summary]]
+![[LMoP 17#^summary]]
 # Back to Phandalin
 ## Notes 
 - [[Grrurika]] — Recalls the story behind [[Hew, +1]]

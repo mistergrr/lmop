@@ -45,3 +45,5 @@ Also create their own hybrids.
 - Hydra
 - Dragon (prefer black)
 - Duergar
+# Aging
+- **Mature**. Extreme alien beauty makes others uncomfortable. Tasks requiring concentration have 50% chance to fail.

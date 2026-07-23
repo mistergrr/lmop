@@ -1,3 +1,8 @@
+---
+Category: item
+tags:
+  - lore
+---
 A Travel Account by Arthur Whittwix
 
 **_Page 1_**
