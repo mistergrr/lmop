@@ -63,14 +63,14 @@ Located on road to **mine**. Miners come and go. Run by **Thori Starforger**. Wh
 # Rumours
 _Six rumours: two truths, two half-truths, two false_
 1. Legend of a dwarven **tomb** lies under [[Berun's Hill]]'s, rich in **golden armour** and treasures. No dwarfs of today know any more than the legend.
-	- **Golden Armour**: [[Set of Light]] piece.
+	- [[Helmet of Salvation]]: [[Set of Light]] piece.
 	- Some of the miners are getting close to finding the **treasure** of [[Berun's Hill]].
 2. On moonless nights, a long-forgotten princess sings **songs** over Lake Glorfindar.
 3. On one [[Simril]] evening, the telescope would show a traveller a **portent** which could change history.
 4. Some cave mushrooms sing if you listen closely. These give restful sleep.
 5. "The bridge is haunted by the spirit of a tax collector. Avoid using it."
-# Quests
-![[Quests#Twilight Tor Protection]]
+# Quests Hooks
+- [[Quests#Twilight Tor Protection]]
 ## Vault of the Lost Wayfarer
 # NPCs
 - **Helga Löderr**: 

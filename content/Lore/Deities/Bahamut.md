@@ -19,7 +19,7 @@ tags:
 ## Favoured Weapon
 "Bite" (heavy pick), claw
 ## Symbol
-Platinum dragon's head in profile.
+Dragon's head in profile.
 ## Colours
 Platinum, silver, pale blue.
 # Suggested domains
@@ -38,3 +38,20 @@ Life, War
 - **Show mercy** to those who seek redemption.
 - **Punish cruelty**, but never with malice.
 - **Uphold truth**, even when lies would be easier.
+
+# Elegy for the First World
+>Breathe, dragons; sing of the First World, forged out of chaos and painted with beauty. Sing of Bahamut, the Platinum, moulding the shape of the mountains and rivers; Sing too of Chromatic Tiamat, painting all over the infinite canvas. Partnered, they woke in the darkness; partnered, they laboured in acts of creation.
+
+>Breathe, dragons; sing then of Sardior, ruby-red jewel they made in their likeness; Sardior, first-born of dragonkind, laboured alongside Bahamut and Tiamat, Shaping the dragons they crafted: dragons metallic and dragons chromatic. Breathe, dragons—draw in the life-gift breathed into you at the dawn of creation.
+
+>Breathe, dragons; sing of the outsiders, war-bringer gods with their mortal adherents; Teeming, they came to the First World, seeking a home for their legions of followers. Mighty in magic and numbers, conquering deities seized their victory. Fallen was noble Bahamut, Sardior hid in the heart of creation.
+
+>Breathe, dragons; sing now of Tiamat, raging in battle with no hope of victory. She would not flee or surrender, fighting as death reached its cold claws toward her. War-bringers seized her and bound her, snatched her from death, entombed her in torment—Sealed in the darkness forever, captive to gods laying claim to creation.
+
+>Breathe, dragons; sing of the conquest, seeding the world with their legions of followers, Each to their own habitation, elves in their forests and dwarves in their mountains, Orcs in their caverns and canyons, goblins in badlands and halflings in green fields, Lizardfolk lurking in marshes, humans throughout every part of creation.
+
+>Breathe, dragons; sing of Bahamut, maker of peace with the outsider deities, Welcomed to mountains celestial, worshiped by some as the Platinum Paladin. Sing of his journeys of seeking, striving to understand gods and their children, Longing for Tiamat's freedom, grieving her loss from the face of creation.
+
+>Breathe, dragons; sing of her freedom—Tiamat loosed from her prison of torment! Tell how she rallied her children, dragons chromatic, a spectrum of mayhem. Sing of her fury, her vengeance, lightning and venom, ice, fire, and corrosion, Five-headed, monstrous, and mighty, rampaging on a campaign of destruction.
+
+>Breathe, dragons; sing of the First World, scattered in infinite seedling realities. Sing of Bahamut and Tiamat, watching its sundering, mourning their labour. Sing too of Sardior, sundered, consciousness scattered in minuscule fragments. Breathe, dragons: you are inheritors, ruling the wreck of the First World's destruction.

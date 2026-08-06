@@ -25,7 +25,7 @@ Jordan join with [[Dorian of Galdor]]. The party, having cleared [[Tresendar Man
 
 **Character Moments**
 - [[Eldina Tosscobble|Eldon]] and [[Dorian of Galdor|Dorian]] reunite
-- [[Grrurika]] learns about [[Lightbringer, +1]]
+- [[Grrurika]] learns about [[Mace of the Spirit, +1]]
 - [[Richtor Helmsley III|Richtor]] gets his [[Wolf Head Cloak]]
 - [[Thia Galanodel|Thia]] Studies scrolls to learn new spells
 # Day 4 | Leaving Tresendar
@@ -58,7 +58,7 @@ Everyone sees [[Dorian of Galdor|Dorian]] now and [[Eldina Tosscobble|Eldon]] re
 
 [[Sister Garaele]] is alarmed by the state of the gang and works hard to heal everyone. [[Ziggywix Tinkerton|Ziggywix]] is extremely worn down and goes home. The gang heads to [[Stonehill Inn]] to celebrate wiping out the [[Redbrands]]. Everyone drinks two gallons of ale (except [[Thia Galanodel|Thia]], who only has one) and gets familiar with [[Dorian of Galdor]].
 
-[[Dorian of Galdor|Dorian]], [[Eldina Tosscobble|Eldon]], and [[Grrurika]] engage in tortoise racing — Dorian wins. Everybody heads to bed. [[Grrurika]] learns about [[Lightbringer, +1]].
+[[Dorian of Galdor|Dorian]], [[Eldina Tosscobble|Eldon]], and [[Grrurika]] engage in tortoise racing — Dorian wins. Everybody heads to bed. [[Grrurika]] learns about [[Mace of the Spirit, +1]].
 
 # Day 5 | Ziggy's Secret
 **Dorian**

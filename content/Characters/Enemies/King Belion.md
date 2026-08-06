@@ -8,7 +8,7 @@ Tags:
   - hostile
 ---
 # Theme
-Evil family
+Xenophobic/god complex
 # Distinguishing Trait
 - **Age**: 500 years
 - **Voice**: 
@@ -41,4 +41,4 @@ Suspicious | 2 | 2
 # Goals
 - Grow empire, subjugate the realm.
 - Recreate feywild here. Safe haven for high elves. [[Arvandor]] on earth.
-- 
+- Currently preparing for war against the wood elves and [[Uthgardt#Tree Ghost Tribe|Tree Ghost Tribe]] of the [[High Forest]].

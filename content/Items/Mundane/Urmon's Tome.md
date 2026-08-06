@@ -5,7 +5,7 @@ tags:
 ---
 
 # Description.
-Written in Dwarfish. [[Lightbringer, +1]] mace was lost to [[Wave Echo Cave]].
+Written in Dwarfish. [[Mace of the Spirit, +1]] mace was lost to [[Wave Echo Cave]].
 # History
 
 # Owner

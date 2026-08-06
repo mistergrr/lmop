@@ -2,7 +2,8 @@
 Type:
 Level:
 Rarity:
-Value:
+Tags:
+  - item/
 ---
 # Description.
 

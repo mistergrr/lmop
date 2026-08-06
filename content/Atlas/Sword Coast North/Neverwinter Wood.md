@@ -3,7 +3,7 @@ Category: Location
 Geography: Forest
 Location: Sword Coast North
 ---
-Leagues beyond Neverwinter, a thick press of trees shrouds a foreign world in shadows and fear. In places, the land's brush grows into dense walls, and trespassers must hew through it branch by branch to gain access to the land's private places. Where the thickets are lighter and natural pathways allow for easier travel, the land's aura is no less menacing. Overhead, the canopy's branches and leaves intertwine into wooden fists, blotting out the sun and transforming the idea of "day" into a memory of brighter, safer domains. Travelers who risk entering this looming forest feel baleful eyes tracking their movements. Despite the warm temperature, a coldness creeps inside their clothing, sending shivers down their spines.
+In places, the land's brush grows into dense walls, and trespassers must hew through it branch by branch to gain access to the land's private places. Where the thickets are lighter and natural pathways allow for easier travel, the land's aura is no less menacing. Overhead, the canopy's branches and leaves intertwine into wooden fists, blotting out the sun and transforming the idea of "day" into a memory of brighter, safer domains. Travelers who risk entering this looming forest feel baleful eyes tracking their movements. Despite the warm temperature, a coldness creeps inside their clothing, sending shivers down their spines.
 
 This is Neverwinter Wood. Dark and brutal outsiders journey here to steal power, magic, and lives. Monstrous denizens of this world and others dwell here in shadows, glaring in hatred at ignorant mortals who think to tame the wilds. Here, the bones of ancient civilizations that believed their magic a match for the woods reside as testaments of their folly. And here, the ghosts of such mistakes haunt the edges of this foreign reality, never escaping the winter of their lives.
 
@@ -21,3 +21,21 @@ Despite their warmth and the prevalence of fish, turtles, and other aquatic life
 [[Dread Ring]]
 # Cradle of Life
 ![[Cradle of Life]]
+# Wildlife
+**Large**
+- Huge wild boars—fine eating, but often at the price of men's lives.
+- Elk, lesser fen deer, and moose.
+- Wolves
+- Bears, owlbears
+- [[Ankheg]]
+
+**Small**
+- Rabbits, squirrels, red foxes, mice, bats, water rats, prairie dogs, beavers, weasels, and ermines.
+
+**Birds**
+- Game birds like the pheasant, grouse, quail, duck, and geese.
+- Song birds of all shapes, colours and sizes.
+
+**Fish**
+- Salmon
+- Pissfish

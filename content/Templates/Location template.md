@@ -1,6 +1,5 @@
 ---
-categories:
-  - site
+Category: Location
 tags:
   - dungeon
   - ruins

@@ -31,7 +31,7 @@ Background:
 - Is willingly taking part in the [[Ritual of the Angels]] to trade places with [[Deuteronomy Albrek]] — he wants to travel to [[Arborea]] by way of [[Mount Celestia]] in order to regain his Celestial power, which he will use to defeat King Belion.
 
 # Erynel's Poems
-- [x] **What's in a Name?** ^forlorn
+- [x] **What's in a Name?** 
 >What's in a name? That which we call a rose
 >By any other name would smell as sweet.
 >So Son of Galdor would, were he not Galdor called.
@@ -40,9 +40,9 @@ Background:
 >And for thy name, which is no part thee,
 >Take all myself.
 >
->E — The Forlorn
+>E — The Forlorn ^forlorn
 
-- [x] **My Love's Eternal** ^despondent
+- [x] **My Love's Eternal** 
 >Sharing our warmth beneath the Old Great Oak
 >We lay entwined, speaking with words unspoke.
 >Your eyes shone bright, singing songs I still hear,
@@ -60,9 +60,9 @@ Background:
 >
 >Your Erynel.
 >
->E — The Despondent
+>E — The Despondent ^despondent
 
-- [x] **bargaining** ^beggar
+- [x] **bargaining**
 >A stranger tale I could not muster
 >Yet I find kinship in was once .
 >To have both lost our ones and only,
@@ -78,17 +78,17 @@ Background:
 >Nothing compares to what I have since lost.
 >To be with Him, I'll bear whatever cost.
 >
->E — The Beggar
+>E — The Beggar^beggar
 
-- [ ] **Cursed Blessings** ^enraged
+- [ ] **Cursed Blessings**
 >My only love, sprung from my only hate!
 >Though blessed by the moon, yet cursed by fate!
 >Prodigious birth of love it is to me
 >That I must love a loathed enemy.
 >
->E — The Enraged
+>E — The Enraged ^enraged
 
-- [ ] **Love Springs Forth** ^unshakeable
+- [ ] **Love Springs Forth**
 >O, to meet once more! Where the grass lies soft.
 >Cradled in your arms, my soul held aloft.
 >Like the crickets, my love, sing sweet to me
@@ -99,4 +99,4 @@ Background:
 >But first, I must remove that wicked thorn,
 >And in His blood, our love can be reborn.
 >
->E — The Unshakeable
+>E — The Unshakeable ^unshakeable

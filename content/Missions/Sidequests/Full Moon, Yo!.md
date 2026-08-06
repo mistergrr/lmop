@@ -16,7 +16,7 @@ The dwarves know the location of the [[Library of Whispers]], but will only reve
 # Background
 Dwarves stargaze on **moonless** nights. [[Uthgardt#Grey Wolf Tribe|Grey Wolves]] transform on **full moons**. Usually don't clash but the dwarves are **worried** this year.
 
-[[Uthgardt#Grey Wolf Tribe|Grey Wolf Tribe]] has emerging **chief**, [[Varka Fenrikson]], rising the ranks. **Bloodthirsty** and has been attacking more travellers than usual. Possible **power struggle** brewing.
+The Grey Wolf Tribe has emerging chief, **Varka Fenrikson**, rising the ranks. **Bloodthirsty** and has been attacking more travellers than usual. Possible **power struggle** brewing.
 
 Dwarves want **protection** for travellers. [[Varka Fenrikson]] is too **strong** to take on directly, and don't want to kick the hornet's nest, anyway. _Travok Starforger_ will provide **silvered ammo** if needed (DC 15 _influence_ to join fight). **Two days** until full moon.
 

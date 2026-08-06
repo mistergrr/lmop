@@ -213,14 +213,14 @@ Tier 2
 		- On the body of the wizard, Flangdar
 	- **Reward**: Gems worth 200gp, favours.
 - [ ] [[Clear the Church]] ^clear-church
-	- Location: [[Longsaddle]]
-	- Task: Cultists have taken over. Clear them out so that the place may be reconsecrated.
 	- Location: [[Temple of Bahamut]]
-	- **Reward**: 600gp, [[Lightbringer, +1]]
+	- Tasks: 
+		- Cultists have taken over. Clear them out so that the place may be reconsecrated.
+		- [ ] Retrieve [[Black Obsidian Mirror]]
+	- **Reward**: 200gp, [[Mace of the Spirit, +1]]
 The [[Iarno Albrek|Illusive Man]] promises to help locate [[Erynel]] in exchange for their services. 
 ## Arc 2 | Promise of the Premise
-- [ ] Gather the other Relics 
-	- Three relics, each associated with a different demonic entity. These relics are scattered across various dangerous locations.
+- [ ] Gather the other Relics?
 	- [ ] [[Hellish heart]] ^obtain-relic2
 ## Arc 3 | A Major Victory (Midpoint)
 - [ ] Relic 3 — Acquire Tome of the Angels ^obtain-tome

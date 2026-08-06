@@ -52,6 +52,7 @@ _Exploding necrophages_
 - **Flammable**. On taking fire damage, 2/6 chance of triggering 'Burst.'
 - **Multiattack**. Two claw attacks. Each that reduces to 0 HP, make another claw attack.
 - **Claw**. +5, 6 (1d6 + 3) slashing.
+
 ## Wight
 Withered corpses of relentless warriors whose wickedness sustains them beyond death. Retain memories and evil agendas harboured in life.
 

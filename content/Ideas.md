@@ -83,6 +83,11 @@ vending/gacha machine in dungeon. Borderlands iridium vendor in dungeons. The li
 - The Hope diamond (cursed with bad luck).
 - "I'm Outta Here" smoke bomb.
 - Mana potion.
+- Eye of Nehaleni (Witcher 3): See through illusory walls.
+# Puzzles
+- Sundial-style calendar. Rotate rings to match date (WuWa)
+	- Number + Cardinal directions
+	- Feng shui directions (black tortoise north, red phoenix south, green dragon east, white tiger west)
 
 # Player Survey on What to Focus On
 1. 
