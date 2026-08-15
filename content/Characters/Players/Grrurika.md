@@ -9,6 +9,8 @@ Tags:
 **Species**: [[Dwarf Race]]
 **Age**: 50 years old.
 **Lifespan**: 350 years
+# Gamer Type
+Audience member
 # Background
 - Home, [[Omphalos]] was destroyed by Underdark aberrations.
 - Raised in **Saltstone Orphanage** on [[Mintarn]]

@@ -279,3 +279,7 @@ The party heads back to the [[church]] to stop [[Iarno Albrek|Glasstaff]] and re
 ## Hag's Bargain
 The hag will help get [[Erynel]] in exchange for something.
 - [ ] Make the deal
+## Rescue Harpell
+- [ ] Save Haversham Harpell from the cultists at [[Temple of Bahamut]]
+	- **Quest giver**: Ardanac Harpell
+	- **Reward**: Gentle Repose spell scroll

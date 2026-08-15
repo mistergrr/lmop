@@ -8,6 +8,8 @@ Player: Gael Dusting
 ---
 **Age**: 130 years old.
 ᚴᛅᛚᛅᚾᚬᛏᛁᛚ
+# Gamer Type
+Audience. 
 # Notes
 - Gael wants "Dancing Lights"
 - "Knock Knock" homebrew spell. 2nd level reaction. WIS save.

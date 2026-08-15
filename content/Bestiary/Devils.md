@@ -39,6 +39,8 @@ Reluctant combatants. When forced to fight, turns invisible and waits for an opp
 **DC 10**: Partner with mortals who seek magical power. By helping their “masters” attain new spells or locate magic items, they foster a madness for power.
 **DC 15**: Have the abilities of shape shifting and going invisible.
 **DC 20**: Possess impressive knowledge about magical subjects. Gain most of their information from other devils, past experience, or spying efforts.
+## Salvage
+Wings and bones can be used to create a [[Potion of Fire Resistance]] with a DC 15 INT (Arcana) check from a character proficient in Alchemist's Supplies. Takes 2 hrs and 10 GP of materials. 10% chance that the person taking the potion will have Vulnerability to all other damage.
 
 # Spined Devil (Spinagon)
 Scouts & sentries. Gather in raucous, marauding bands. Some serve as spies and messengers.

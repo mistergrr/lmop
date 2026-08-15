@@ -10,6 +10,9 @@ tags:
 ---
 **Age**: 50 years old.
 **Lifespan**: 250 years.
+# Gamer Type
+- Specialist (Only plays one character). 
+- Butt-kicker (murder hobo). 
 # Background
 Was a thief. Got caught and locked away in prison, where he met [[Dorian of Galdor]]. The broke out together, going on the run.
 He joined the [[Redbrands]] and worked with them until [[Iarno Albrek]] ordered him assassinated. Eldon survived the assassination.

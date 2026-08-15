@@ -53,9 +53,11 @@ Owned by the Lionshields, a merchant company based in the city of Yartar over a 
 
 ### Healing — Shrine of Luck
 Made of stones from nearby **ruins**. Dedicated to [[Tymora]] (goddess of luck and good fortune). Normally in the care of [[Sister Garaele]].
-- **Sister Garaele**
-	- Elf female. 200 years.
-	- Member of [[The Harpers]]. Regularly reports to her superiors on events in and around Phandalin. In her absence, the shrine is left untended.
+- **Sister Garaele**. Elf female. 200 years.
+	- **Minor Miracles**. In return for any donation, spell with no material cost: *cure wounds*, *dispel magic*, or *lesser restoration*.
+	- **Greater Restoration**. Diamond worth 200 GP.
+	- **Revivify**. Diamond worth 500 GP. (Can't be dead more than 10 days).
+	- *Member of [[The Harpers]]. Regularly reports to her superiors on events in and around Phandalin. In her absence, the shrine is left untended*.
 ### Sleep — Stonehill Inn
 Modest, two-story roadhouse. Six rooms for rent. Proprietor Toblen Stonehill.
 - **Toblen Stonehill**.
@@ -92,6 +94,7 @@ The exchange is a great place to meet people who spend a lot of time out and abo
 - **Umbrage Hill Quest**. "The local midwife—an acolyte of Chauntea named Adabra Gwynn—lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it's not safe for her to be alone. Urge Adabra to return to Phandalin. Once she's safe, visit Townmaster Harbin Wester to claim a reward of 25 gp."
 - [[The Lord's Alliance]] want a lord in Phandalin — elected or installed. Party vote. ([[Richtor Helmsley III]]?)
 - Guards need training
+- Security tax & night watch volunteering
 - Mithral was mined in [[Wave Echo Cave]]
 - [[Halia Thornton|Halia]] needs help securing trade routes. Refined iron to [[Leilon]] and charcoal from [[Neverwinter Wood]]. Logging rights.
 - [ ] [[Cragmaw Cave]] converted to [[Logger's Camp]] and charcoal-burning camp.

@@ -12,6 +12,10 @@ Cultists conduct rituals to **summon** fiends. Involves extensive bloodletting. 
 
 Clear them out so that the place may be reconsecrated. Players don't need to reconsecrate — only clear.
 
+>The church ground cover 20 hectares, mostly farmland. A field of hay lays cut and drying.  Other fields a month or two from harvest.Carcasses of five dairy cows, three calves and an ox lie slain.
+
+>The church itself has seen better days, showing overgrowth and wear.
+
 **Bonus**: Find and return [[Black Obsidian Mirror]] — Acts as crystal ball that can scry other planes.
 
 # NPCs
@@ -38,13 +42,16 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 	- DCC _Magic Shield_ scroll
 - [[#A23. Church.]] **Wodd Tight**: [[Obsidian Knife]], [[Scroll of Protection from Fiends]]
 - [[#A24 Lay Monks' Dorms]] **Abbot reward** [[Raulothim's Psychic Lance Trinket]]
+- [[#A25 Abbott's Quarters]]: Cult leader's diary
 - [[#A26. Crypt.]]
 	- [[Smouldering Armour of the Dragonguard]]
 	- [[Shield of Expression]]
 	- [[An alabaster mask that casts 'Enthrall']] (caster level 7; DC 14)
 	- [[Potion of Fire Resistance]]
 	- [[Black Obsidian Mirror]]
-- **for turning in quest** 200gp, [[Mace of the Spirit, +1]]
+- **For Clearing Church** 200gp 
+	- **For Turning in mirror**: [[Mace of the Spirit, +1]]
+- **For saving Harpell**: Gentle Repose spell scroll
 # Secrets
 - Harpell has been taken for **ritual**.
 - Cultists are using their magic to try summon [[Asmodeus]], himself.
@@ -54,12 +61,13 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## Wandering Encounters
 1d6 | Encounter
 -- | --
-1 | Imps
-2 | Cult Fanatic
-3 | Spined Devils
-4 | Bearded Devil
-5 | Barbed Devil
-6 | Fleeing Monk
+1 | Fleeing Monk
+2 | Imps
+3 | Cult Fanatic
+4 | Spined Devils
+5 | Bearded Devil
+6 | Barbed Devil
+
 ![[Longsaddle-Abbey.jpg]]
 ## A1.	Gatehouse.
 >Two-story stone structure. Open gateway. Statue of dragon and plaque, reading “Bahamut” in draconic. Guarded by 2 [[Devils#Spined Devil|Spined Devils]] and 2 **Cult Fanatics**.
@@ -78,15 +86,15 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 - **Cult Acolytes**. Carry *Book of Ashmadai*
 - **Treasure**. 5 health potions. Needles and thread. 2 holy symbols (50 SP each).
 ## A5. Vegetable Garden.
->**Crop** plots (cabbage, carrot, garlic, onion, pumpkin, maize). 2 swarms of [[Devils#Lemure|Lemures]] roam the patches.
+>**Crop** plots (cabbage, onions, peas, beans). 2 swarms of [[Devils#Lemure|Lemures]] roam the patches.
 
 - **2 Lemure Swarms**. Will fight
-## A6. Gardener’s Shed.
->Garden tools, including a scythe and whetstone.
+## A6. Granary.
+>Space cleared for incoming harvest. Some grains on floor.
 
 - 2d4 [[Devils#Lemure|Lemures]] sit in the shadows. Murmur infernal nonsense and afraid of everyone.
-## A7. Vineyard/Orchard.
->Grapevines obscure vision; olive and apple trees.
+## A7. Orchard.
+>Pear, plum, and apple trees.
 ## A8. Cemetery.
 >A [[Devils#Chain Devil|Chain Devil]] roams.
 - **Chain Devil**. Make a DC 11 Stealth check.
@@ -104,8 +112,8 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A13. West Stairs.
 >Lead up to [[#A24 Lay Monks' Dorms]].
 ## A14. Kitchen.
->Blood trail leads from [[#A3. Stables.]] Chopping and hacking sounds. 
-- 4 **Cultists** carve a horse in preparation to cook a **stew** (carrots, cabbage, pumpkins, onions, and garlic). Wield cleavers (1d6). 
+>Blood trail leads from [[#A3. Stables.]] Chopping and hacking sounds. 4 **Cultists** carve a horse in preparation to cook a **stew**. Wield cleavers (1d6). 
+- Stew is cabbage, onions, peas, beans. 
 ## A15. Refectory.
 >Dining hall. **1d4+2 Imps** and **2d6 Cult Acolytes** play cards, eat. The imps are drinking wine. The humans complain they're not allowed to drink.
 - **Cultists**. Carry *Book of Ashmadai* and coins (180 cp, 80 sp, 5 gp).
@@ -121,11 +129,11 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A18. East Stairs.
 >Lead up to [[#A25. Abbot’s Quarters]].
 ## A19. Parlour.
->4 **husks** in monk robes litter corners. A **Nergaliid** siphons lifeforce from another monk.
-- **Willing to bargain** for life. Suffer corruption if deal broken.
-	- Offer: [[A bit of folded cloth that, when unfolded, turns into a stylish cap that casts Power Word Daze]].
-	- Knows the cult leader’s plan in trying to summon Asmodeus.
-- **If attacked**: 5 husks rise as [[Undead#Rotfiends & Devourers|Rotfiends]]
+>4 **0 HP but stable monks** litter corners. A **Nergaliid** siphons lifeforce from another. Tries to strike deals. Suffer [[Corruptions]] if deal broken.
+- Deal 1: Peace for monks' lives (Keeps monks to feed on). 5 PCs, 5 monk lives.
+- Deal 2: Reveal the cult leader’s plan in trying to summon Asmodeus for "Fireball me."
+- Deal 3: Magic item for [[A bit of folded cloth that, when unfolded, turns into a stylish cap that casts Power Word Daze]]
+- **If attacked**: Turn monks into allied [[Undead#Rotfiends & Devourers|Rotfiends]]
 ## A20. Chapter House.
 >A **cultist** practices giving a sermon to **3 Lemures** here.
 - **Worship Leader**. Bol Shawnz. Wants to prove himself to Wodd Tight.
@@ -138,10 +146,10 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A22. Cloister.
 >Covered walkways skirt edges. Meditation garden. Large oak tree at the centre. 
 ## A23. Church.
->**Youth Leader** Wodd Tight conducting summoning **ritual** that involve sacrificing [[Harpell]]. 5 rounds. 10 **Acolytes**, 5 **nuperribo**, 2 **Fanatics**, 2 **Spined Devils**, 1 **worship leader**.
+>**Youth Leader** Wodd Tight conducting summoning **ritual** that involve sacrificing [[Harpell]]. 2d4 rounds. 10 **Acolytes**, 5 **nuperribo**, 2 **Fanatics**, 2 **Spined Devils**, 1 **worship leader**.
 
 - **North transept**. Silver chalice with lapis lazuli
-- **Altar**. Draconic writing across the front. Command word "*Laas Yah Nir*" to open; (DC 15 STR) Move altar.
+- *Altar*. Draconic writing across the front. Command word "*Laas Yah Nir*" to open; (DC 15 STR) Move altar.
 - **Wodd Tight**: [[Obsidian Knife]], [[Scroll of Protection from Fiends]].
 - **Summoned Devil**
 	- [[Devils#Bearded Devil (Barbazu)]]: HP 58, AC 13 (CR 3)
@@ -155,7 +163,7 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ```
 If the leader takes damage, concentration check (DC 10 or half damage taken, whichever higher).
 1. Glyph of warding — magic circle
-2. Summon Fey/Infernal Calling
+2. Summon Fey/Infernal Calling. Sets hellfire difficult terrain
 3. Command "name"
 4. Planar binding
 ```
@@ -175,6 +183,7 @@ If the leader takes damage, concentration check (DC 10 or half damage taken, whi
  >Signs of **struggle** — beds overturned, blood splatters.
  
  - Ceremonial outfits, silver censer (200 sp), 3x silver chalice (30 sp), bells, candles.
+ - Cult leader's diary
  - **Key** to vault in [[#A26. Crypt]]
 ## A26. Crypt.
 >Entrance hidden under altar in [[#A23. Church.]]

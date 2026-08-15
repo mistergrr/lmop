@@ -1,6 +1,6 @@
 # Character-based
 [[Grrurika]]
-- Elephant mount (statuette or circus in town)
+- Elephant mount (statuette or circus in town) — *imprisonment* spell (*dispel magic* at 9th level)
 
 [[Eldina Tosscobble|Eldina]]
 - Thieves guild  
@@ -51,6 +51,7 @@ vending/gacha machine in dungeon. Borderlands iridium vendor in dungeons. The li
 - Raccoon City: kingdom besieged by undead. Magic healing outlawed as necromancy. Why are the dead drawn here?
 - Day of the Dead town — Grim Fandango
 - Meritocracy.
+- Yearly Stewpot Festival contribution
 # NPCs
 - Rob Boss, the painter whose landscapes contain travellers.
 - Barbas the dog.
@@ -84,14 +85,13 @@ vending/gacha machine in dungeon. Borderlands iridium vendor in dungeons. The li
 - "I'm Outta Here" smoke bomb.
 - Mana potion.
 - Eye of Nehaleni (Witcher 3): See through illusory walls.
+- IRL relics tend to be religious (e.g. bones of saints or things they've touched)
 # Puzzles
 - Sundial-style calendar. Rotate rings to match date (WuWa)
 	- Number + Cardinal directions
 	- Feng shui directions (black tortoise north, red phoenix south, green dragon east, white tiger west)
 
 # Player Survey on What to Focus On
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Main plot A (Glasstaff)
+2. Personal stories
+3. Worldbuilding, whacky side quests, Main plot B (Black Spider)

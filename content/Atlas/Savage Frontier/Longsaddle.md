@@ -15,7 +15,7 @@ Tags:
 **Population Diversity**: Human 70%, Halfling 20%, other 10%
 **Languages**: Common, halfling
 **Resources**: Beef and mutton
-**Fun Fact**: 
+**Fun Fact**: Twice a year, there's *The Great Cattle Drive* to Mirabar, Neverwinter, Yartar, and Waterdeep,
 ![[Longsaddle_view.webp]]
 ![[Longsaddle-map.jpg]]
 
@@ -28,8 +28,10 @@ Home to the Harpell family — produced a number of influential mages in the Nor
 # Notable Locations
 ## The Gilded Horseshoe
 Noted for hospitality and defensible wooden palisade.
+- Old feed barn (drafty). Tack up old bedsheets and furs to cut the worst winds.
+- Run by "**Trappy Snulgers**" and his 16 daughters.
 ## Nalathar's Fine Stirrups & Sundries
-A fine smithy that specialized in accessories for steeds.
+A fine smithy that specialized in accessories for steeds. **Nalathar Druyn**.
 
 uncommon magic items
 - Potion of Animal Friendship
@@ -39,10 +41,10 @@ uncommon magic items
 ## Temple of Bahamut
 [[Temple of Bahamut]] — located a few miles southeast.
 ## Gambling Golem
-A friendly festhall with card games and a local marbles game known as scattershields.
+Friendly festhall with card games and a local marbles game known as scattershields. Also horseshoe throwing.
 ## Ivy Mansion
 Home of the [[Harpell]] family. Constantly expanding — ongoing tumult of experimental spells going wrong, incorrectly mixed potions exploding, and magical pranks. Few are allowed to visit, and fewer still see more than the central dining and meeting room. This room is a domed, circular hall, known as the Fuzzy Quarterstaff.
-## Longsaddle Livestock Market
+## Livestock Market
 Operates daily. Source of beef and mutton, but horses also reared.
 
 - Donkey/mule: 5 GP
@@ -60,6 +62,11 @@ Operates daily. Source of beef and mutton, but horses also reared.
 
 For 5 gp per carcass, a Harpell will seal fresh meat into a magical shell—fades after 10 days. Keeps the meat cool and sealed. Also conceals scent from predators. Youngest Harpells do this. The monotony encourages the children to experiment with and master stronger magic.
 
+## Ostever's Slaughterhouse
+**Bamall Ostever** the butcher. For those wanting to take home meat rather than live animals.
+- Locals don't buy the sausages.
+- *Rumoured to serve goblin meat*.
+
 ## Hamilton Lewis' Drover Services
 Drovers drive livestock on 12m wide roads (usually via [[Triboar]] > [[Yartar]]). Daily progress of ~9-12 mi. Dogs help control herds. 6 SP per drover and 4 SP per armed assistant per day.
 
@@ -70,13 +77,23 @@ Monsters or brigands sometimes mistake town for easy pickings—unaware the Harp
 Current village elder is Ardanac Harpell, the son of Adanac. Only Harpell bothered with local politics. Ardanac is by no means the most powerful or eldest. By tradition, the oldest Harpell women control the Ivy Mansion.
 
 # NPCs
-- **Ardanac Harpell**
-	- NG 9th level magic-user
-	- Village elder. Only Harpell bothered with politics.
+- **Ardanac Harpell** the Village elder. Neutral good.
+	-  Only Harpell bothered with politics.
+	- *9th level magic-user*
 - **Tolliver Harpell**
+- **Trappy Snulgers** Amiable, paunchy, scatterbrained halfling.
+	- Runs [[#The Gilded Horseshoe (inn)]] with his 16 daughters.
+	- Formerly a trapper.
+	- Opened the inn to give cattle buyers a warm place to stay and a stable for horses.
+	- 
+- **Nalathar Druyn** runs [[#Nalathar's Fine Stirrups & Sundries]].
+- **Bamall Ostever** of [[#Ostever's Slaughterhouse]]. Portly human male. Apron smeared with blood. Blubous red nose.
+	- Firmly denies serving goblin meat. Goes a bit over the top about it.
+	- *Old home was destroyed by goblins.*
+	- *Grinds goblins and orcs into sausages.*
 # Rumours
 _Six rumours: two truths, two half-truths, two false_
-- One Harpell went to investigate the [[Temple of Bahamut]] but hasn't returned.
+- **Haversham Harpell** went to investigate the [[Temple of Bahamut]] but hasn't returned.
 	- Other town members have also gone missing. They happen to be the ones who go to the [[Temple of Bahamut]]
 - [[Erynel]] was seen here, about a month ago.
 	- Erynel Poem ![[Erynel#^beggar]]
@@ -87,7 +104,7 @@ _Six rumours: two truths, two half-truths, two false_
 
 # Quest Hooks
 - [ ] [[Clear the Church]]
-- [ ] [[Find the Harpells]]
+- ![[Quests#Rescue Harpell]]
 - Escort wagon
 - Clear griffon nest (witcher griffon hunt)
 - Clear orc camp

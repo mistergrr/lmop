@@ -11,7 +11,9 @@ Player: Brad Dusting
 Titles:
 ---
 # Titles
-
+# Gamer Type
+- Min-maxer. Give chance to use cool abilities.
+- Actor. 
 # Background
 - Born in the **slums** of [[Mintarn]]
 - **Clanless** runt left to fend for himself.

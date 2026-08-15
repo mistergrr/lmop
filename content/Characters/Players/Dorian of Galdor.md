@@ -14,6 +14,8 @@ tags:
 **Age**: x years old.
 **Lifespan**: 750 years
 ᚴᛅᛚᛏᚬᛦ — Galdor
+# Gamer Type
+Actor. 
 # Titles
 Excommunicated Prince of Galdor
 # Background

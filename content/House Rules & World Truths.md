@@ -1,3 +1,7 @@
+## Character Creation
+- Use standard array or point buy
+
+## Gameplay
 - Backstabs ignore shields
 - Perkins crit (add max die damage)
 - Health potions outside combat restore max roll
@@ -6,6 +10,8 @@
 - Nat 1s gain worldbuilding token
 - Strength (Intimidation) 
 - Sleeping in armour gains exhaustion
+- "Stunned" condition replaced with "dazed."
+	- Can only do one of the following things: move, use an action, or use a bonus action. Removed with restoration spells.
 
 ### Dungeon turns: 
 - Slow = 2 turns, auto success 
