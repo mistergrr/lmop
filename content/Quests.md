@@ -17,7 +17,7 @@
 		- 50gp
 		- +1 Lionshield #rep
 ## Arc 2 | Phandalin
-- [ ] Halia's Job Offer <**Stasia has forgotten about this**> ^eliminate-redbrands
+- [ ] ~~Halia's Job Offer~~ ^eliminate-redbrands
 	- Tasks:
 		- [ ] Eliminate [[Iarno Albrek]]
 		- [ ] Bring any correspondence found
@@ -132,7 +132,7 @@
 		- Guide to [[Wave Echo Cave]]
 		- Join The [[Emerald Enclave]]
 		- +1 [[Emerald Enclave]] #rep
-- [ ] A Mayor in Hand ^mayor-in-hand
+- [ ] ~~A Mayor in Hand~~ ^mayor-in-hand
 	- Quest Giver: [[Halia Thornton]]
 	- Task: Protect or allow [[Harbin Wester]] to be assassinated by [[Redbrands]]
 	- **Rewards**:
@@ -168,7 +168,7 @@
 	- **New subclass:** Clockwork Sorcerer.
 ## Eldon's Penance
 Eldon must perform an ancient ritual to bind their soul to the shadows once more, restoring their lost ability.
-- [ ] Find the [[Shadow Codex]] ^eldon-find
+- [x] Find the [[Shadow Codex]] ^eldon-find
 - [ ] [[Ritual of the Angels]]
 ![[Shadow Codex#The Ritual]]
 ![[Shadow Codex#Reward]]
@@ -211,7 +211,7 @@ Tier 2
 - [ ] Retrieve [[Amulet of Focus]] ^obtain-relic1
 	- Location: [[Goblin Gully]]
 		- On the body of the wizard, Flangdar
-	- **Reward**: Gems worth 200gp, favours.
+	- **Reward**: Gems worth 200gp, info that [[Erynel]] last seen in [[Longsaddle]].
 - [ ] [[Clear the Church]] ^clear-church
 	- Location: [[Temple of Bahamut]]
 	- Tasks: 
@@ -283,3 +283,15 @@ The hag will help get [[Erynel]] in exchange for something.
 - [ ] Save Haversham Harpell from the cultists at [[Temple of Bahamut]]
 	- **Quest giver**: Ardanac Harpell
 	- **Reward**: Gentle Repose spell scroll
+## Phandalin Cattle Run
+Billy Bob has purchased 60 longhorns and 20 mules in [[Longsaddle]]. He guards to accompany the cowboys in driving them to Phandalin. At 10-15mi. per day, route should take 23 days via [[Triboar Trail]].
+- [ ] Accompany the caravan to [[Phandalin]].
+	- **Quest giver**: Billy Bob
+	- **Escorts**: Trail boss, 5 cowboys, muleteer, all in horses. Cook in wagon.
+	- **Turn in**: Bobby Bill
+	- **Reward**: 50 GP up front + 200 GP on successful delivery.
+## Griffon Grief
+Follows the Witcher 3 quest.
+- [ ] Clear the [[Griffon]] nest near [[Longsaddle]]
+	- **Turn in**: Ardanac Harpell
+	- **Reward**: 

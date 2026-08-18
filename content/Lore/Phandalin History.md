@@ -1,8 +1,6 @@
 ---
 Category: Lore
 ---
-Village northeast of [[Leilon]]. Road that runs from the High Road to [[Triboar]] turns into a trail. 
-
 Largely abandoned long ago after orc attacks from the mountains east of Leilon. Lead by chieftain Uruth, they expanded steadily, building a realm they called Uruth Ukrypt (roughly, "Home of Uruth"). Name echoed today in the [[Kryptgarden Forest]]. 400 years have passed since. Concerted human attacks ended their kingdom and almost drove them out entirely.
 
 Phandalin had been an important farming centre before the orcs conquered it. 

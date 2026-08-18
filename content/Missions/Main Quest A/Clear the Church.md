@@ -112,7 +112,8 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A13. West Stairs.
 >Lead up to [[#A24 Lay Monks' Dorms]].
 ## A14. Kitchen.
->Blood trail leads from [[#A3. Stables.]] Chopping and hacking sounds. 4 **Cultists** carve a horse in preparation to cook a **stew**. Wield cleavers (1d6). 
+>Blood trail leads from [[#A3. Stables.]] Chopping and hacking sounds. 4 **Cultists** carve a horse in preparation to cook a **stew**. Wield cleavers (1d6).
+- Melted and strained horse fat poured into candle moulds.
 - Stew is cabbage, onions, peas, beans. 
 ## A15. Refectory.
 >Dining hall. **1d4+2 Imps** and **2d6 Cult Acolytes** play cards, eat. The imps are drinking wine. The humans complain they're not allowed to drink.

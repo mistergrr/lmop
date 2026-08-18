@@ -10,7 +10,7 @@ Tags:
 - North from [[Waterdeep]]: 18 days
 
 **Location**: [[Starmetal Hills]]
-**Government**: Council of elders. Member of [[The Lord's Alliance]].
+**Government**: Ardanac Harpell village elder. Member of [[The Lord's Alliance]].
 **Population**: 130 (1,100 if outlying farms and ranches are included)
 **Population Diversity**: Human 70%, Halfling 20%, other 10%
 **Languages**: Common, halfling
@@ -93,8 +93,8 @@ Current village elder is Ardanac Harpell, the son of Adanac. Only Harpell bother
 	- *Grinds goblins and orcs into sausages.*
 # Rumours
 _Six rumours: two truths, two half-truths, two false_
-- **Haversham Harpell** went to investigate the [[Temple of Bahamut]] but hasn't returned.
-	- Other town members have also gone missing. They happen to be the ones who go to the [[Temple of Bahamut]]
+- **Haversham and Cadmonton Harpell** went to investigate the [[Temple of Bahamut]] but haven't returned.
+	- Other town members have also gone missing. They happen to be the ones who frequent the [[Temple of Bahamut]]
 - [[Erynel]] was seen here, about a month ago.
 	- Erynel Poem ![[Erynel#^beggar]]
 - Ostever's Slaughterhouse serves goblin meat.
@@ -105,6 +105,6 @@ _Six rumours: two truths, two half-truths, two false_
 # Quest Hooks
 - [ ] [[Clear the Church]]
 - ![[Quests#Rescue Harpell]]
-- Escort wagon
-- Clear griffon nest (witcher griffon hunt)
+- ![[Quests#Phandalin Cattle Run]]
+- ![[Quests#Griffon Grief]]
 - Clear orc camp

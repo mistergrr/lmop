@@ -68,10 +68,14 @@ Eldina fires flaming arrows into the 3 bonfires. The one with wolfsbane does wel
 
 >Combat lasted 7 rounds, but everyone enjoyed it. Said it was varied enough to keep it interesting. Seeing their effort put into making traps pay off was rewarding.
 # Day 67 | Who Wants to be a Wizardaire
+Thia gets 10 of 15 questions correct, winning two prizes: Membership to the library and **Well Learned**: Permanent +1 increase to Intelligence; Gain proficiency in Arcana and History. If already have proficiency, gain expertise.
 
+She dealt 307 damage in total.
+
+Eldina makes a copy of the [[Shadow Codex]]. Dorian found an Erynel poem, but hasn't registered yet.
 
 # Summary
-The party defend [[Twilight Tor]] from a [[Werewolf]] attack. [[Thia Galanodel|Thia]] passes [[Who Wants to be a Wizardaire]] to fix her bane at the [[Library of Whispers]]
+The party defend [[Twilight Tor]] from a [[Werewolf]] attack. [[Thia Galanodel|Thia]] passes [[Who Wants to be a Wizardaire]] to fix her bane at the [[Library of Whispers]]. [[Eldina Tosscobble|Eldina]] recieves a copy of the [[Shadow Codex]]. [[Dorian of Galdor|Dorian]] finds an [[Erynel]] poem.
 ^summary
 # Kills
 - [[Dorian of Galdor]]: 3 dire wolf, 1 werewolf
