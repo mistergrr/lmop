@@ -18,9 +18,11 @@ a h1, a h1 *, a h2, a h2 * {
     font-weight: 600;
     color: darkslategrey;
 }
-html, body, p {
-    font-family: "Vollkorn", serif !important;
+html, body {
     background-color: #f0e6d4 !important;
+}
+html, body, p, p>a.internal-link {
+    font-family: "Vollkorn", serif !important;
 }
 a:link, a:visited {
     color: darkslategrey !important
@@ -40,4 +42,7 @@ blockquote {
 }
 .active-popover, .popover {
     background-color: #faf8f8 !important;
+}
+.explorer-content {
+    padding: 1em;
 }
