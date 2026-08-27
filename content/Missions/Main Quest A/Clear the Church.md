@@ -71,75 +71,82 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ![[Longsaddle-Abbey.jpg]]
 ## A1.	Gatehouse.
 >Two-story stone structure. Open gateway. Statue of dragon and plaque, reading “Bahamut” in draconic. Guarded by 2 [[Devils#Spined Devil|Spined Devils]] and 2 **Cult Fanatics**.
-
 - **Spined Devils**. Stand in second-story windows. Shoot from cover.
 - **Cultists**. Carry [[Book of Ashmadai]]
 ## A2. Outer Courtyard.
->Walled square. **Empty cart** sits in the south near stables. 
+>Walled square. Empty cart sits in the south near stables. 
 ## A3. Stables. 
 >**Straw**-covered floor and haybales. **Tools** hang on hooks (bridle hooks, grooming brushes, harnesses). Spare wagon parts in corner. **Blood** everywhere, trails leading to kitchen and cellar, soaking into straw. 
-
-- **Trapdoor**. (DC 15 Study) Found under pile of straw. Shortcut to crypts.
+- **Straw** soaked in blood. Running to one corner.
+	- **Trapdoor**. (DC 15 Study) Found under pile of straw. Shortcut to crypts.
 ## A4. Infirmary.
->"Igesthu's Infirmary" plaque. 12 cots, buckets, chamber pots. 2d4 [[Devils#Imp|Imps]] and 2d6+2 **Cult Acolytes** are looting the cupboards.
+>"Igesthu's Infirmary" plaque. 12 cots, buckets, chamber pots. 2d4 [[Devils#Imp|Imps]] and 2d6+2 **Cult Acolytes** are looting the **cupboards**.
 
 - **Cult Acolytes**. Carry *Book of Ashmadai*
-- **Treasure**. 5 health potions. Needles and thread. 2 holy symbols (50 SP each).
+	- **Treasure**. 5 health potions. Needles and thread. 2 holy symbols (50 SP each).
 ## A5. Vegetable Garden.
->**Crop** plots (cabbage, onions, peas, beans). 2 swarms of [[Devils#Lemure|Lemures]] roam the patches.
-
-- **2 Lemure Swarms**. Will fight
+>Crop plots (cabbage, onions, peas, beans). 2 swarms of [[Devils#Lemure|Lemures]] roam the patches.
+- **2 Lemure Swarms**. Will fight.
 ## A6. Granary.
->Space cleared for incoming harvest. Some grains on floor.
-
-- 2d4 [[Devils#Lemure|Lemures]] sit in the shadows. Murmur infernal nonsense and afraid of everyone.
+>Space cleared for incoming harvest. Some grains on floor. **Murmuring** from the shadows.
+- **Murmuring**. 2d4 [[Devils#Lemure|Lemures]] sit in the shadows. whisper infernal nonsense and afraid of everyone.
 ## A7. Orchard.
 >Pear, plum, and apple trees.
 ## A8. Cemetery.
 >A [[Devils#Chain Devil|Chain Devil]] roams.
 - **Chain Devil**. Make a DC 11 Stealth check.
 ## A9. Belfry.
->Unfinished, with open top 40’ up. Construction materials and scaffolding litter surrounds. **2 [[Devils#Spined Devil|Spined Devils]]** keep watch, shooting intruders below.
+>Unfinished, with open top 40’ up. Construction materials and scaffolding litter the area.
+**Danger**. 2 [[Devils#Spined Devil|Spined Devils]] keep watch, shooting intruders below.
 ## A10. Narthex.
->Dragon gargoyles flank double doors to outside. More double doors to chapel within. Inside, 4 **imps** disguised as gargoyles. **Chanting** coming from within [[#A23. Church]].
+>Dragon-shaped gargoyles flank double doors to outside. More double doors to chapel within.
+- Inside, 4 **imps** disguised as gargoyles. 
+- **Chanting** coming from deeper, within [[#A23. Church]].
 ## A11. Porter’s lodge.
 >Tapestries torn down and burnt.
 ## A12. Cellar.
->Wine racks, kegs, and storage **creates** fill with food (grains, vegetables). **Horse carcasses** hang on hooks to dry, dripping blood. 
+>**Kegs**, and **crates**. Horse carcasses hang on hooks to dry, dripping **blood**.
 
-- **Kegs** have "Abstain for Asmodeus" signs. _Magically trapped_ trigger: touch (DC 14 CON save or 11 (2d10) poison).
-- **Trapdoor**. (DC 15 Study) Hidden under crates. Strange noises and smell of **sulphur**. Leads to *A26. Crypts*.
+- **Kegs**. Apple and pear ciders. "Abstain for Asmodeus" signs. _Magically trapped_ trigger: touch (DC 14 CON save or 11 (2d10) poison).
+- **Crates**. Cheese, potatoes, kimchi, smoked meat.
+- **Blood** runs under some crates.
+	- (DC 13 PER) Smell of **sulphur**
+	- **Trapdoor**. (DC 15 Study) Hidden under crates. Strange noises and smell of **sulphur**. Leads to *A26. Crypts*.
 ## A13. West Stairs.
 >Lead up to [[#A24 Lay Monks' Dorms]].
 ## A14. Kitchen.
->Blood trail leads from [[#A3. Stables.]] Chopping and hacking sounds. 4 **Cultists** carve a horse in preparation to cook a **stew**. Wield cleavers (1d6).
-- Melted and strained horse fat poured into candle moulds.
-- Stew is cabbage, onions, peas, beans. 
+>Blood trail leads from [[#A3. Stables.]] (DC 13) Chopping and hacking sounds. 4 humans carve a horse in preparation to cook a **stew**. Melted and strained animal fat poured into candle moulds.
+- **Stew** is cabbage, onions, peas, beans.
+- **Humans**. Wield cleavers (1d6).
 ## A15. Refectory.
->Dining hall. **1d4+2 Imps** and **2d6 Cult Acolytes** play cards, eat. The imps are drinking wine. The humans complain they're not allowed to drink.
+>Dining hall. **1d4+2 Imps** and **2d6 Cult Acolytes** play cards, eat.
+- **Imps** drinking wine (immune poison). The humans complain they're not allowed to drink.
 - **Cultists**. Carry *Book of Ashmadai* and coins (180 cp, 80 sp, 5 gp).
 ## A16. Warming Room.
->Large **fireplace** warms the room. Religious **art** torn down and thrown into fire. **Furniture** (benches, thick curtains, robe-drying rack). Only heated room besides kitchen. **2 Imps** play in the fire.
-
+>Large fireplace warms the room. Religious art torn down and thrown into fire. Furniture (benches, thick curtains, robe-drying rack). Only heated room besides kitchen. **2 Imps** play in the fire.
 - **Imps**. Turn invisible or shapeshift. Fight with hot pokers (1d4 fire) if attacked.
 - **Loot**. Lamp oil, torches, fireplace tools (poker, kindling, tongs).
 ## A17. Choir Monks’ Dorms.
->10 cots. Humans are resting in them.
+>10 cots. Humans are resting in them. Another **door** in the back.
 - **2d6 Cult Fanatics** resting. Carry *Book of Ashmadai* and coins (115 cp, 100 sp, 2 gp).
-- **Latrines**. 1 **Cult Fanatic**, *John Johnson*, on the toilet. Avoids fighting.
+- **Door** leads to latrines.
+	- One cultist, *John Johnson*, on the toilet. Avoids fighting.
 ## A18. East Stairs.
 >Lead up to [[#A25. Abbot’s Quarters]].
 ## A19. Parlour.
->4 **0 HP but stable monks** litter corners. A **Nergaliid** siphons lifeforce from another. Tries to strike deals. Suffer [[Corruptions]] if deal broken.
-- Deal 1: Peace for monks' lives (Keeps monks to feed on). 5 PCs, 5 monk lives.
-- Deal 2: Reveal the cult leader’s plan in trying to summon Asmodeus for "Fireball me."
-- Deal 3: Magic item for [[A bit of folded cloth that, when unfolded, turns into a stylish cap that casts Power Word Daze]]
-- **If attacked**: Turn monks into allied [[Undead#Rotfiends & Devourers|Rotfiends]]
+>Four **monks** litter corners. A **Nergaliid** siphons lifeforce from a fifth. 
+- **Monks**. 0 HP but stable. Will turn into [[Undead#Rotfiends & Devourers|Rotfiends]] if combat occurs.
+- **Nergaliid**. Tries to strike deals. Suffer [[Corruptions]] if deal broken.
+	- Deal 1: Peace for monks' lives (Keeps monks to feed on). 5 PCs, 5 monk lives.
+	- Deal 2: Reveal the cult leader’s plan in trying to summon Asmodeus for "Fireball me."
+	- Deal 3: Magic item for [[A bit of folded cloth that, when unfolded, turns into a stylish cap that casts Power Word Daze]]
+	- **If attacked**: Turn monks and flee.
 ## A20. Chapter House.
 >A **cultist** practices giving a sermon to **3 Lemures** here.
 - **Worship Leader**. Bol Shawnz. Wants to prove himself to Wodd Tight.
 ## A21. Library.
->Signs of [[Iarno Albrek|Glasstaff]]. **Book** on [[Bahamut]] with notes scribbled/highlighted/circled. Erynel poem on parchment.
+>Signs of [[Iarno Albrek|Glasstaff]]. **Glass bookcase** line walls.
+- **Book** on [[Bahamut]] with notes scribbled/highlighted/circled. Erynel poem on parchment.
 - **Glass bookcase**: DC 12 unlock. Can be smashed (noisy).
 	- DCC _Levitate_ and _Magic Shield_ scrolls.
 
@@ -147,11 +154,13 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A22. Cloister.
 >Covered walkways skirt edges. Meditation garden. Large oak tree at the centre. 
 ## A23. Church.
->**Youth Leader** Wodd Tight conducting summoning **ritual** that involve sacrificing [[Harpell]]. 2d4 rounds. 10 **Acolytes**, 5 **nuperribo**, 2 **Fanatics**, 2 **Spined Devils**, 1 **worship leader**.
+>**North transept** has table of things. **South transept** has stairs. **Youth Leader**, surrounded by **cultists** conducting summoning **ritual** that involve sacrificing [[Harpell]] on the **altar**. 2d4 rounds.
 
-- **North transept**. Silver chalice with lapis lazuli
-- *Altar*. Draconic writing across the front. Command word "*Laas Yah Nir*" to open; (DC 15 STR) Move altar.
-- **Wodd Tight**: [[Obsidian Knife]], [[Scroll of Protection from Fiends]].
+- **North transept**. Silver chalice inlaid with lapis lazuli, flask of **Holy Water**.
+- **South transept**. Stairs lead up to [[#A25 Abbott's Quarters]].
+- **Altar**. Draconic writing across the front. Command word "*Laas Yah Nir*" to open; (DC 15 STR) Move altar.
+- **Youth Leader** Wodd Tight: [[Obsidian Knife]], [[Scroll of Protection from Fiends]].
+- **Cultists**. 10 Acolytes, 2 Fanatics, 2 Spined Devils, 1 worship leader.
 - **Summoned Devil**
 	- [[Devils#Bearded Devil (Barbazu)]]: HP 58, AC 13 (CR 3)
 	- [[Devils#Barbed Devil]]: HP 110, AC 15 (CR 5)
@@ -171,21 +180,22 @@ If the leader takes damage, concentration check (DC 10 or half damage taken, whi
 **If [[Harpell]] saved,** [[Magic Item Tracker#^boon-painkiller|Painkiller Boon]]
 
 ## A24 Lay Monks' Dorms
->**4 monks** tied up. Held hostage by **1 worship leader** and **4 cultists**. Among the monks is *Abbott Shedinn Grrrmmballhyst* who has been **muzzled**.
+>Four **monks** tied up. Held hostage by a **worship leader** and **4 cultists**. Among the monks is one in pale blue & silver robes, **muzzled**.
 
-- Monks know [[#Secrets]].
-- **Shedinn Grrrmmballhyst**: 43 year old male copper dragonborn monk. Pale blue & silver robes.
+- **Monks** know [[#Secrets]].
+- **Muzzled priest**. *Shedinn Grrrmmballhyst*: 43 year old male copper dragonborn monk.
 	- **AC** 13, **HP** 35; **Spd** 40ft. **Resist** Acid.
 	- **Claw (x2)**. +5; 6 (1d6+3) slashing.
 	- **Acid Breath (3/day)**. DC 13 DEX save; 15ft cone or 30ft line; 11 (2d10) acid or half.
 	- **Reward for Saving**: [[Raulothim's Psychic Lance Trinket]]
 - Monks: [[#Dragonborn Names]]
 ## A25 Abbott's Quarters
- >Signs of **struggle** — beds overturned, blood splatters.
+ >Signs of struggle — beds overturned, blood splatters. **Belongings** fill room. **Stairs** on north end.
  
- - Ceremonial outfits, silver censer (200 sp), 3x silver chalice (30 sp), bells, candles.
- - Cult leader's diary
- - **Key** to vault in [[#A26. Crypt]]
+ - **Belongings**. Ceremonial outfits, silver censer (200 sp), 3x silver chalice (30 sp), bells, candles.
+ - Cult leader's diary.
+	 - **Key** to vault in [[#A26. Crypt]]
+ - **Stairs** lead to south transept of [[#A23. Church.]].
 ## A26. Crypt.
 >Entrance hidden under altar in [[#A23. Church.]]
 

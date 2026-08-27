@@ -11,6 +11,7 @@ Session length:
 - [x] Cult leader's diary.
 - [x] NPC Cards for abbot & Harpell
 - [x] [[In Search for the Devil's Tome]]
+- [ ] Hand write Glasstaff notes in Book of Bahamut.
 - [[Dorian of Galdor|Dorian]] gets "Lucky" feat for rolling 3 nat20s in a row.
 	- He also found an [[Erynel]] poem
 - Stasia's smuggler contact mechanic works well. +1 inspo

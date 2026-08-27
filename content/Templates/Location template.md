@@ -32,7 +32,7 @@ Pursuit:   Only demons, devils, and Dredmor pursue retreating parties
 
 ### (2) Pact & Penance
 
-> ***Marble statues** flank the entrance. The western one wields a sword called* ***Pact*** *and points it toward the eastern door. The eastern statue wields* ***Penance*** *and points it toward the western door.*
+> **Marble statues** *flank the entrance. The western one wields a sword called* ***Pact*** *and points it toward the eastern door. The eastern statue wields* ***Penance*** *and points it toward the western door.*
 
 - Statues are too heavy to move
 

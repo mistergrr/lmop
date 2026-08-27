@@ -37,7 +37,7 @@ _Reanimated dead who crave brains_.
 - **Ash-tongued**. Damaged only healed after long rest.
 - **Pulsing**. On first hit with piercing/slashing, all within 15ft make DC 11 DEX save; 2 (1d4) poison.
 - **Rushing**. (BA) move 20ft. If a target dashes, use RA to move 20ft.
-## Rotfiends & Devourers
+## Rotfiends, Devourers, Scurvers
 _Exploding necrophages_
 >Resemble decomposing human bodies that have been stripped of their skin. Presence given away by overwhelming stench of rot. Devourers are a particularly dangerous kind of rotfiend marked by an insatiable appetite for human flesh.
 

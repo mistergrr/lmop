@@ -44,6 +44,8 @@ Sentient horn who found a horse host. Water cult in the desert. Close Encounters
 Fairy cages for boons. eg. god of the smell of strawberries; a harvest god who produces bread. Can be destroyed to gain a more powerful version of its blessing.
 
 vending/gacha machine in dungeon. Borderlands iridium vendor in dungeons. The licc puzzle.
+
+Hatter's guild.
 **[[The Black Spider]] trial: what's the charge?**
 # Locations
 - [[Baldur's Gate]] = Night City. Death to corpos, choom. Also, Florence.
