@@ -26,12 +26,12 @@ a.internal {
 }
 h1, h1 *, h2, h2 *,
 a h1, a h1 *, a h2, a h2 * {
-    font-family: var(--headerFont);
+    font-family: var(--headerFont) !important;
     font-weight: 600;
     color: darkslategrey;
 }
 h3, h3 *, h4, h4 *, h5, h5 *, h6, h6 * {
-    font-family: var(--font-text);
+    font-family: var(--headerFont) !important;
     color: darkslategrey;
 }
 html, body {
@@ -60,7 +60,7 @@ blockquote {
     background-color: rgba(255, 255, 255, 0.7) !important;
     backdrop-filter: blur(8px) !important;
 }
-.active-popover, .popover {
+.active-popover, .popover, .popover-inner {
     background-color: var(--background-secondary) !important;
 }
 .explorer-content {
@@ -70,4 +70,7 @@ blockquote {
     div.sidebar.left {
         background-color: var(--background-primary);
     }
+}
+.table-container {
+    margin-bottom: 1em;
 }
