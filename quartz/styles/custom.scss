@@ -3,19 +3,20 @@
 // put your custom CSS here!
 
 :root {
-  --background-primary: #f0e6d4;
-  --background-secondary: #faf8f8;
-  --headerFont: "Metamorphous", serif;
-  --titleFont: "Metamorphous", serif;
-  --font-text: "Vollkorn", serif;
-  --font-interface: "Vollkorn", serif;
-  --bodyFont: "Vollkorn", serif;
-  --h1-font: Metamorphous;
-  --h2-font: Metamorphous;
-  --h3-font: Metamorphous;
-  --h4-font: Metamorphous;
-  --h5-font: Metamorphous;
-  --h6-font: Metamorphous;
+    --background-primary: #f0e6d4;
+    --background-secondary: #faf8f8;
+    --headerFont: Metamorphous;
+    --titleFont: Metamorphous;
+    --font-text: Vollkorn;
+    --font-interface: Vollkorn;
+    --bodyFont: Vollkorn;
+    --h1-font: Metamorphous;
+    --h2-font: Metamorphous;
+    --h3-font: Metamorphous;
+    --h4-font: Metamorphous;
+    --h5-font: Metamorphous;
+    --h6-font: Metamorphous;
+    --tab-container-background: var(--background-primary);
 }
 .text-highlight {
     background-color: #e4f2ed !important;
@@ -25,8 +26,12 @@ a.internal {
 }
 h1, h1 *, h2, h2 *,
 a h1, a h1 *, a h2, a h2 * {
-    //font-family: var(--headerFont);
+    font-family: var(--headerFont);
     font-weight: 600;
+    color: darkslategrey;
+}
+h3, h3 *, h4, h4 *, h5, h5 *, h6, h6 * {
+    font-family: var(--font-text);
     color: darkslategrey;
 }
 html, body {
