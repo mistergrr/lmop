@@ -41,7 +41,7 @@ The party have chosen to squat in the basement. Potential to be evicted if someo
 
 [[Thia Galanodel|Thia]] and [[Dorian of Galdor|Dorian]] pick flowers in the same area. They find: white flowers, blue flowers, and green foliage.
 
-[[Richtor Helmsley III|Richtor]] finds 10 kegs of ale in [[Tresendar Manor History]]. He hauls one over to Town Hall and enlists [[Sildar Hallwinter|Sildar]] to help with more. [[Sildar Hallwinter|Sildar]] is about to bury the Redbrand bodies. Richtor brings them to the crevasse and dumps them in view of [[Sildar Hallwinter|Sildar]]. **-1 Town #rep**
+[[Richtor Helmsley III|Richtor]] finds 10 kegs of ale in [[Tresendar Manor History]]. He hauls one over to Town Hall and enlists [[Sildar Hallwinter|Sildar]] to help with more. [[Sildar Hallwinter|Sildar]] is about to bury the Redbrand bodies. Richtor brings them to the crevasse and dumps them in view of [[Sildar Hallwinter|Sildar]].
 
 It'll take too long to carry them one by one so [[Richtor Helmsley III|Richtor]] borrows a wagon from [[Elmar Barthen|Barthen]], who loans it for free since it's for the wedding. 9 kegs donated to wedding.
 

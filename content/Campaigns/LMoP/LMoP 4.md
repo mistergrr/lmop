@@ -26,11 +26,11 @@ The rest go to [[Lionshield Coster]] to buy supplies.
 On leaving, three [[Redbrands]] pick a fight.
 
 **Combat**
-> [[Thia Galanodel|Thia]] casts "Sleep," but the only one affected is [[Aric Moonshadow|Aric]] and nearby civilians. She retreats into [[Lionshield Coster]]. [[Richtor Helmsley III|Richtor]] wakes [[Aric Moonshadow|Aric]] and stands as group shield.
+[[Thia Galanodel|Thia]] casts "Sleep," but the only one affected is [[Aric Moonshadow|Aric]] and nearby civilians. She retreats into [[Lionshield Coster]]. [[Richtor Helmsley III|Richtor]] wakes [[Aric Moonshadow|Aric]] and stands as group shield.
 
-> [[Aric Moonshadow|Aric]] "Commands" a [[Redbrands|Redbrand]] to "swing" his weapon, hitting an ally. The Redbrands take turns swinging at [[Richtor Helmsley III|Richtor]], but can't break his defence.
+[[Aric Moonshadow|Aric]] "Commands" a [[Redbrands|Redbrand]] to "swing" his weapon, hitting an ally. The Redbrands take turns swinging at [[Richtor Helmsley III|Richtor]], but can't break his defence.
 
-> [[Thia Galanodel|Thia]] makes a ruffian soil himself and [[Aric Moonshadow|Aric]] blasts him away. [[Richtor Helmsley III|Richtor]] kills another. The last ruffian flees. The two dead ruffians are looted for their cloaks, which are donned by [[Aric Moonshadow|Aric]] and [[Eldina Tosscobble|Eldon]].
+[[Thia Galanodel|Thia]] makes a ruffian soil himself and [[Aric Moonshadow|Aric]] blasts him away. [[Richtor Helmsley III|Richtor]] kills another. The last ruffian flees. The two dead ruffians are looted for their cloaks, which are donned by [[Aric Moonshadow|Aric]] and [[Eldina Tosscobble|Eldon]].
 
 [[Eldina Tosscobble|Eldon]], [[Grrurika]], and [[Ziggywix Tinkerton|Ziggywix]] arrive. [[Ziggywix Tinkerton|Ziggy]] pisses on the dead ruffians and carves "Scum" onto their bodies. His dick is huge.
 

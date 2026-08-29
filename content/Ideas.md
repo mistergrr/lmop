@@ -32,6 +32,7 @@
 - [[Richtor Helmsley III|Richtor]] hires the party to evict This One.
 - Rumours of monster attacks increasing. Job board has notes to get warning messages out. Job 3 location has been wiped out - mystery to solve (cryovain).
 - Hired to escort dirty goods.
+- Halloween: The Shining — Look after haunted hotel over winter off-season.
 # General
 Quiz night at the tav. 
 

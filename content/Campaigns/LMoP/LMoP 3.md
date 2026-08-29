@@ -70,7 +70,7 @@ The party takes a rest and levels up to 2. [[Richtor Helmsley III|Richtor]] skin
 
 In [[Phandalin|Phandalin]], [[Eldina Tosscobble|Eldon]] get a tonne of info on the [[Redbrands]], acquires the quest, [[Quests#^old-owl-well|Old Owl Well]]. She and [[Grrurika]] sleep at Aunty Qelline's farm.
 
-[[Richtor Helmsley III|Richtor]] informs [[Linene Graywind]] of her supplies at the cave and is rewarded 50gp. **+1 Town #rep**
+[[Richtor Helmsley III|Richtor]] informs [[Linene Graywind]] of her supplies at the cave and is rewarded 50gp.
 He uses 20gp to buy himself a shield and splits what's left with the party. He acquires [[Quests#^eliminate-orcs|Orc Trouble]].
 
 [[Thia Galanodel|Thia]] meets [[Sister Garaele]] at the shrine and gets [[Quests#^banshee-bargain|Banshee's Bargain]]. She returns to [[Stonehill Inn]].

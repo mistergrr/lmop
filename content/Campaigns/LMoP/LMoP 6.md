@@ -32,27 +32,27 @@ Jordan join with [[Dorian of Galdor]]. The party, having cleared [[Tresendar Man
 [[Aric Moonshadow]] and [[Korah]] are called away and leave through the tunnel. The rest of the party leave through the cistern. They emerge amongst the rubble of what's left of [[Tresendar Manor History|Tresendar Manor History]].
 
 **Combat**
-> The [[Redbrands|Redbrand]] who fled in the morning has returned with backup: 3 [[Redbrands]] and 2 [[Bugbear]]s. Two melee ruffians and a bugbear lock into battle with [[Richtor Helmsley III|Richtor]] and [[Grrurika]] while the two ruffian archers stand back and shoot. The remaining bugbear goes after the nearest open target — [[Thia Galanodel|Thia]]
-> 
-> [[Richtor Helmsley III|Richtor]] and [[Grrurika]] attack well, but are overwhelmed as [[Thia Galanodel|Thia]] is hammered by the bugbear.
-> 
-> [[Dorian of Galdor]] enters mid-fight, behind the two archers. He recognises [[Eldina Tosscobble|Eldon]] and helps in the battle. He sneak attacks with "Magic Missile" on an archer, killing him in one attack. The party don't notice him yet.
-> 
-> [[Grrurika]] holds off attacks while healing [[Thia Galanodel|Thia]]. [[Eldina Tosscobble|Eldon]] gets in position behind the original ruffian and slashes an X across his back, killing him. [[Thia Galanodel|Thia]] tries putting the bugbear to sleep, but he has too much health and is still dealing a lot of damage.
-> 
-> [[Richtor Helmsley III|Richtor]] is doing good damage to the bugbear in from of him, causing it to bleed profusely, but it's still not going down. [[Thia Galanodel|Thia]] uses "Ray of Frost," but is still taking a lot of damage. [[Ziggywix Tinkerton|Ziggywix]] comes to the rescue, leaping onto the bugbear and stabbing it.
-> 
-> [[Dorian of Galdor|Dorian]] dodges the archer's shots and crits with "Magic Missile," killing him.
-> 
-> The bugbear throws [[Ziggywix Tinkerton|Ziggywix]] off of him, sending [[Ziggywix Tinkerton|Ziggy]] crashing into the rubble. [[Ziggywix Tinkerton|Ziggy]] crumples in a heap. 
-> 
-> [[Dorian]] now helps [[Richtor Helmsley III|Richtor]] out, casting "Fire Bolt" on the bugbear. It's a crit, but he does low damage. [[Richtor Helmsley III|Richtor]] notices [[Dorian of Galdor|Dorian]] then shifts focus to the ruffian and slashes a deep wound into him.
-> 
-> [[Grrurika]] heals [[Ziggywix Tinkerton|Ziggywix]] and [[Thia Galanodel|Thia]] The bugbear shifts its focus to her, giving [[Thia Galanodel|Thia]] a breather. He's doing a lot of damage to everyone. 
-> 
-> [[Dorian of Galdor|Dorian]] casts "Magic Missile" again, directing one bolt to the bugbear and the other two to the last ruffian. They're all kill shot and [[Dorian of Galdor|Dorian]] nabs a two-for-one.
-> 
-> The final bugbear manages to down [[Grrurika]]. [[Thia]] disengages to drag [[Grrurika]] to safety, stabilising her. [[Eldina Tosscobble|Eldon]], in a fit of rage against the bugbear, jumps onto its back and stabs it to death, decapitating it and throwing its head against the rubble.
+The [[Redbrands|Redbrand]] who fled in the morning has returned with backup: 3 [[Redbrands]] and 2 [[Bugbear]]s. Two melee ruffians and a bugbear lock into battle with [[Richtor Helmsley III|Richtor]] and [[Grrurika]] while the two ruffian archers stand back and shoot. The remaining bugbear goes after the nearest open target — [[Thia Galanodel|Thia]]
+
+[[Richtor Helmsley III|Richtor]] and [[Grrurika]] attack well, but are overwhelmed as [[Thia Galanodel|Thia]] is hammered by the bugbear.
+
+ [[Dorian of Galdor]] enters mid-fight, behind the two archers. He recognises [[Eldina Tosscobble|Eldon]] and helps in the battle. He sneak attacks with "Magic Missile" on an archer, killing him in one attack. The party don't notice him yet.
+
+[[Grrurika]] holds off attacks while healing [[Thia Galanodel|Thia]]. [[Eldina Tosscobble|Eldon]] gets in position behind the original ruffian and slashes an X across his back, killing him. [[Thia Galanodel|Thia]] tries putting the bugbear to sleep, but he has too much health and is still dealing a lot of damage.
+
+[[Richtor Helmsley III|Richtor]] is doing good damage to the bugbear in from of him, causing it to bleed profusely, but it's still not going down. [[Thia Galanodel|Thia]] uses "Ray of Frost," but is still taking a lot of damage. [[Ziggywix Tinkerton|Ziggywix]] comes to the rescue, leaping onto the bugbear and stabbing it.
+
+[[Dorian of Galdor|Dorian]] dodges the archer's shots and crits with "Magic Missile," killing him.
+
+The bugbear throws [[Ziggywix Tinkerton|Ziggywix]] off of him, sending [[Ziggywix Tinkerton|Ziggy]] crashing into the rubble. [[Ziggywix Tinkerton|Ziggy]] crumples in a heap. 
+
+[[Dorian]] now helps [[Richtor Helmsley III|Richtor]] out, casting "Fire Bolt" on the bugbear. It's a crit, but he does low damage. [[Richtor Helmsley III|Richtor]] notices [[Dorian of Galdor|Dorian]] then shifts focus to the ruffian and slashes a deep wound into him.
+
+[[Grrurika]] heals [[Ziggywix Tinkerton|Ziggywix]] and [[Thia Galanodel|Thia]] The bugbear shifts its focus to her, giving [[Thia Galanodel|Thia]] a breather. He's doing a lot of damage to everyone. 
+
+[[Dorian of Galdor|Dorian]] casts "Magic Missile" again, directing one bolt to the bugbear and the other two to the last ruffian. They're all kill shot and [[Dorian of Galdor|Dorian]] nabs a two-for-one.
+
+The final bugbear manages to down [[Grrurika]]. [[Thia]] disengages to drag [[Grrurika]] to safety, stabilising her. [[Eldina Tosscobble|Eldon]], in a fit of rage against the bugbear, jumps onto its back and stabs it to death, decapitating it and throwing its head against the rubble.
 
 Everyone sees [[Dorian of Galdor|Dorian]] now and [[Eldina Tosscobble|Eldon]] reunites, introducing him to the gang. [[Thia Galanodel|Thia]] leads everyone to the shrine for healing. [[Richtor Helmsley III|Richtor]] carries [[Grrurika]] there.
 
@@ -65,7 +65,7 @@ Everyone sees [[Dorian of Galdor|Dorian]] now and [[Eldina Tosscobble|Eldon]] re
 The party goes back to [[Tresendar Manor History|Tresendar]] to loot bodies. [[Dorian of Galdor|Dorian]] goes to the nearby forest to gather spell components.
 
 **Eldon and Richtor**
-[[Eldina Tosscobble|Eldon]] and [[Richtor Helmsley III|Richtor]] go to town hall to suss if [[Sildar Hallwinter|Sildar]] is also working with [[The Black Spider]]. [[Harbin Wester]] and [[Sildar Hallwinter|Sildar]] are very alarmed and worried about the carved up Redbrand bodies that were strung up in town square. [[Richtor Helmsley III|Richtor]] explains to them that they cleared the town of [[Redbrands]], but [[Iarno Albrek]] got away. **+3 Town #rep**.
+[[Eldina Tosscobble|Eldon]] and [[Richtor Helmsley III|Richtor]] go to town hall to suss if [[Sildar Hallwinter|Sildar]] is also working with [[The Black Spider]]. [[Harbin Wester]] and [[Sildar Hallwinter|Sildar]] are very alarmed and worried about the carved up Redbrand bodies that were strung up in town square. [[Richtor Helmsley III|Richtor]] explains to them that they cleared the town of [[Redbrands]], but [[Iarno Albrek]] got away.
 
 [[Eldina Tosscobble|Eldon]] searches [[Sildar Hallwinter|Sildar]]'s thing to see if he's bad. Nothing nefarious turns up, so he gives [[Richtor Helmsley III|Richtor]] a thumbs up.
 
