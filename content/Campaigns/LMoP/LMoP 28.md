@@ -36,8 +36,8 @@ Session length:
 - [[Ashmadai]]
 - [[Devils]]
 
-## Starting Scene
-The party complete their research and leave the library, and Thia, behind. Outside, [[Hamun Kost]] bumps into them on his way to the library. If the party provoke, he casts *circle of diarrhoea* (DC 14 CON save) on them (+1 exhaustion) and retreats.
+## Opening Scene
+After a farewell from Thia, the party complete their research and leave the library, and Thia, behind. Outside, [[Hamun Kost]] bumps into them on his way to the library. If the party provoke, he casts *circle of diarrhoea* (DC 14 CON save) on them (+1 exhaustion) and retreats.
 # Day 68
 
 # Summary
