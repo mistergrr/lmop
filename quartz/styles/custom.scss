@@ -5,6 +5,8 @@
 :root {
   --background-primary: var(--light);
   --background-secondary: var(--lightgray);
+  --headerFont: "Metamorphous", serif;
+  --font-text: "Vollkorn", serif;
 }
 .text-highlight {
     background-color: #e4f2ed !important;
@@ -14,15 +16,15 @@ a.internal {
 }
 h1, h1 *, h2, h2 *,
 a h1, a h1 *, a h2, a h2 * {
-    font-family: "Metamorphous", serif !important;
+    //font-family: "Metamorphous", serif !important;
     font-weight: 600;
     color: darkslategrey;
 }
 html, body {
-    background-color: #f0e6d4 !important;
+    background-color: var(--light) !important;
 }
 html, body, p, p>a.internal-link {
-    font-family: "Vollkorn", serif !important;
+    //font-family: "Vollkorn", serif !important;
 }
 a:link, a:visited {
     color: darkslategrey !important
@@ -34,20 +36,20 @@ blockquote {
     transition: border-color .2s;
 }
 .center {
-    background-color: #faf8f8 !important; 
+    background-color: var(--lightgray) !important; 
 }
 .search-container, .explorer-content {
     background-color: rgba(255, 255, 255, 0.7) !important;
     backdrop-filter: blur(8px) !important;
 }
 .active-popover, .popover {
-    background-color: #faf8f8 !important;
+    background-color: var(--lightgray) !important;
 }
 .explorer-content {
     padding: 1em;
 }
 @media (max-width: 800px) {
     div.sidebar.left {
-        background-color: #f0e6d4;
+        background-color: var(--light);
     }
 }
