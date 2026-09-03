@@ -5,6 +5,8 @@
 - [ ] town and tower maps
 # Hooks
 The town leader, Robbie Walton, hires the party to spy on Vic Frankstein to find out what's going on with his mysterious tower. Vic has been acting erratic  lately, and the townsfolk are uneasy about the sudden increase in lightning striking the top of the tower.
+
+Reynold Ryans' head somehow went missing during an autopsy a year ago, and nobody has been brought to justice! His widow, Blake, wants to know what happened, and is willing to pay for closure.
 # What's Really Going On
 - Vic Frankstein has been experimenting with bringing people back to life using science. He has been stealing body parts and stitching them together. *Ultimate goal is to resurrect his wife*.
 - If the party reveal Vic's actions to the townsfolk, they will take up pitchforks and torches to storm Vic's tower.
@@ -15,25 +17,26 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 - [[Scroll of Darkness]]
 - Charm of False Life
 # Rumours & Secrets
-- A few folk actually like Vic. He has raised some of their pets from the dead—barely held together zombie animals, but the owners don't seem to notice. Some hybridized?
-- Vic killed his wife and chopped her up 7 years ago.
-- Lightning never strikes anywhere but Vic's tower. 
-- Digging sounds and darks figures in the cemetery at night.
-- Vic has been bragging about being "so close to perfection."
+- A few folk actually like Vic. He has raised some of their pets from the dead—barely held together zombie animals, but the owners don't seem to notice.
+- Vic **killed his wife** and chopped her up 7 years ago. (Partially true—he did chop her up).
+- **Lightning** never strikes anywhere but Vic's tower. 
+- **Ghosts** in cemetery after sunset. Digging sounds—preparing your grave. Ned Noggins was the last to mention it and now he's dead—coincidence?
+- Vic has been **bragging** about being "so close to perfection."
 - *Deceased have had body parts mysteriously go missing after autopsies*.
 # NPCs
-- **Robbie Walton**. 41 year old orc.
+- **Robbie Walton**. 41 year old orc. Runs general store.
 	- Notes townsfolk who lost loved ones recently: Justine Noggins, Blake Ryans.
-	- Suspicious of Vic—spreads rumours.
+	- Suspicious of Vic—spreads **killed his wife** [[#Rumours|rumour]].
 - **Vic Frankstein**. 48 year old human. Town doctor & mortician.
 	- Wife died 7 years ago.
 	- *Keeps wife's head in a pickle jar.*
 - **Justine Noggins**. Grieving human widow. Dressed in black.
 	- Husband, Ned, died yesterday.
 	- Vic seemed excited when she brought the body in. Commented on its beautiful head.
-	- Hasn't seen the body since it went to the morgue.
 	- Neutral about Vic so far.
+	- *Longs to see Ned one last time. Help her find out when the body will be ready.*
 - **Charlie Night**. Short orc with high pitched voice. Good source of [[#Rumours]].
+	- **Ghosts** [[#Rumours|rumour]]
 	- Appreciates Vic for saving Seymour. Indifferent otherwise.
 	- *Believes there's nothing wrong with Seymour. DC 20 to break delusion.*
 - **Blake Ryans**. 71 year old human female.
@@ -41,7 +44,7 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 	- Doesn't like Vic because Reynold's **head went missing** after autopsy. Funeral was closed casket. "How can a head go missing?"
 	- Clerval reminds her of Reynold.
 	- *Has a crush on Clerval but denies herself out of respect for Reynold.*
-- **Clerval**. 68 year old orc. Always wears a necktie.
+- **Clerval**. 68 year old orc. Always wears a necktie. Runs mortuary.
 	- Moved here **a year ago**.
 	- Friendly to Vic. Sees nothing wrong with bodies missing limbs.
 	- Has a crush on Blake Ryans.
@@ -61,13 +64,22 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 - **Perfect Creation**. [Flesh golem](https://5e.tools/bestiary.html#flesh%20golem_xmm) with lightning rod in it.
 # Areas
 ## The Headless Horseman
->Cobweb-infested tavern run by **Charlie Night**. A **zombie dog** warms itself by the unlit fireplace. A **woman in black** sits in the corner, drinking. Today's special: pumpkin soup 8 cp.
+>Cobweb-infested tavern run by **Charlie Night**. A **zombie dog** warms itself by the unlit fireplace. A **woman in black** sits in the corner, drinking. Today's special: pumpkin soup 8 cp. Bed — 8sp.
 
 - **Charlie Night**. See [[#NPCs]]. Good source of [[#Rumours]].
 - **Zombie Dog**. *Seymour*. No one seems to notice or address obvious undead state.
 	- Ear flings off when scratched — "That's normal."
 	- *Killed by a cart and brought back by Vic.*
 - **Woman in Black**. *Jannie Noggins.* See [[#NPCs]]
+## Orkney's Bee's Knees
+>Souvenir shop run by **Robbie Walton**. Mostly pumpkin-themed items.
+
+- Water gourd — 3 sp
+- Jack-o'-lantern (lamp) — 10 sp
+- Pumpkin backpack — 30 sp
+- Skull carved into shape of pumpkin — 25 gp
+- Pumpkin compass (points to ripe pumpkins) — 50 gp
+- Pumpkin to Carriage spell: Transforms ordinary pumpkin into a horse-drawn carriage (horse not included); 6 hours (ends early at midnight); Ritual — 200 gp
 ## Mortuary
 >Run by Clerval. Cemetery out back.
 
@@ -105,10 +117,13 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 
 - **Body**. Missing head and right arm. Left arm has a wedding **ring**.
 	- **Ring**. Engraved "Vic & Liz, 1463"
+	- Fresh stitches around ankles. Feet don't match calves.
 - **Shelves**. [[Scroll of Darkness]], Charm of False Life.
 
 ### First Floor | Study & library
->Complete mess of books and beakers
+>Complete mess of books and beakers. An undead **parrot** will sound an **alarm** on failed persuasion.
+- **Parrot**. Iago. 
+- **Alarm**. Summons 
 
 ![[Frankstein-Library.jpg]]
 ### Second Floor | Bedroom
@@ -147,27 +162,26 @@ Motivations | Pitfalls
 Discovery | Higher Authority
 Legacy | Justice
 Liz | 
-# Autopsy Reports
-Sterling Archer.
-- Age: 34 years
-- Race: Human.
-- Cause of Death: Brain aneurysm
-- Notes: Torso missing.
 
-Reynold Ryans.
-- Age: 67 years.
-- Race: Orc.
-- Cause of Death: Heart attack.
-- Notes: Head missing.
+# Clues
+>Vic using Ned's head for latest experiment
+- Hook: Justine longs to see Ned one last time. Help her find out when the body will be ready.
+- Vic leaves office with Neds head in bag 
+- Autopsy reports Neds head missing 
+- Neds head missing
 
-Vera Hacklebee.
-- Age: 46 years.
-- Race: Human.
-- Cause of Death: Tooth infection.
-- Notes: Pristine feet.
+>Vic wants to bring Liz back, using stolen body parts
+- Fresh stitches in Bride's feet.
+- Vera's feet grave robbed 
+- Autopsy notes Vera had nice feet
 
-Subject: 
-- Age: 
-- Race: 
-- Cause of Death: 
-- Notes: 
+>Vic has been experimenting with resurrection for a while.
+- Seymour the dog obviously undead.
+- Clerval is undead
+- 
+
+>Clerval is homunculus with Reynold's head 
+- Blake upset at Vic for losing Reynold's head 
+- Clerval showed up soon after Reynold died—reminds Blake of Reynold.
+- Blake and Clerval have a crush on wash other 
+- Clerval hides stitches under necktie

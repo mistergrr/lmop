@@ -1,5 +1,5 @@
 # Narrative Arc A1 | The Lost Mine of Phandelver
-## Arc 1 | Goblin Arrows
+## Chapter 1 | Goblin Arrows
 - [x] Escort the wagon ^escort-wagon01
 	- Quest giver: [[Gundren Rockseeker]]
 	* Location: [[Phandalin]]
@@ -16,7 +16,7 @@
 	- **Rewards**:
 		- 50gp
 		- +1 Lionshield #rep
-## Arc 2 | Phandalin
+## Chapter 2 | Phandalin
 - [ ] ~~Halia's Job Offer~~ ^eliminate-redbrands
 	- Tasks:
 		- [ ] Eliminate [[Iarno Albrek]]
@@ -49,7 +49,7 @@
 	- [x] Clean blood from town square
 	- **Reward**: +2 Phandalin #rep
 
-## Arc 3 | The Spider's Web
+## Chapter 3 | The Spider's Web
 ### Sidequests
 - [[Triboar Trail#Encounters|Triboar Trail Encounters]]
 - [x] [[Ruby Roo's Root]]
@@ -78,7 +78,7 @@
 		- Charm of Divination - 1 use, cast Divination for free.
 		- Riddle to [[Library of Whispers]]
 
-## Arc 4 | Sidequests
+## Chapter 4 | Sidequests
 - [x] The Banshee's Bargain ^banshee-bargain
 	- Quest Giver: [[Sister Garaele]]
 	- Task: Find location of Bowgentle's book
@@ -138,7 +138,7 @@
 	- **Rewards**:
 		- Trinket that casts Greater Invisibility (caster level 7; DC 15; 1,750 gp)
 		- or Ring of Spell Storing (relic, rare)
-## Arc 5 | Wave Echo Cave
+## Chapter 5 | Wave Echo Cave
 - [x] Wave Echo Cave ^wec
 	- Task:
 	- Location: [[Wave Echo Cave]]
@@ -207,11 +207,13 @@ Eldon must perform an ancient ritual to bind their soul to the shadows once more
 # Narrative Arc A2 | The Illusive Patron
 Tier 2
 
-## Arc 1 | Catalyst
+## Chapter 1 | Catalyst
 - [ ] Retrieve [[Amulet of Focus]] ^obtain-relic1
 	- Location: [[Goblin Gully]]
 		- On the body of the wizard, Flangdar
-	- **Reward**: Gems worth 200gp, info that [[Erynel]] last seen in [[Longsaddle]].
+	- **Reward**: Gems worth 200gp. Info on [[Iarno Albrek|Glasstaff]]
+		- Had a son, [[Deuteronomy Albrek]], who died. Hasn't been the same since. Blames himself for not being able to protect his son.
+		- Seen travelling with [[Erynel]] as companion
 - [ ] [[Clear the Church]] ^clear-church
 	- Location: [[Temple of Bahamut]]
 	- Tasks: 
@@ -276,6 +278,8 @@ The party heads back to the [[church]] to stop [[Iarno Albrek|Glasstaff]] and re
 	- **Location**: [[Twilight Tor]]
 	- **Quest giver**: Helga Løderr
 	- **Reward**: Location of [[Library of Whispers]]
+## Halloween 2026
+- [ ] [[Frankstein's Perfect Creation]]
 ## Hag's Bargain
 The hag will help get [[Erynel]] in exchange for something.
 - [ ] Make the deal

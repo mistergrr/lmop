@@ -1,3 +1,9 @@
+---
+Category: Monster
+tags:
+  - monster
+  - monster/goblinoid
+---
 Large but **stealthy** **abductors**. Source of **boogeymen** myth. Love spreading **fear**.
 # Defining Traits & Skills
 - **Bugbear’s Inspiration**. Nearby Goblinoids gain adv. on WIS & CHA saves.

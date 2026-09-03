@@ -13,6 +13,10 @@
 - "Stunned" condition replaced with "dazed."
 	- Can only do one of the following things: move, use an action, or use a bonus action. Removed with restoration spells.
 
+## The World
+- Dwarfs can't use magic (except divine).
+- Only dwarf smiths know how to work steel.
+
 ### Dungeon turns: 
 - Slow = 2 turns, auto success 
 - Normal = 1 turn, normal DC

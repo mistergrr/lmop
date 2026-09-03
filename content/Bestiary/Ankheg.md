@@ -1,3 +1,9 @@
+---
+Category: Monster
+tags:
+  - monster
+  - monster/beast
+---
 # Description
 Chitinous insects larger than a horse, ankhegs burrow close to the surface, creating sprawling underground labyrinths. From these tunnels, they burst forth to dissolve and devour smaller creatures using their **acid**-dripping mandibles and **sprays** of digestive enzymes. These hit-and-run tactics make ankhegs virtually impossible to eradicate—unless they have the bad luck to ambush a party of well-armed adventurers.
 

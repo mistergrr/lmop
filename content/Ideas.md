@@ -34,20 +34,15 @@
 - Hired to escort dirty goods.
 - Halloween: The Shining — Look after haunted hotel over winter off-season.
 # General
-Quiz night at the tav. 
-
-Freaky Friday situation. Someone gets a secret admirer. Kiki's delivery service.
-
-Character stubby holders - Kmart $15  
-  
-Sentient horn who found a horse host. Water cult in the desert. Close Encounters of the Third Kind. 
-
-Fairy cages for boons. eg. god of the smell of strawberries; a harvest god who produces bread. Can be destroyed to gain a more powerful version of its blessing.
-
-vending/gacha machine in dungeon. Borderlands iridium vendor in dungeons. The licc puzzle.
-
-Hatter's guild.
-**[[The Black Spider]] trial: what's the charge?**
+- Quiz night at the tav.
+- Freaky Friday situation. Someone gets a secret admirer. Kiki's delivery service.
+- Character stubby holders - Kmart $15
+- Sentient horn who found a horse host. Water cult in the desert. Close Encounters of the Third Kind. 
+- Fairy cages for boons. eg. god of the smell of strawberries; a harvest god who produces bread. Can be destroyed to gain a more powerful version of its blessing.
+- vending/gacha machine in dungeon. Borderlands iridium vendor in dungeons. The licc puzzle.
+- Hatter's guild.
+- Excalibur: Magic deliberately tied to a bloodline as a manufactured form of "divine right."
+> [!help] [[The Black Spider]] trial: what's the charge?
 # Locations
 - [[Baldur's Gate]] = Night City. Death to corpos, choom. Also, Florence.
 - [[Longsaddle]] has Twin Peaks vibes.

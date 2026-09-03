@@ -1,3 +1,9 @@
+---
+Category: Monster
+tags:
+  - monster
+  - monster/
+---
 # Description
 
 # Lore

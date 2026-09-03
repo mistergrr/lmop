@@ -26,7 +26,7 @@ Despite their warmth and the prevalence of fish, turtles, and other aquatic life
 - Huge wild boars—fine eating, but often at the price of men's lives.
 - Elk, lesser fen deer, and moose.
 - Wolves
-- Bears, owlbears
+- Bears, owlbears, dire bears
 - [[Ankheg]]
 
 **Small**
@@ -39,3 +39,5 @@ Despite their warmth and the prevalence of fish, turtles, and other aquatic life
 **Fish**
 - Salmon
 - Pissfish
+
+Ettercap, Displacer Beast, Corpse Flowers, Rot Trolls, Eladrin (any season), Ogre Battering Ram, Ogre Chain Brute, Gnolls - Witherling, Hunter, Flind, Flesh Gnawer, etc, Warlocks of the Archfey, Hags, Ankhegs, Blights, Centaur, Dryads, Owlbears, Salamanders, Shambling Mounds, Treant

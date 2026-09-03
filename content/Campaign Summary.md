@@ -52,5 +52,9 @@
 ![[LMoP 25#^summary]]
 ## [[LMoP 26]]: Twilight Tor
 ![[LMoP 26#^summary]]
-## [[LMoP 27]]: 
+## [[LMoP 27]]: Who Wants to be a Wizardaire
 ![[LMoP 27#^summary]]
+## [[LMoP 28]]: 
+![[LMoP 28#^summary]]
+## [[LMoP 29]]: 
+![[LMoP 29#^summary]]

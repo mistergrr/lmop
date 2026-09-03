@@ -115,7 +115,9 @@ Located at the [[#Miner's Exchange]]. Main source of town's income. Yearly membe
 # Other Developments
 - [[The Lord's Alliance]] want a lord in Phandalin — elected or installed. Party vote. ([[Richtor Helmsley III]]?)
 - Mithral was mined in [[Wave Echo Cave]]
+- 20% population growth per month.
 # Taxation
+10gp/month per family. Paid in goods or labour. Business tax in gold.
 - **Series A Funding**. Donation/labour request to build town walls. Night watchmen duties.
 - **Series A Funding**. Mines will fund the keep rebuild. Night watchmen duties.
 - **After lord is established**. Taxes on wealth or request for services (paid, but lesser amounts) such as clearing out nearby monster nests.
@@ -125,6 +127,7 @@ Located at the [[#Miner's Exchange]]. Main source of town's income. Yearly membe
 - **Main crops**: oats, barley, potatoes, peas/beans, turnips and cabbage.
 - **Ranches**: 60-100 longhorn cattle, 20–30 horses, 10–20 mules, A small number of bison.
 - **Wildlife**: Bison, Boars, Wild turkeys, Deer, Elk, Wolves, Black bears.
+- **Forestry**: Each household needs a shed of firewood plus construction and repair mats. 1.5mi$^2$ of managed forestry.
 
 # Trade
 **Surrounding farms → Phandalin**: Fresh food, livestock, hay, milk, eggs 

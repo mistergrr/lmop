@@ -1,3 +1,10 @@
+---
+Category: Monster
+tags:
+  - monster/undead
+  - monster
+---
+
 ## Undead Defining Traits & Skills
 - **Immune**: Poison
 # Corporeal
