@@ -130,8 +130,8 @@ Located at the [[#Miner's Exchange]]. Main source of town's income. Yearly membe
 - **Forestry**: Each household needs a shed of firewood plus construction and repair mats. 1.5mi$^2$ of managed forestry.
 
 # Trade
-**Surrounding farms → Phandalin**: Fresh food, livestock, hay, milk, eggs 
+**Surrounding farms → Phandalin**: Fresh food, livestock, hay, milk, eggs.
 
-**Leilon → Phandalin**: Grain, salt, preserved food, wine/beer, manufactured goods, luxury goods 
+**Leilon → Phandalin**: Grain, salt, preserved food, wine/beer, manufactured goods, luxury goods.
 
-**Phandalin → Leilon**: Ore, precious metals, hides, furs and other valuable frontier products
+**Phandalin → Leilon**: Ore, precious metals, hides, furs and other valuable frontier products.

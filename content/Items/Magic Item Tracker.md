@@ -29,6 +29,7 @@ Also see [[Magical Relics]]
 ## Common (10)
 Also see [[Magical Relics]]
 - [ ] [[Armour of Gleaming]]
+- [ ] [[Cloak of Billowing]]
 - [ ] [[Clockwork Amulet]]
 - [ ] [[Boots of False Tracks]]
 - [ ] [[Charlatan's Die]]

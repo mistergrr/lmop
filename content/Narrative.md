@@ -4,48 +4,33 @@ Keywords: consequence, absolution,
 **BBEG**: [[The Black Spider]]
 ## Chapter 1 | Goblin Arrows
 Reach [[Phandalin|Phandalin]]
-- [x] [[Quests#^escort-wagon01|Escort the Wagon to Phandalin]]
-- [x] [[Quests#^rescue-sildar|Rescue Sildar]]
-- [x] Optional side quest: [[Quests#^recover-lionshield|Recover Lionshield Supplies]]
 
 ## Chapter 2 | Phandalin
 Quests in [[Phandalin|Phandalin]]
 - [x] Eliminate the Redbrand Threat
-- [ ] [[Quests#^eliminate-redbrands|Halia's Job Offer]]  <**Stasia has forgotten about this**>
-- [ ] [[Quests#^find-iarno|Find Iarno]]
-- [ ] [[Quests#^arrest-iarno|Bring Iarno to Justice]]
 - [x] [[Quests#^town-wedding|Small Town Wedding]]
+The party is cursed after defiling [[Lathander|Lathander's]] mortal body.
 
 ## Chapter 3 | Helm's Hold
-- [[Triboar Trail#Encounters]]
+Head to Helm's hold for guidance on breaking the divine curses.
 - [x] [[Ruby Roo's Root]]
 
 ## Chapter 4 | The Spider's Web
-- [[Triboar Trail#Encounters]]
 - [x] [[Quests#^rescue-gundren|Rescue Gundren]]
 - [x] [[Reconsecrate the Altar]]
 
 ## Arc 1 Side Quests
 Optional side quests given by [[Phandalin|Phandalin]] residents.
-Level up if the following are completed: target 9,000xp / 5 Quest points
-- [x] [[Quests#^banshee-bargain]] | 200xp | 1 QP
-- [x] [[Orc Trouble]] | 1,250xp | 1 QP
-- [x] [[Old Owl Trouble]] | 1,000xp | 1 QP
-- [ ] [[Quests#^clear-thundertree|Chase off the Dragon]] | 2,000xp | 5 QP
-- [ ] [[Triboar Trail#Encounters|Triboar Trail Encounters]] | 2 QP
-- [x] [[Quests#^mayor-in-hand|A Mayor in Hand]] 
-
-### Thundertree
-- [ ] [[Quests#^mirna-heirloom|Mirna's Heirloom]]
-- [ ] [[Quests#^riedoth|Riedoth the Druid]]
+- [x] [[Quests#^banshee-bargain]] | 200xp
+- [x] [[Orc Trouble]] | 1,250xp
+- [x] [[Old Owl Trouble]] | 1,000xp
 
 ## Chapter 5 | Wave Echo Cave
 Players should be at least level 4.
-
 - [x] [[Wave Echo Cave]]
 Mission: Reclaim Wave Echo Cave
-
 Level up at the end
+
 # Personal Quests | Penance
 ## Dorian's Penance
 - [x] Dorian must conduct a ritual to stabilise his chaotic magic. [[The Arcane Convergence]]
@@ -67,9 +52,7 @@ Level up at the end
 Retrieve [[Amulet of Focus]] ^obtain-relic1
  
 ## Prepare the Stage
-[[Clear the Church]]
-	- **Location**: [[Longsaddle]]
-		- Green, yellow, purple events on the way
+[[Clear the Church]] from devil worshippers so it can be reconsecrated to [[Bahamut]] (the patron god of [[Deuteronomy Albrek]]).
 
 ## 4. Unclear World
 Use best ideas here
