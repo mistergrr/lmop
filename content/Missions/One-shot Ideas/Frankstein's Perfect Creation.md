@@ -4,14 +4,17 @@
 - [ ] Stat blocks
 - [ ] town and tower maps
 # Hooks
-The merchant, Beaufort, hires the party to spy on Vic Frankstein to find out what's going on with his mysterious tower. Vic has been acting erratic  lately, and the townsfolk are uneasy about the sudden increase in lightning striking the top of the tower.
+The merchant, **Beaufort**, has never liked Vic Frankstein, but has nothing concrete to base his distrust on. He hires the party to spy on Vic to find out what's going on with his mysterious tower.
 
-Alphonse Lavenza's head somehow went missing during an autopsy a year ago, and nobody has been brought to justice! His widow, Caroline, wants to know what happened, and is willing to pay for closure.
+Alphonse Lavenza's head somehow went missing during an autopsy a year ago, and nobody has been brought to justice! His widow, **Caroline**, wants to know what happened, and is willing to pay for closure.
+
+**Safie De Lacey** just lost her husband and wants to see him one more time. She asks the adventurers to check the autopsy progress.
 # What's Really Going On
 - Vic Frankstein has been experimenting with bringing people back to life using science. He has been stealing body parts and stitching them together. *Ultimate goal is to resurrect his wife*.
-- If the party reveal Vic's actions to the townsfolk, they will take up pitchforks and torches to storm Vic's tower.
+- If the party reveals Vic's actions to the townsfolk, they will take up pitchforks and torches to storm Vic's tower.
+- If they don't out him, he will continue business as usual.
 # The Setting
-Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing as the adventure starts. The wind is gusty. It's also pumpkin season.
+Town of Orkney is gloomy—foggy, perpetually overcast. It's also pumpkin season. The wind is gusty as a storm brews as the adventure starts. Lightning strikes a tower on the far end of town.
 # Magic Items
 - [[Potion of Comprehension]]
 - [[Scroll of Darkness]]
@@ -23,45 +26,7 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 - **Ghosts** in cemetery after sunset. Digging sounds—preparing your grave. Felix De Lacey was the last to mention it and now he's dead—coincidence?
 - Vic has been **bragging** about being "so close to perfection."
 - *Deceased have had body parts mysteriously go missing after autopsies*.
-# NPCs
-- **Beaufort**. 41 year old orc. Runs general store.
-	- Notes townsfolk who lost loved ones recently: Safie De Lacey, Caroline Lavenza.
-	- Suspicious of Vic—spreads **killed his wife** [[#Rumours|rumour]].
-- **Vic Frankstein**. 48 year old human. Town doctor & mortician.
-	- Wife died 7 years ago.
-	- *Keeps wife's head in a pickle jar.*
-- **Safie De Lacey**. Grieving orc widow. Dressed in black.
-	- Husband, Felix, died yesterday.
-	- Vic seemed excited when she brought the body in. Commented on its beautiful head.
-	- Neutral about Vic so far.
-	- *Longs to see Felix one last time. Help her find out when the body will be ready.*
-- **Robbie Walton**. Orc bartender. Urgency sales tactics. Good source of [[#Rumours]].
-	- **Ghosts** [[#Rumours|rumour]]
-	- Appreciates Vic for saving Seymour. Indifferent otherwise.
-	- *Believes there's nothing wrong with Seymour. DC 20 to break delusion.*
-- **Caroline Lavenza**. 71 year old human female.
-	- Husband, Alphonse, was previous mortician. Died by **heart attack** last year.
-	- Doesn't like Vic because Alphonse's **head went missing** after autopsy. Funeral was closed casket. "How can a head go missing?"
-	- Clerval reminds her of Alphonse.
-	- *Has a crush on Clerval but denies herself out of respect for Alphonse.*
-- **Clerval**. 68 year old orc. Always wears a necktie. Runs mortuary.
-	- Moved here **a year ago**.
-	- Friendly to Vic. Sees nothing wrong with bodies missing limbs.
-	- Has a crush on Caroline Lavenza.
-	- *Homunculus created by Vic.*
-	- ***Stitch marks** hidden under necktie.*
-	- *Has been exhuming bodies for Vic*
-- **Ernest**. 56 year old orc. Vic Frankstein's butler and house guard. Scarred features and chipped tusk.
-	- Completely loyal to Vic.
-	- *Homunculus created by Vic.*
-# Enemies
-- **Vic Frankstein**. [Noble](https://5e.tools/bestiary.html#noble_xmm)
-	- AC 15; HP 9; **Rapier**. +3; 5 (1d8+1) piercing; **Parry (RA)**. +2 AC.
-- **Ernest**. [Tough Boss](https://5e.tools/bestiary.html#tough%20boss_xmm)
-	- AC 14; HP 82; Pack tactics. **Negative Nerves I**: Hit by <5 dmg; take none instead.; **x2 Hammer**. +5; 12 (2d8+3) blunt; Large pushed 10ft.
-- **Crawling Hands**. Minions
-	-  AC 12; HP 2; **Immune**: Necrotic, poison, charm, fright; **Slam (GA)**: x+2; 2x necrotic; **Grab (GA)**. DC x+11 DEX save; grappled.
-- **Perfect Creation**. [Flesh golem](https://5e.tools/bestiary.html#flesh%20golem_xmm) with lightning rod in it.
+
 # Areas
 ## The Headless Horseman
 >Cobweb-infested tavern run by **Robbie Walton**. A **zombie dog** warms itself by the unlit fireplace. A **woman in black** sits in the corner, drinking. Today's special: pumpkin soup 8 cp. Bed — 8sp.
@@ -72,7 +37,7 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 	- *Killed by a cart and brought back by Vic.*
 - **Safie De Lacey**. Dressed in black. Downing drinks. See [[#NPCs]]
 ## Pumpkins R' Us
->Souvenir shop run by **Beaufort**. Mostly pumpkin-themed items.
+>Souvenir shop run by **Beaufort**. Mostly pumpkin-themed items. He will waive payment in exchange for spying on Vic.
 
 - Water gourd — 3 sp
 - Jack-o'-lantern (lamp) — 10 sp
@@ -81,9 +46,12 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 - Pumpkin compass (points to ripe pumpkins) — 50 gp
 - Pumpkin to Carriage spell: Transforms ordinary pumpkin into a horse-drawn carriage (horse not included); 6 hours (ends early at midnight); Ritual — 200 gp
 ## Mortuary
->Run by Clerval. Cemetery out back.
+>Run by Clerval. **Office** with coffin display units. Cemetery out back.
 
-- Has copies of **autopsy reports** except latest (Felix's).
+- **Clerval**. 
+	- Uses ghost rumours as cover to unearth bodies for Vic.
+	- Condition prevents him from seeing ghosts.
+- **Office**. Has copies of **autopsy reports** except latest (Felix's).
 
 ## Cemetery
 >**Tombstones** and **graves**. A headless **ghost** wanders here at night.
@@ -94,7 +62,7 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 	- Motions to grave of Alphonse Lavenza, trying to indicate something.
 
 ## Surgery & Morgue
->Run by Vic Frankstein. Vic is packing up for the day and only has time for conversations with patients. Otherwise has other business to attend to at home. He carries a briefcase and a **cooler bag**. If a player agrees to a health check for 15sp, he will diagnose them with ligma — it's terminal.
+>Run by **Vic Frankstein**. Vic is packing up for the day and only has time for conversations with patients. Otherwise has other business to attend to at home. He carries a briefcase and a **cooler bag**. If a player agrees to a health check for 15sp, he will diagnose them with ligma — it's terminal.
 >
 >**Back room** (locked): A sewn-up cadaver with a missing head lies on an autopsy table. Blood runs from the wound into a bucket. A clipboard with **notes** sits on a desk. **Filing cabinet** against back wall.
 
@@ -127,9 +95,9 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 - **Shelves**. [[Scroll of Darkness]], Charm of False Life.
 
 ### First Floor | Study & library
->Complete mess of books and beakers. An undead **parrot** will sound an **alarm** on failed persuasion.
+>Complete mess of books and beakers. Birdcage with an undead **parrot** — will sound an **alarm** on failed persuasion.
 - **Parrot**. Iago. 
-- **Alarm**. Summons 
+- **Alarm**. Summons hands.
 
 ![[Frankstein-Library.jpg]]
 ### Second Floor | Bedroom
@@ -139,6 +107,9 @@ Town of Orkney is gloomy—foggy, perpetually overcast, and a storm is brewing a
 	- [[Potion of Comprehension]]
 ### Roof
 >Vic is pulling levers of a strange mechanism. Lightning strikes an 8ft tall stitched-together **humanoid**, bringing it to life.
+>
+>If cornered, Vic will try to grab Liz's head and flee.
+
 - **Vic Frankstein** [Noble](https://5e.tools/bestiary.html#noble_xmm)
 	- AC 15; HP 9
 	- **Rapier**. +3; 5 (1d8+1) piercing.
@@ -154,7 +125,7 @@ Patience | Interest
 
 Motivations | Pitfalls
 -- | --
-Blake Ryans | Greed
+Caroline Lavenza | Greed
 Higher Authority | Vengeance
 Peace | 
 
@@ -168,6 +139,10 @@ Motivations | Pitfalls
 Discovery | Higher Authority
 Legacy | Justice
 Liz | 
+
+# Epilogue
+### If Vic set free.
+>Continues to put Liz back together.
 
 # Clues
 >Vic using Felix's head for latest experiment
@@ -191,3 +166,54 @@ Liz |
 - Clerval showed up soon after Alphonse died—reminds Caroline of Alphonse.
 - Caroline and Clerval have a crush on each other 
 - Clerval hides stitches under necktie
+
+# NPCs
+- **Beaufort**. 41 year old orc. Runs general store.
+	- Notes townsfolk who lost loved ones recently: Safie De Lacey, Caroline Lavenza.
+	- Suspicious of Vic—spreads **killed his wife** [[#Rumours|rumour]].
+- **Vic Frankstein**. 48 year old human. Town doctor & mortician.
+	- Wife died 7 years ago.
+	- *Keeps wife's head in a pickle jar.*
+- **Safie De Lacey**. Grieving orc widow. Dressed in black.
+	- Husband, Felix, died yesterday.
+	- Vic seemed excited when she brought the body in. Commented on its beautiful head.
+	- Neutral about Vic so far.
+	- *Longs to see Felix one last time. Help her find out when the body will be ready.*
+- **Robbie Walton**. Human bartender. Urgency sales tactics. Good source of [[#Rumours]].
+	- **Ghosts** [[#Rumours|rumour]]
+	- Appreciates Vic for saving Seymour. Indifferent otherwise.
+	- *Believes there's nothing wrong with Seymour. DC 20 to break delusion.*
+- **Caroline Lavenza**. 71 year old human female.
+	- Husband, Alphonse, was previous mortician. Died by **heart attack** last year.
+	- Doesn't like Vic because Alphonse's **head went missing** after autopsy. Funeral was closed casket. "How can a head go missing?"
+	- Clerval reminds her of Alphonse.
+	- *Has a crush on Clerval but denies herself out of respect for Alphonse.*
+- **Clerval**. 68 year old orc. Always wears a necktie. Runs mortuary.
+	- Moved here **a year ago**.
+	- Friendly to Vic. Sees nothing wrong with bodies missing limbs.
+	- Has a crush on Caroline Lavenza.
+	- *Homunculus created by Vic.*
+	- ***Stitch marks** hidden under necktie.*
+	- *Has been exhuming bodies for Vic*
+- **Ernest**. 56 year old orc. Vic Frankstein's butler and house guard. Scarred features and chipped tusk.
+	- Completely loyal to Vic.
+	- *Homunculus created by Vic.*
+
+# Random Loot
+d6 | Details | Contents
+-- | -- | --
+1 | Tin flask | 1. Water, 2. Cider, 3. Goat’s Milk, 4. Pumpkin Soup
+2 | Glass bottle | 1. Oil, 2. Worms, 3. Slugs, 4. Fingernails
+3 | Leather sack | 1. Caltrops, 2. Nails, 3. Beads, 4. Pumpkin
+4 | Cloth pouch | 1. Buttons, 2. Doll, 3. Bone Dice, 4. Pumpkin Seeds
+5 | Wood box | 1. Candles, 2. Chalk, 3. Fingers, 4. Eyes
+6 | Tool | 1. Shovel, 2. Rope, 3. Grappling hook, 4. Torch
+
+# Enemies
+- **Vic Frankstein**. [Noble](https://5e.tools/bestiary.html#noble_xmm)
+	- AC 15; HP 9; **Rapier**. +3; 5 (1d8+1) piercing; **Parry (RA)**. +2 AC.
+- **Ernest**. [Tough Boss](https://5e.tools/bestiary.html#tough%20boss_xmm)
+	- AC 14; HP 82; Pack tactics. **Negative Nerves I**: Hit by <5 dmg; take none instead.; **x2 Hammer**. +5; 12 (2d8+3) blunt; Large pushed 10ft.
+- **Crawling Hands**. Minions
+	-  AC 12; HP 2; **Immune**: Necrotic, poison, charm, fright; **Slam (GA)**: x+2; 2x necrotic; **Grab (GA)**. DC x+11 DEX save; grappled.
+- **Perfect Creation**. [Flesh golem](https://5e.tools/bestiary.html#flesh%20golem_xmm) with lightning rod in it.
