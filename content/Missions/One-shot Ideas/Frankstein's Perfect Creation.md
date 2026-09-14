@@ -13,8 +13,8 @@ Alphonse Lavenza's head somehow went missing during an autopsy a year ago, and n
 - Vic Frankstein has been experimenting with bringing people back to life using science. He has been stealing body parts and stitching them together. *Ultimate goal is to resurrect his wife*.
 - If the party reveals Vic's actions to the townsfolk, they will take up pitchforks and torches to storm Vic's tower.
 - If they don't out him, he will continue business as usual.
-# The Setting
-Town of Orkney is gloomy—foggy, perpetually overcast. It's also pumpkin season. The wind is gusty as a storm brews as the adventure starts. Lightning strikes a tower on the far end of town.
+# Orkney
+Town is gloomy—foggy, perpetually overcast. Known for pumpkins, which are in season. The wind is gusty as a storm brews when the adventure starts. Lightning strikes a tower on the far end of town.
 # Magic Items
 - [[Potion of Comprehension]]
 - [[Scroll of Darkness]]
@@ -29,15 +29,27 @@ Town of Orkney is gloomy—foggy, perpetually overcast. It's also pumpkin season
 
 # Areas
 ## The Headless Horseman
->Cobweb-infested tavern run by **Robbie Walton**. A **zombie dog** warms itself by the unlit fireplace. A **woman in black** sits in the corner, drinking. Today's special: pumpkin soup 8 cp. Bed — 8sp.
+>Cobweb-infested tavern run by **Robbie Walton**. A **zombie dog** warms itself by the unlit fireplace. An **orc in black** sits in the corner, drinking. 
 
+- Today's special: pumpkin soup 8 cp. Bed — 8sp.
 - **Robbie Walton**. See [[#NPCs]]. Good source of [[#Rumours]].
+	- Rumour: **Ghosts** in cemetery after sunset. Digging sounds—preparing your grave. Felix De Lacey was the last to mention it and now he's dead—coincidence?
+	- Appreciates Vic for saving Seymour. Indifferent otherwise.
+	- *Believes there's nothing wrong with Seymour. DC 20 to break delusion.*
 - **Zombie Dog**. *Seymour*. No one seems to notice or address obvious undead state.
 	- Ear flings off when scratched — "That's normal."
-	- *Killed by a cart and brought back by Vic.*
-- **Safie De Lacey**. Dressed in black. Downing drinks. See [[#NPCs]]
+	- *Killed by a cart and revived by Vic.*
+#### Morgue Progress
+**Safie De Lacey**. Female orc dressed in black. Downing drinks. Just lost her husband and wants to see him one more time. Asks the PCs to check the autopsy progress. Offers to pay for their stay.
+- Husband, Felix, died yesterday.
+- Vic seemed excited when she brought the body in. Commented on its beautiful head.
+- Neutral about Vic so far.
 ## Pumpkins R' Us
 >Souvenir shop run by **Beaufort**. Mostly pumpkin-themed items. He will waive payment in exchange for spying on Vic.
+
+- **Beaufort**. 41 year old orc. Runs general store.
+	- Notes townsfolk who lost loved ones recently: Safie De Lacey, Caroline Lavenza.
+	- Suspicious of Vic—spreads **killed his wife** [[#Rumours|rumour]].
 
 - Water gourd — 3 sp
 - Jack-o'-lantern (lamp) — 10 sp
@@ -45,12 +57,28 @@ Town of Orkney is gloomy—foggy, perpetually overcast. It's also pumpkin season
 - Skull carved into shape of pumpkin — 25 gp
 - Pumpkin compass (points to ripe pumpkins) — 50 gp
 - Pumpkin to Carriage spell: Transforms ordinary pumpkin into a horse-drawn carriage (horse not included); 6 hours (ends early at midnight); Ritual — 200 gp
-## Mortuary
->Run by Clerval. **Office** with coffin display units. Cemetery out back.
+## Surgery & Morgue
+>Run by **Vic Frankstein**. Vic is packing up for the day and only has time for conversations with patients. Otherwise has other business to attend to at home. He carries a briefcase and a **cooler bag**. If a player agrees to a health check for 15sp, he will diagnose them with ligma — it's terminal.
+>
+>**Back room** (locked): A sewn-up cadaver with a missing head lies on an autopsy table. Blood runs from the wound into a bucket. A clipboard with **notes** sits on a desk. **Filing cabinet** against back wall.
 
-- **Clerval**. 
-	- Uses ghost rumours as cover to unearth bodies for Vic.
-	- Condition prevents him from seeing ghosts.
+- **Cooler bag**. Contains Felix De Lacey's head.
+- **Autopsy notes**. "Subject: Felix De Lacey. Age: 36 years. Race: Human. Cause of death: Black Lung. Note: Head missing."
+- **Filing Cabinet**. Locked drawers (DC 13). Reports of past autopsies. All have notes on missing body parts unrelated to cause of death.
+## Mortuary
+>**Office** with coffin display units. Cemetery out back. Run by **Clerval**. **Caroline Lavenza** is here, chatting him up.
+
+- **Clerval**. 68 year old orc. Always wears a necktie. Runs mortuary.
+	- Moved here **a year ago**.
+	- Friendly to Vic. Sees nothing wrong with bodies missing limbs.
+	- Has a crush on Caroline Lavenza.
+	- *Homunculus created by Vic.**Stitch marks** hidden under necktie. Can't see ghosts.*
+	- *Has been exhuming bodies for Vic. Uses ghost rumours as cover*
+- **Caroline Lavenza**. 71 year old human female.
+	- Husband, Alphonse, was previous mortician. Died by **heart attack** last year.
+	- Doesn't like Vic because Alphonse's **head went missing** after autopsy. Funeral was closed casket. "How can a head go missing?"
+	- Clerval reminds her of Alphonse.
+	- *Has a crush on Clerval but denies herself out of respect for Alphonse.*
 - **Office**. Has copies of **autopsy reports** except latest (Felix's).
 
 ## Cemetery
@@ -61,20 +89,15 @@ Town of Orkney is gloomy—foggy, perpetually overcast. It's also pumpkin season
 - **Ghost**. Not immediately aggressive. Can hear but can't speak.
 	- Motions to grave of Alphonse Lavenza, trying to indicate something.
 
-## Surgery & Morgue
->Run by **Vic Frankstein**. Vic is packing up for the day and only has time for conversations with patients. Otherwise has other business to attend to at home. He carries a briefcase and a **cooler bag**. If a player agrees to a health check for 15sp, he will diagnose them with ligma — it's terminal.
->
->**Back room** (locked): A sewn-up cadaver with a missing head lies on an autopsy table. Blood runs from the wound into a bucket. A clipboard with **notes** sits on a desk. **Filing cabinet** against back wall.
-
-- **Cooler bag**. Contains Felix De Lacey's head.
-- **Autopsy notes**. "Subject: Felix De Lacey. Age: 36 years. Race: Human. Cause of death: Black Lung. Note: Head missing."
-- **Filing Cabinet**. Locked drawers (DC 13). Reports of past autopsies. All have notes on missing body parts unrelated to cause of death.
 ## Vic Frankstein's Tower
 >Storm in full effect by the time the party visit. Lightning strikes the roof multiple times.
 ### Ground Floor
 >Dining room leads to extension with a kitchen. Guarded by **Ernest** and four disembodied animated **hands**. A manual **dumbwaiter** is on the far wall.
 
-- **Ernest**. Tries to talk. [[#Negotiations]]. Combat: [Tough Boss](https://5e.tools/bestiary.html#tough%20boss_xmm) with hammer. If hands killed, tries to climb rope up dumbwaiter shaft.
+- **Ernest**. 56 year old orc. Vic Frankstein's butler and house guard. Scarred features and chipped tusk. Tries to talk. [[#Negotiations]]. 
+	- Completely loyal to Vic.
+	- *Homunculus created by Vic.*
+- Combat: [Tough Boss](https://5e.tools/bestiary.html#tough%20boss_xmm) with hammer. If hands killed, tries to climb rope up dumbwaiter shaft.
 	- AC 14; HP 82; Pack tactics. **Negative Nerves I**: Hit by <5 dmg; take none instead.
 	- **x2 Hammer**. +5; 12 (2d8+3) blunt; Large pushed 10ft.
 - **Hands**. Minions
@@ -153,48 +176,36 @@ Liz |
 
 >Vic wants to bring Liz back, using stolen body parts
 - Fresh stitches in Bride's feet.
-- Vera's feet grave robbed 
-- Autopsy notes Vera had nice feet
+- Justine's feet grave robbed 
+- Autopsy notes: Justine had nice feet
 
 >Vic has been experimenting with resurrection for a while.
 - Seymour the dog obviously undead.
 - Clerval is undead.
 - Ernest is undead.
 
->Clerval is homunculus with Alphonse's head 
-- Caroline upset at Vic for losing Reynold's head 
+>Clerval is homunculus with Alphonse's head
+- Hook: Caroline upset at Vic for losing Alphonse's head. Wants closure
 - Clerval showed up soon after Alphonse died—reminds Caroline of Alphonse.
 - Caroline and Clerval have a crush on each other 
 - Clerval hides stitches under necktie
 
 # NPCs
 - **Beaufort**. 41 year old orc. Runs general store.
-	- Notes townsfolk who lost loved ones recently: Safie De Lacey, Caroline Lavenza.
-	- Suspicious of Vic—spreads **killed his wife** [[#Rumours|rumour]].
+	- Suspicious of Vic
 - **Vic Frankstein**. 48 year old human. Town doctor & mortician.
 	- Wife died 7 years ago.
 	- *Keeps wife's head in a pickle jar.*
-- **Safie De Lacey**. Grieving orc widow. Dressed in black.
-	- Husband, Felix, died yesterday.
-	- Vic seemed excited when she brought the body in. Commented on its beautiful head.
-	- Neutral about Vic so far.
-	- *Longs to see Felix one last time. Help her find out when the body will be ready.*
+- **Safie De Lacey**. Grieving orc widow.
+	- Indifferent to Vic
 - **Robbie Walton**. Human bartender. Urgency sales tactics. Good source of [[#Rumours]].
-	- **Ghosts** [[#Rumours|rumour]]
-	- Appreciates Vic for saving Seymour. Indifferent otherwise.
-	- *Believes there's nothing wrong with Seymour. DC 20 to break delusion.*
+	- Likes Vic.
 - **Caroline Lavenza**. 71 year old human female.
 	- Husband, Alphonse, was previous mortician. Died by **heart attack** last year.
-	- Doesn't like Vic because Alphonse's **head went missing** after autopsy. Funeral was closed casket. "How can a head go missing?"
-	- Clerval reminds her of Alphonse.
-	- *Has a crush on Clerval but denies herself out of respect for Alphonse.*
-- **Clerval**. 68 year old orc. Always wears a necktie. Runs mortuary.
-	- Moved here **a year ago**.
+	- Doesn't like Vic because Alphonse's **head went missing** after autopsy.
+- **Clerval**. 68 year old orc. Runs mortuary.
 	- Friendly to Vic. Sees nothing wrong with bodies missing limbs.
-	- Has a crush on Caroline Lavenza.
-	- *Homunculus created by Vic.*
-	- ***Stitch marks** hidden under necktie.*
-	- *Has been exhuming bodies for Vic*
+	- *Homunculus created by Vic. Has been exhuming bodies for him*
 - **Ernest**. 56 year old orc. Vic Frankstein's butler and house guard. Scarred features and chipped tusk.
 	- Completely loyal to Vic.
 	- *Homunculus created by Vic.*

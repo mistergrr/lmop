@@ -68,8 +68,8 @@ The [[Iarno Albrek|Illusive Man]] promises to help locate [[Erynel]] in exchange
 	- [ ] Hellish heart ^obtain-relic3
 ## 7. A Major Victory (Midpoint)
 - [ ] Acquire [[The Angels' Tome]] ^obtain-tome
-	- Location: A dungeon crawl.
-	- **Reward**:
+	- Location: [[Omphalos]]
+	- Fragments of copies have been in circulation, but this is the most complete collection.
 	- The tome's name is kept secret until the party acquires it (skill check to ascertain the name/purpose). But it does give off creepy vibes. Save this for last. If they read the book (written in infernal), they find out its purpose.
 ## 8. Bad Guys Close In
 Thieves and assassins are trying to steal the tome.

@@ -7,7 +7,7 @@ Tags:
   - attune
 ---
 # Description.
-Ancient and illustrious grimoire, bound in the pure hide of a long-extinct unicorn and secured with silver clasps etched with celestial runes. Its pages, brittle and stained with age, are inscribed with incantations and celestial knowledge penned by the hands of forgotten wizards and fallen priests. The book emanates a palpable aura, whispering secrets to those who open it. Legends speak of the tome's origin in the highest levels of heaven, said to contain the power to summon souls that have travelled to the outer planes.
+Ancient and illustrious grimoire, bound in the hide of a unicorn and secured with silver clasps etched with celestial runes. Its pages, brittle and stained with age, are inscribed with incantations and knowledge penned by the hands of forgotten wizards and fallen priests. The book emanates a palpable aura, whispering secrets to those who open it. Legends speak of the tome's origin in the highest levels of heaven, said to contain the power to summon souls that have travelled to the outer planes.
 
 The Tome is protected by magical wards. The only way to destroy it is to plunge it into the [[River Styx]]
 # Attuning to the Tome

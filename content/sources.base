@@ -3,7 +3,7 @@ views:
     name: Magic Items
     filters:
       and:
-        - category == "magic item"
+        - file.tags.contains("lore")
     groupBy:
       property: Type
       direction: ASC
