@@ -47,7 +47,7 @@ Tags:
 
 ## Rewards
 - Find Sildar's gear (+150gp)
-- Join [[The Lord's Alliance]]
+- Join [[Lord's Alliance]]
 - +1 Phandalin #rep
 - Charm of Augury - 3 uses, cast Augury as an action without material components
 -OR-

@@ -10,7 +10,7 @@ Tags:
 - North from [[Waterdeep]]: 18 days
 
 **Location**: [[Starmetal Hills]]
-**Government**: Ardanac Harpell village elder. Member of [[The Lord's Alliance]].
+**Government**: Ardanac Harpell village elder. Member of [[Lord's Alliance]].
 **Population**: 130 (1,100 if outlying farms and ranches are included)
 **Population Diversity**: Human 70%, Halfling 20%, other 10%
 **Languages**: Common, halfling

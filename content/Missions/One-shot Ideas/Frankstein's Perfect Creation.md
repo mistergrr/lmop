@@ -1,8 +1,3 @@
-# To Do
-- [ ] Print Headless Horseman menu
-- [ ] Print Autopsy Report
-- [ ] Stat blocks
-- [ ] town and tower maps
 # Hooks
 The merchant, **Beaufort**, has never liked Vic Frankstein, but has nothing concrete to base his distrust on. He hires the party to spy on Vic to find out what's going on with his mysterious tower.
 
@@ -19,6 +14,7 @@ Town is gloomy—foggy, perpetually overcast. Known for pumpkins, which are in s
 - [[Potion of Comprehension]]
 - [[Scroll of Darkness]]
 - Charm of False Life
+- [[Smoke Bomb]]
 # Rumours & Secrets
 - A few folk actually like Vic. He has raised some of their pets from the dead—barely held together zombie animals, but the owners don't seem to notice.
 - Vic **killed his wife** and chopped her up 7 years ago. (Partially true—he did chop her up).
@@ -163,9 +159,16 @@ Discovery | Higher Authority
 Legacy | Justice
 Liz | 
 
-# Epilogue
-### If Vic set free.
+# Endings
+> [!secret]- If Vic set free.
 >Continues to put Liz back together.
+
+> [!secret]- If no combat.
+> Undead Wyvern swoops in and abducts Victor/monster.
+> Rescue mission in wyvern lair.
+
+> [!secret]- If townspeople clued in.
+> They storm the tower.
 
 # Clues
 >Vic using Felix's head for latest experiment

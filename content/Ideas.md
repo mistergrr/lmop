@@ -8,6 +8,7 @@
 - Give her daggers to promote melee
 - Shadows are nuclear shadows. Flash vaporised, Reanimate.
 - Shadows move to her each round, forcing a move.
+- Boon: (PB/rest) On miss, immediately attack again (no sneak damage).
 
 [[Jargen “Barabbas” Crudd|Barabbas]]
 - Loot
@@ -34,6 +35,7 @@
 - Hired to escort dirty goods.
 - Halloween: The Shining — Look after haunted hotel over winter off-season.
 # General
+- IRL board for quests
 - Quiz night at the tav.
 - Freaky Friday situation. Someone gets a secret admirer. Kiki's delivery service.
 - Character stubby holders - Kmart $15

@@ -7,7 +7,7 @@ Tags:
   - npc/quests
 ---
 **Description**: 200 year old elf cleric of [[Tymora]]
-- *Member of [[The Harpers]]*
+- *Member of [[Harpers]]*
 # Quests:
 * ![[Quests#^banshee-bargain]]
 # Services

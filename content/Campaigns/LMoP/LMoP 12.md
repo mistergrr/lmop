@@ -97,15 +97,15 @@ She reads the letter out loud to inform them what has been happening in town. [[
 
 #rest 
 # Day 13
-[[Eldina Tosscobble|Eldina]] delivers the letter to [[Halia Thornton|Halia]], who inducts [[Eldina Tosscobble|Eldina]] into [[The Zhentarim]].
+[[Eldina Tosscobble|Eldina]] delivers the letter to [[Halia Thornton|Halia]], who inducts [[Eldina Tosscobble|Eldina]] into [[Zhentarim]].
 
-[[Richtor Helmsley III|Richtor]] is also inducted into [[The Lord's Alliance]] when he drops by to see [[Sildar Hallwinter|Sildar]] and to collect the money from [[Gundren Rockseeker|Gundren]]
+[[Richtor Helmsley III|Richtor]] is also inducted into [[Lord's Alliance]] when he drops by to see [[Sildar Hallwinter|Sildar]] and to collect the money from [[Gundren Rockseeker|Gundren]]
 
 In the morning, [[Eldina Tosscobble|Eldina]] and [[Dorian of Galdor]] find their intelligence has decreased by a further two points, so they decide to go back to [[Cragmaw Castle]] to return the stolen goods.
 
 Everyone buys horses.
 # Summary
-The party are stopped by a stranger on the way out of [[Cragmaw Castle]]. He flees during the battle and they return to [[Phandalin|Phandalin]] for great rewards. [[Eldina Tosscobble|Eldina]] investigates [[Harbin Wester]] and uncovers a conspiracy. She's inducted into [[The Zhentarim]] for her finding. [[Richtor Helmsley III|Richtor]] is inducted into [[The Lord's Alliance]] by [[Sildar Hallwinter|Sildar]]. [[Eldina Tosscobble|Eldina]] and [[Dorian of Galdor]] want to return the cursed items to [[Cragmaw Castle]]
+The party are stopped by a stranger on the way out of [[Cragmaw Castle]]. He flees during the battle and they return to [[Phandalin|Phandalin]] for great rewards. [[Eldina Tosscobble|Eldina]] investigates [[Harbin Wester]] and uncovers a conspiracy. She's inducted into [[Zhentarim]] for her finding. [[Richtor Helmsley III|Richtor]] is inducted into [[Lord's Alliance]] by [[Sildar Hallwinter|Sildar]]. [[Eldina Tosscobble|Eldina]] and [[Dorian of Galdor]] want to return the cursed items to [[Cragmaw Castle]]
 ^summary
 # Kills
 [[Dorian Blackthorn]] — 2 Giant Spider

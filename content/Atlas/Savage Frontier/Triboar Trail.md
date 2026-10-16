@@ -1,4 +1,11 @@
 # Encounters
+1. **Beasts** d6: (1) Fungal Wolves (2) Shadow Spiders (3) Wart Hog (4) Dire Bear (5) Owlbear (6) Ankheg
+2. **Monstrosities** d4: (1) Ghouls (2) Ankheg (3) Hooked Ettercap (4) Displacer Beast (5) Shambling Mound (6)
+3. **Monsters** d6: (1) Goblinoids (2) Gnolls (3) Orcs (4) Ogres (5) Ettercap (6) Rot Troll
+4. **Humanoids** d4: (1) Nosy Bandits (2) Cannibal Lumberjacks (3) Lost Pilgrims (4) Angry Dryads (5) [[Uthgardt]] Barbarians (6) [[Owlbear Grylls]]
+5. **Hazard** (d8 damage) d6: (1) Forgotten Trap (2) Falling Tree (3) Mudslide (4) Wildfire (5)   (6) Hallucinogenic Fog
+6. **Obstacle** d4: (1) Ravine (2) River (3) Thunderstorm (4) Webbed Clearing
+
 Distance | Events
 -- | --
 Close | 1
@@ -30,6 +37,7 @@ d6 | Encounter
 8 | [[Shadow Spider]] | Leader with increased hit points and extra damage. | 
 9 | [[Ogre]] | 1 | Cooking
 10-12 | [[Owlbear]] | Hunting (stealth / DC 15 Perception check or surprised)
+
 ## Exploration
 1d6 | Encounter
 -- | --

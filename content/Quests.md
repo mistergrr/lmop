@@ -25,8 +25,8 @@
 	- Turn in: [[Halia Thornton]]
 	- **Reward**:
 		- 100gp
-		- Join [[The Zhentarim]]
-		- +1 [[The Zhentarim]] #rep
+		- Join [[Zhentarim]]
+		- +1 [[Zhentarim]] #rep
 - [x] Finding Iarno ^find-iarno
 	- Task: Find and rescue/return [[Iarno Albrek|Iarno Albrek]]
 	- Location: [[Tresendar Manor History]]
@@ -38,8 +38,8 @@
 	- Turn in: [[Sildar Hallwinter]]
 	- **Reward**:
 		- 200gp
-		- Join [[The Lord's Alliance]]
-		- +1 [[The Lord's Alliance]] #rep
+		- Join [[Lord's Alliance]]
+		- +1 [[Lord's Alliance]] #rep
 - [x] Small Town Wedding 
 	Brandt and Gaelyn are getting married, but town supplies are low thanks to the [[Redbrands]]
 	Tasks: ^town-wedding
@@ -66,7 +66,7 @@
 	- Turn in: [[Sildar Hallwinter|Sildar]]
 	- **Rewards**:
 		- 50gp each, 10% share of Mine's profits
-		- Join [[The Lord's Alliance]]
+		- Join [[Lord's Alliance]]
 		- +1 Phandalin #rep
 - [x] [[Reconsecrate the Altar]]
 	- Task: Reconsecrate the [[Maglubiyet]] altar back to [[Oghma]].
@@ -87,16 +87,16 @@
 	- **Rewards**:
 		- 200xp
 		- 3x potion of healing
-		- Join [[The Harpers]]
-		- +1 [[The Harpers]] #rep
+		- Join [[Harpers]]
+		- +1 [[Harpers]] #rep
 - [x] [[Investigate Harbin]] ^spy-harbin
 	- Tasks:
 		- [x] Break into [[Harbin Wester]]'s home and bring any information that can be used against him.
 	- Turn in: [[Halia Thornton]]
 	- **Reward**:
 		- 100gp
-		- Join [[The Zhentarim]]
-		- +1 [[The Zhentarim]] #rep
+		- Join [[Zhentarim]]
+		- +1 [[Zhentarim]] #rep
 - [ ] Mirna's Heirloom ^mirna-heirloom
 	- Task: Find the emerald necklace in the Herbalist's shop
 	- Location: [[Thundertree|Thundertree]]

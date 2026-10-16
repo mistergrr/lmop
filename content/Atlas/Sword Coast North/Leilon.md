@@ -11,7 +11,7 @@ tags:
 ## (LIE-lon)
 
 **Location**: Sword Coast North
-**Government**: Lord Pelindar Filmyra. Member of [[The Lord's Alliance]]. Firm ally of [[Waterdeep]].
+**Government**: Lord Pelindar Filmyra. Member of [[Lord's Alliance]]. Firm ally of [[Waterdeep]].
 **Population**: 3,000
 **Population Diversity**: Human 80%, other 20%
 **Languages**: Common, dwarfish, creole

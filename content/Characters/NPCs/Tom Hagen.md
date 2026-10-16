@@ -16,7 +16,7 @@ Adopted son trying to fit in.
 - **Voice**: Logical, gentle
 - **Description**: Receding blonde hairline
 ## Backstory:
-**Consigliere** ((pronounced _kon-seel-yeh-reh_) literally translates to "counsellor" or "advisor") to the [[Iarno Albrek|Illusive Man]]. Adopted runaway. Followed [[Iarno Albrek|Illusive Man]] into [[The Lord's Alliance]] and again when he went independent. 
+**Consigliere** ((pronounced _kon-seel-yeh-reh_) literally translates to "counsellor" or "advisor") to the [[Iarno Albrek|Illusive Man]]. Adopted runaway. Followed [[Iarno Albrek|Illusive Man]] into [[Lord's Alliance]] and again when he went independent. 
 # Motivations/Pitfalls
 **Motivations**
 - Higher authority

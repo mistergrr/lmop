@@ -40,4 +40,4 @@ Despite their warmth and the prevalence of fish, turtles, and other aquatic life
 - Salmon
 - Pissfish
 
-Ettercap, Displacer Beast, Corpse Flowers, Rot Trolls, Eladrin (any season), Ogre Battering Ram, Ogre Chain Brute, Gnolls - Witherling, Hunter, Flind, Flesh Gnawer, etc, Warlocks of the Archfey, Hags, Ankhegs, Blights, Centaur, Dryads, Owlbears, Salamanders, Shambling Mounds, Treant
+Ettercap, Displacer Beast, Corpse Flowers, Rot Trolls, Eladrin (any season), Ogre Battering Ram, Ogre Chain Brute, Gnolls - Witherling, Hunter, Flind, Flesh Gnawer, etc, Warlocks of the Archfey, Hags, Blights, Centaur, Dryads, Salamanders, Shambling Mounds, Treant

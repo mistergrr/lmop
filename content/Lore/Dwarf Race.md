@@ -24,6 +24,11 @@ Deep comradery and time-honoured **traditions**. **Structured**, meaningful. **F
 Dwarves find joy in goblin hunts — sport and duty. 
 
 Stone-hauling, axe-throwing, anvil-heaving.
+
+# Farming
+Most think dwarfs only mine—they are also **excellent farmers**. How else to they feed their holds or brew ales? Adept at growing crop in low-fertility mountain terraces. (Root veggies and cold-tolerant grain).
+
+Some rear **Giant Goats** for wool, rope, meat, milk, cheese, mounts, and as beasts of burden.
 # Womenfolk
 Dwarf women are born at a rate of only one or two per every ten births. They're as strong as the men — some have even ruled as queens, though it's usually **temporary** as tradition dictates a suitable husband is found.
 

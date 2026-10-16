@@ -6,6 +6,8 @@ Town | 501-5,000 | 2,000gp
 City | 5k+ | 200,000gp
 
 ## Defining Traits
+D20 | Trait
+-- | --
 1-2  | Lots of mud, filth, litter
 3-4 | Sprawling Cemetery
 5-6 | Lingering Fog

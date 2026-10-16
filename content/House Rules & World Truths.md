@@ -7,6 +7,8 @@
 - Health potions outside combat restore max roll
 - One Roll: Roll attack and all damage dice together. If it wasn't in the roll, you don't do it this round.
 - Inventory slot system
+- Spending 1 Hit Die consumes 1 ration
+- Max rations = STR score
 - Nat 1s gain worldbuilding token
 - Strength (Intimidation) 
 - Sleeping in armour gains exhaustion

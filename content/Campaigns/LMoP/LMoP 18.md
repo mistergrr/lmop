@@ -103,7 +103,7 @@ The party attack the [[Redbrands]]. [[Grrurika]] goes for the hobgoblin, but he'
 
 One of the [[Redbrands]] carries a letter from [[Iarno Albrek|Glasstaff]] that mentions an assassination plot on [[Harbin Wester]]. The party decide they don't have time to deal with it, but hand it over to [[Sildar Hallwinter]]
 
-The hobgoblin turns out to be a friend of [[Ziggywix Tinkerton|Ziggywix]]. His name is [[Jargen “Barabbas” Crudd]]. He volunteers to join the party in order to atone for his past and spread good. meanwhile, [[Richtor Helmsley III]] announces he's heading off on his own path to join [[The Lord's Alliance]] and help [[Sildar Hallwinter|Sildar]].
+The hobgoblin turns out to be a friend of [[Ziggywix Tinkerton|Ziggywix]]. His name is [[Jargen “Barabbas” Crudd]]. He volunteers to join the party in order to atone for his past and spread good. meanwhile, [[Richtor Helmsley III]] announces he's heading off on his own path to join [[Lord's Alliance]] and help [[Sildar Hallwinter|Sildar]].
 
 They sleep at the tavern. #rest
 

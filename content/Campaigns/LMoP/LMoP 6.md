@@ -17,7 +17,7 @@ Day:
 # Meeting Dorian
 Jordan join with [[Dorian of Galdor]]. The party, having cleared [[Tresendar Manor History]] head back to town to see what's left to do. Aric and Korah leave, called by Aric's patron. The rest come across the last of the [[Redbrands]] who are ready to fight after seeing the bodies in town square. [[Dorian of Galdor]] happens to be passing through and spots his old friend, [[Eldina Tosscobble]] and joins the fight.
 
-**Quests complete and rewards**:  [[Quests#^eliminate-redbrands|Halia's Job Offer]] 100gp + join [[The Zhentarim]], [[Quests#^find-iarno|Finding Iarno]]: 200gp
+**Quests complete and rewards**:  [[Quests#^eliminate-redbrands|Halia's Job Offer]] 100gp + join [[Zhentarim]], [[Quests#^find-iarno|Finding Iarno]]: 200gp
 
 [[Tresendar Manor History]] is for sale for 1,000gp. Alternatively, small estates can be bought for 200gp.
 
@@ -81,7 +81,7 @@ Sheepishly, everyone goes back to [[Ziggywix's house]] to return the letter. He'
 [[Eldina Tosscobble|Eldon]] hugs [[Ziggywix Tinkerton|Ziggywix]] and [[Thia Galanodel|Thia]] promises to fix the window.
 
 # Summary
-The party wipe out the last of the [[Redbrands]]. [[Dorian of Galdor]] joins the team. [[Sildar Hallwinter|Sildar]] sends [[Iarno Albrek|Iarno's]] letter to [[The Lord's Alliance]]. The party find [[Ziggywix's letter]]. [[Dorian of Galdor|Dorian]] and [[Eldina Tosscobble|Eldon]] are hungover. [[Thia Galanodel|Thia]] promised to fix [[Ziggywix Tinkerton|Ziggywix's]] window.
+The party wipe out the last of the [[Redbrands]]. [[Dorian of Galdor]] joins the team. [[Sildar Hallwinter|Sildar]] sends [[Iarno Albrek|Iarno's]] letter to [[Lord's Alliance]]. The party find [[Ziggywix's letter]]. [[Dorian of Galdor|Dorian]] and [[Eldina Tosscobble|Eldon]] are hungover. [[Thia Galanodel|Thia]] promised to fix [[Ziggywix Tinkerton|Ziggywix's]] window.
 ^summary
 # Kills
 [[Dorian of Galdor]]: 3 Redbrands, 1 [[Bugbear]]

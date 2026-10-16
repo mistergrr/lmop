@@ -7,7 +7,7 @@ Location: Sword Coast North
 # Summary
 A rugged Atlantic-European frontier town: green hills, pine forest, wet summers, cold rainy winters, occasional snow, and mountains looming nearby. Village northeast of [[Leilon]]. Road that runs from the High Road to [[Triboar]] turns into a trail.
 
-**Government**: Town master Harbin & local sheriffs Sildar & Richtor. In process of joining [[The Lord's Alliance]]
+**Government**: Town master Harbin & local sheriffs Sildar & Richtor. In process of joining [[Lord's Alliance]]
 **Population**: 300 and growing 
 **Population Diversity**: Humans (60%), Dwarfs (20%) Other (20%)
 **Languages**: Common, dwarfish, gnomish
@@ -31,9 +31,9 @@ A rugged Atlantic-European frontier town: green hills, pine forest, wet summers,
 	- Current sheriff of Phandalin
 - [[Harbin Wester]]
 - [[Sister Garaele]]. 200 year old elf cleric of [[Tymora]]
-	- *Member of [[The Harpers]]. Regularly reports to her superiors on events in and around Phandalin. In her absence, the shrine is left untended*.
+	- *Member of [[Harpers]]. Regularly reports to her superiors on events in and around Phandalin. In her absence, the shrine is left untended*.
 - [[Halia Thornton]]. Miner's Exchange guild master
-	- *[[The Zhentarim]] agent*
+	- *[[Zhentarim]] agent*
 - [[Ziggywix Tinkerton]]. 72 year old gnome. Speaks like a NY mob member.
 	- Helps [[Eldina Tosscobble]] run [[The Wee Inn]].
 	- *Sexual deviant*
@@ -78,7 +78,7 @@ Made of stones from nearby **ruins**. Dedicated to [[Tymora]] (goddess of luck a
 	- **Minor Miracles**. In return for any donation, spell with no material cost: *cure wounds*, *dispel magic*, or *lesser restoration*.
 	- **Greater Restoration**. Diamond worth 200 GP.
 	- **Revivify**. Diamond worth 500 GP. (Can't be dead more than 10 days).
-	- *Member of [[The Harpers]]. Regularly reports to her superiors on events in and around Phandalin. In her absence, the shrine is left untended*.
+	- *Member of [[Harpers]]. Regularly reports to her superiors on events in and around Phandalin. In her absence, the shrine is left untended*.
 ## Stonehill Inn
 Modest, two-story roadhouse. Six rooms for rent. Proprietor Toblen Stonehill.
 - **Toblen Stonehill**. Human male. Short & friendly.
@@ -103,7 +103,7 @@ Run by [[Sildar Hallwinter]] and [[Richtor Helmsley III]], with townmaster [[Har
 - Guards need training.
 - Security tax & night watch volunteering.
 ## Zhentarim/Eldina
-[[Halia Thornton]] is working slowly to bring Phandalin under [[The Zhentarim]] control, and she can become a valuable patron to adventurers who don't cross her. [[Eldina Tosscobble]] gets missions and information through her. Payouts usually in information or power.
+[[Halia Thornton]] is working slowly to bring Phandalin under [[Zhentarim]] control, and she can become a valuable patron to adventurers who don't cross her. [[Eldina Tosscobble]] gets missions and information through her. Payouts usually in information or power.
 >Members are expected to carry out missions to maintain membership.
 
 ### Zhentarim Jobs
@@ -113,7 +113,7 @@ Located at the [[#Miner's Exchange]]. Main source of town's income. Yearly membe
 - [[Halia Thornton|Halia]] needs help securing trade routes. Refined iron to [[Leilon]] and charcoal from [[Neverwinter Wood]]. Logging rights.
 - [ ] [[Cragmaw Cave]] converted to [[Logger's Camp]] and charcoal-burning camp.
 # Other Developments
-- [[The Lord's Alliance]] want a lord in Phandalin — elected or installed. Party vote. ([[Richtor Helmsley III]]?)
+- [[Lord's Alliance]] want a lord in Phandalin — elected or installed. Party vote. ([[Richtor Helmsley III]]?)
 - Mithral was mined in [[Wave Echo Cave]]
 - 20% population growth per month.
 # Taxation

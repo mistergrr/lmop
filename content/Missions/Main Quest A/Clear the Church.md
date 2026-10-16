@@ -61,13 +61,21 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## Wandering Encounters
 1d6 | Encounter
 -- | --
-1 | Fleeing Monk
-2 | Imps
-3 | Cult Fanatic
-4 | Spined Devils
-5 | Bearded Devil
-6 | Barbed Devil
+1 | 1d4 Fleeing Monks
+2 | 2d4+1 Imps
+3 | 1d6 Cult Fanatic
+4 | 2d4 Spined Devils
+5 | 1d4 Bearded Devil
+6 | 1 Barbed Devil
 
+# Random Loot
+1d4 | Container | Item (d4)
+-- | -- | --
+1 | Tin flask | (1) water, (2) goat's milk, (3) urine, (4) mayonnaise
+2 | Glass bottle | (1) oil, (2) worms, (3) slugs, (4) fingernails
+3 | Leather pouch | (1) caltrops, (2) nails, (3) prayer beads, (4) divination card
+4 | Wood box | (1) shrunken head, (2) jade elephant, (3) chalk, (4) candles
+# Areas
 ![[Longsaddle-Abbey.jpg]]
 ## A1.	Gatehouse.
 >Two-story stone structure. Open gateway. Statue of dragon and plaque, reading “Bahamut” in draconic. Guarded by 2 [[Devils#Spined Devil|Spined Devils]] and 2 **Cult Fanatics**.
@@ -117,7 +125,7 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A14. Kitchen.
 >Blood trail leads from [[#A3. Stables.]] (DC 13) Chopping and hacking sounds. 4 humans carve a horse in preparation to cook a **stew**. Melted and strained animal fat poured into candle moulds.
 - **Stew** is cabbage, onions, peas, beans.
-- **Humans**. Wield cleavers (1d6).
+- **Cultists**. Wield cleavers (1d6).
 ## A15. Refectory.
 >Dining hall. **1d4+2 Imps** and **2d6 Cult Acolytes** play cards, eat.
 - **Imps** drinking wine (immune poison). The humans complain they're not allowed to drink.
@@ -125,7 +133,7 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A16. Warming Room.
 >Large fireplace warms the room. Religious art torn down and thrown into fire. Furniture (benches, thick curtains, robe-drying rack). Only heated room besides kitchen. **2 Imps** play in the fire.
 - **Imps**. Turn invisible or shapeshift. Fight with hot pokers (1d4 fire) if attacked.
-- **Loot**. Lamp oil, torches, fireplace tools (poker, kindling, tongs).
+- **Items**. Lamp oil, torches, fireplace tools (poker, kindling, tongs).
 ## A17. Choir Monks’ Dorms.
 >10 cots. Humans are resting in them. Another **door** in the back.
 - **2d6 Cult Fanatics** resting. Carry *Book of Ashmadai* and coins (115 cp, 100 sp, 2 gp).
@@ -144,6 +152,7 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 ## A20. Chapter House.
 >A **cultist** practices giving a sermon to **3 Lemures** here.
 - **Worship Leader**. Bol Shawnz. Wants to prove himself to Wodd Tight.
+	- Bronze bangle (25gp), vial of acid.
 ## A21. Library.
 >Signs of [[Iarno Albrek|Glasstaff]]. **Glass bookcase** line walls.
 - **Book** on [[Bahamut]] with notes scribbled/highlighted/circled. Erynel poem on parchment.
@@ -159,7 +168,7 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 - **North transept**. Silver chalice inlaid with lapis lazuli, flask of **Holy Water**.
 - **South transept**. Stairs lead up to [[#A25 Abbott's Quarters]].
 - **Altar**. Draconic writing across the front. Command word "*Laas Yah Nir*" to open; (DC 15 STR) Move altar.
-- **Youth Leader** Wodd Tight: [[Obsidian Knife]], [[Scroll of Protection from Fiends]].
+- **Youth Leader** Wodd Tight: [[Obsidian Knife]], [[Scroll of Protection from Fiends]], Garnet ring (100gp)
 - **Cultists**. 10 Acolytes, 2 Fanatics, 2 Spined Devils, 1 worship leader.
 - **Summoned Devil**
 	- [[Devils#Bearded Devil (Barbazu)]]: HP 58, AC 13 (CR 3)

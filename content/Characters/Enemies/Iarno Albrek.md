@@ -19,14 +19,14 @@ Loss and holding on.
 # Backstory:
 - Former member of the Lord's Alliance. Used his connections and influence to expand his network and power. Originally tasked with setting up a constabulary in [[Phandalin|Phandalin]], he instead assembled a group of outlaws to secure his position in the town.
 - Had a son, [[Deuteronomy Albrek]], who died. Hasn't been the same since. Blames himself for not being able to protect his son.
-- Knew of [[The Black Spider]] through his contacts in [[The Lord's Alliance]] and brokered a meeting. The drow promised access to [[Omphalos]] and the library there in exchange for his help and loyalty.
+- Knew of [[The Black Spider]] through his contacts in [[Lord's Alliance]] and brokered a meeting. The drow promised access to [[Omphalos]] and the library there in exchange for his help and loyalty.
 # Main desire/fear. How it affects their behaviour
 - Trying to revive his dead son, [[Deuteronomy Albrek]]. He hears his son calling out to him in his sleep. His son's spirit is in the [[Arborea]].
-- He's willing to give up his values as a former member of [[The Lord's Alliance]] in order to bring his son back.
+- He's willing to give up his values as a former member of [[Lord's Alliance]] in order to bring his son back.
 - He's helping [[The Black Spider]] reclaim [[Omphalos]] in order to gain access to [[The Angels' Tome]].
 
 # Contrasting/conflicting/unexpected aspect?
-- Still holds values from his time in [[The Lord's Alliance]], but is willing to drop them if it means getting his son back. He's still conflicted by his decisions, however.
+- Still holds values from his time in [[Lord's Alliance]], but is willing to drop them if it means getting his son back. He's still conflicted by his decisions, however.
 
 # Role in Story:
 His [[Redbrands]] were eliminated from [[Phandalin]] by the party in [[LMoP 5]], and he has fled into hiding. He holds only a minor grudge and, instead of removing the party, has figured out he should *use* them to his own ends. He becomes the party's elusive patron; giving them quests and rewards via a messenger. The quests for the party are the tasks he was going to give the Redbrands.

@@ -30,6 +30,9 @@
 - **Empowered by Death**. Creature within 30ft dies; regain CR × 2 HP.
 - Relish Your Failure (Trait). Creature within 50ft fails a save; Gain 1/2 CR THP. If already have THP, instead regain HP, up to their HP max.
 
+# General Lore
+**DC 15** Neither fire nor poison harms them, and even magical darkness doesn’t impede their vision.
+
 # Imp
 Spies & emissaries for more powerful devils. Mortals often make bargains, thinking the weak devils are easy to control. Ultimately prove their loyalties lie with the Lords of the Nine. Devious and deadly mischief-makers. Take pleasure in tricking mortals into harming one another.
 ## Tactics

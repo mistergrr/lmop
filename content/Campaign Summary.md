@@ -16,7 +16,7 @@
 ![[LMoP 7#^summary]]
 ## [[LMoP 8]]: Helm's Hold & Capt. Dorian
 ![[LMoP 8#^summary]]
-## [[LMoP 9]]: Ruby Roo
+## [[LMoP 9]]: Hallowe'en 2024
 ![[LMoP 9#^summary]]
 ## [[LMoP 10]]: To Cragmaw Castle
 ![[LMoP 10#^summary]]
@@ -54,7 +54,7 @@
 ![[LMoP 26#^summary]]
 ## [[LMoP 27]]: Who Wants to be a Wizardaire
 ![[LMoP 27#^summary]]
-## [[LMoP 28]]: 
+## [[LMoP 28]]: Hallowe'en 2026
 ![[LMoP 28#^summary]]
 ## [[LMoP 29]]: 
 ![[LMoP 29#^summary]]
