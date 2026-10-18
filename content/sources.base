@@ -2,8 +2,9 @@ views:
   - type: table
     name: Magic Items
     filters:
-      and:
+      or:
         - file.tags.contains("lore")
+        - Category == "magic item"
     groupBy:
       property: Type
       direction: ASC
@@ -31,20 +32,7 @@ views:
     columnSize:
       file.name: 228
       note.geography: 121
-  - type: table
-    name: Locations (Local)
-    filters:
-      and:
-        - category == "Location"
-        - location == this.asLink()
-    order:
-      - file.name
-      - geography
-      - location
-    columnSize:
-      file.name: 228
-      note.geography: 121
-  - type: table
+  - type: cards
     name: Deities
     filters:
       and:
@@ -55,12 +43,11 @@ views:
     columnSize:
       file.name: 497
       note.tags: 648
-  - type: table
+  - type: list
     name: Factions
     filters:
       or:
         - Category == "Faction"
-        - Category == "Deity"
     order:
       - file.name
-      - Category
+    markers: number

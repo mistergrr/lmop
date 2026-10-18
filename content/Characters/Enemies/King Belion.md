@@ -9,6 +9,7 @@ Tags:
 ---
 # Theme
 Xenophobic/god complex
+- Look up Irish myth about Balor.
 # Distinguishing Trait
 - **Age**: 500 years
 - **Voice**: 

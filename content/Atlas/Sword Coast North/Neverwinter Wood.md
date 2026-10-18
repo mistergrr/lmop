@@ -41,3 +41,11 @@ Despite their warmth and the prevalence of fish, turtles, and other aquatic life
 - Pissfish
 
 Ettercap, Displacer Beast, Corpse Flowers, Rot Trolls, Eladrin (any season), Ogre Battering Ram, Ogre Chain Brute, Gnolls - Witherling, Hunter, Flind, Flesh Gnawer, etc, Warlocks of the Archfey, Hags, Blights, Centaur, Dryads, Salamanders, Shambling Mounds, Treant
+
+# 2d6 Encounters
+1. **Group of**: (1) goblins, (2) hobgoblins, (3) orcs, (4) bandits, (5) necromancers, (6) [[Uthgardt]].
+2. **Pack of**: (1) fungal wolves, (2) shadow spiders, (3) necrophages, (4) hungry boars, (5) deer/elk, (6) grouse.
+3. **Solo**: (1) dire bear, (2) owlbear, (3) ankheg, (4) ogre, (5) rot troll, (6) dragon.
+4. **NPC**: (1) [[Owlbear Grylls]], (2) merchant, (3) lost adventurers, (4) druids, (5) Rob Boss (painter), (6) Barbas the dog.
+5. **Hazard** (d8 damage): (1) forgotten trap, (2) falling tree, (3) mudslide, (4) wildfire, (5) lightning storm  (6) hallucinogenic fog.
+6. **Monument**: (1) otherworldly fire pillar (2) runescribed elven domination arch (3) flooded divine ruin, (4) flying earthmote, (5) cracked goblinoid antimagic tower, (6) ancient undead battlefield

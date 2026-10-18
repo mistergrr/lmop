@@ -73,7 +73,7 @@ Clear them out so that the place may be reconsecrated. Players don't need to rec
 -- | -- | --
 1 | Tin flask | (1) water, (2) goat's milk, (3) urine, (4) mayonnaise
 2 | Glass bottle | (1) oil, (2) worms, (3) slugs, (4) fingernails
-3 | Leather pouch | (1) caltrops, (2) nails, (3) prayer beads, (4) divination card
+3 | Leather pouch | (1) caltrops, (2) nails, (3) prayer beads, (4) [[Barabbas Tarot Cards]]
 4 | Wood box | (1) shrunken head, (2) jade elephant, (3) chalk, (4) candles
 # Areas
 ![[Longsaddle-Abbey.jpg]]
