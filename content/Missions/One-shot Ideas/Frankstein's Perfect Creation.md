@@ -13,13 +13,14 @@ Town is gloomy—foggy, perpetually overcast. Known for pumpkins, which are in s
 # Magic Items
 - [[Potion of Comprehension]]
 - [[Scroll of Darkness]]
-- Charm of False Life
+- [[Charm of False Life]]
 - [[Smoke Bomb]]
 # Rumours & Secrets
 - A few folk actually like Vic. He has raised some of their pets from the dead—barely held together zombie animals, but the owners don't seem to notice.
 - Vic **killed his wife** and chopped her up 7 years ago. (Partially true—he did chop her up).
 - **Lightning** never strikes anywhere but Vic's tower. 
 - **Ghosts** in cemetery after sunset. Digging sounds—preparing your grave. Felix De Lacey was the last to mention it and now he's dead—coincidence?
+- Vic once saved the town from a wyvern by poisoning it.
 - Vic has been **bragging** about being "so close to perfection."
 - *Deceased have had body parts mysteriously go missing after autopsies*.
 
@@ -52,6 +53,7 @@ Town is gloomy—foggy, perpetually overcast. Known for pumpkins, which are in s
 - Pumpkin backpack — 30 sp
 - Skull carved into shape of pumpkin — 25 gp
 - Pumpkin compass (points to ripe pumpkins) — 50 gp
+- [[Ghostspeak Amulet]] — 50 gp
 - Pumpkin to Carriage spell: Transforms ordinary pumpkin into a horse-drawn carriage (horse not included); 6 hours (ends early at midnight); Ritual — 200 gp
 ## Surgery & Morgue
 >Run by **Vic Frankstein**. Vic is packing up for the day and only has time for conversations with patients. Otherwise has other business to attend to at home. He carries a briefcase and a **cooler bag**. If a player agrees to a health check for 15sp, he will diagnose them with ligma — it's terminal.
@@ -76,6 +78,7 @@ Town is gloomy—foggy, perpetually overcast. Known for pumpkins, which are in s
 	- Clerval reminds her of Alphonse.
 	- *Has a crush on Clerval but denies herself out of respect for Alphonse.*
 - **Office**. Has copies of **autopsy reports** except latest (Felix's).
+	- [[Charm of False Life]] — gain 2d4 + 4 THP.
 
 ## Cemetery
 >**Tombstones** and **graves**. A headless **ghost** wanders here at night.
@@ -84,6 +87,7 @@ Town is gloomy—foggy, perpetually overcast. Known for pumpkins, which are in s
 	- *Justine Shelley's body had feet removed very recently.*
 - **Ghost**. Not immediately aggressive. Can hear but can't speak.
 	- Motions to grave of Alphonse Lavenza, trying to indicate something.
+	- Will show location of [[Smoke Bomb]] if they show kindness.
 
 ## Vic Frankstein's Tower
 >Storm in full effect by the time the party visit. Lightning strikes the roof multiple times.
@@ -106,12 +110,12 @@ Town is gloomy—foggy, perpetually overcast. Known for pumpkins, which are in s
 ### Basement
 ![[Frankstein-Basement.jpg]]
 (Illustrated by Bernie Wrightson)
->Ice tub with partially assembled female **body**. Bunsen burners. **Shelves** with pickled body parts and organs.
+>Large table with partially assembled female **body**. Bunsen burners. **Shelves** with pickled body parts and organs.
 
 - **Body**. Missing head and right arm. Left arm has a wedding **ring**.
 	- **Ring**. Engraved "Vic & Liz, 1463"
 	- Fresh stitches around ankles. Feet don't match calves.
-- **Shelves**. [[Scroll of Darkness]], Charm of False Life.
+- **Shelves**. [[Scroll of Darkness]].
 
 ### First Floor | Study & library
 >Complete mess of books and beakers. Birdcage with an undead **parrot** — will sound an **alarm** on failed persuasion.
